@@ -13,6 +13,7 @@
 - 🚁 亏本机场（9 块钱一年）：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
 - 🚁 赔钱机场（8 块钱一年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 七七机场（6 块钱一个月）：https://xn--7gqa191eduq.com/auth/register?code=AnXf
+- 🚁 白嫖机场（15块钱一年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 三毛机场（3 块钱一年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 一分机场（12 块钱一年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 三分机场（9.5 一年）：https://xn--ehq00hgtfdmt.xyz/#/register?code=RZEBtDk8
