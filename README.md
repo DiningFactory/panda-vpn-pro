@@ -6,17 +6,17 @@
 😭 对于熊猫跑路我最大的教训就是：这类价格几百块的东西不要随意充年费（富哥随意）。
 
 👍 以下机场都是我使用的价格较低的机场，基本都使用了好几个月，总体算稳定。不过，**虽然价格低，但也不建议买多**，两三个足矣。买多首先你用不完，其次是，这些便宜的机场由于价格低，也是会有跑路的风险。而我买的多主要是为了测试用。注意，以下机场**排名不分先后**，具体买什么自己考虑清楚再买 💖：
-- 🚁 八方云（20 块钱一年）：https://user.bafang.vip/#/register?code=hOmKARXJ
+- 🚁 八方云（19.99 一年）：https://user.bafang.vip/#/register?code=hOmKARXJ
 - 🚁 慈善机场（8.99 一年）：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
 - 🚁 极速云（3 块钱一个月）：https://xn--9kqu12djx2a.net/#/register?code=Epas84rT
 - 🚁 云洞（10 块钱一个月）：https://www.gw-yundong.com/#/register?code=h5OF1MbS
+- 🚁 冲浪猫（9.9 一年）：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 亏本机场（9 块钱一年）：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
 - 🚁 赔钱机场（8 块钱一年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 七七机场（6 块钱一个月）：https://xn--7gqa191eduq.com/auth/register?code=AnXf
 - 🚁 白嫖机场（15块钱一年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 三毛机场（3 块钱一年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 一分机场（12 块钱一年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
-- 🚁 三分机场（9.5 一年）：https://xn--ehq00hgtfdmt.xyz/#/register?code=RZEBtDk8
 
 👀 更多套餐请在官网各家机场官网查看。另外，套餐的价格可能会发生变动，我如果知道会更新，但不一定会及时，具体以官网为主。还有，初次使用机场的小伙伴可能会发现各家机场的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 v2board。
 
