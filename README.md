@@ -7,7 +7,7 @@
 👍 以下机场都是我使用的价格较低的机场，基本都使用了好几个月，总体算稳定。不过，**虽然价格低，但也不建议买多**，两三个足矣。买多首先你用不完，其次是，这些便宜的机场由于价格低，也是会有跑路的风险。而我买的多主要是为了测试用。注意，以下机场**排名不分先后**，具体买什么自己考虑清楚再买 💖：
 - 🚁 八方云（19.99 一年）：https://user.bafang.vip/#/register?code=hOmKARXJ
 - 🚁 慈善机场（8.99 一年）：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
-- 🚁 极速云（3 块钱一个月）：https://xn--9kqu12djx2a.net/#/register?code=Epas84rT
+- 🚁 极速云（3 块钱一个月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 云洞（10 块钱一个月）：https://www.gw-yundong.com/#/register?code=h5OF1MbS
 - 🚁 冲浪猫（9.9 一年）：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 亏本机场（9 块钱一年）：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
