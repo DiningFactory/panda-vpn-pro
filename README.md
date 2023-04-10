@@ -10,6 +10,7 @@
 - 🚁 极速云（3 ￥ / 月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 云洞（10 ￥ / 月）：https://www.gw-yundong.com/#/register?code=h5OF1MbS
 - 🚁 冲浪猫（9.9 ￥ / 月）：https://www.clcat.net/#/register?code=d6os6Lzi
+- 🚁 LeTu（5 ￥ / 月）：https://letuclash.top/#/register?code=Gm8ajyV2
 - 🚁 亏本机场（9 ￥ /年）：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
 - 🚁 赔钱机场（8 ￥ / 年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 七七机场（6 ￥ / 月）：https://xn--7gqa191eduq.com/auth/register?code=AnXf
