@@ -5,7 +5,7 @@
 😭 对于熊猫跑路我最大的教训就是：这类价格几百块的东西不要随意充年费（富哥随意）。
 
 👍 以下机场都是我使用的价格较低的机场，基本都使用了好几个月，总体算稳定。不过，**虽然价格低，但也不建议买多**，两三个足矣。买多首先你用不完，其次是，这些便宜的机场由于价格低，也是会有跑路的风险。而我买的多主要是为了测试用。**对于月付 10 ￥ 左右的不建议按年购买，按月购买即可，防止跑路时损失过大**。注意，以下机场**排名不分先后**，具体买什么自己考虑清楚再买 💖：
-- 🚁 八方云（19.99 ￥ / 年）：https://user.bafang.vip/#/register?code=hOmKARXJ
+- 🚁 八方云（12 ￥ / 年）：https://user.bafang.vip/#/register?code=hOmKARXJ
 - 🚁 慈善机场（8.99 ￥ / 年）：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
 - 🚁 极速云（3 ￥ / 月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 云洞（10 ￥ / 月）：https://www.gw-yundong.com/#/register?code=h5OF1MbS
