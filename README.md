@@ -15,7 +15,7 @@
 - 🚁 七七机场（6 块钱一个月）：https://xn--7gqa191eduq.com/auth/register?code=AnXf
 - 🚁 白嫖机场（15块钱一年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 三毛机场（3 块钱一年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
-- 🚁 一分机场（12 块钱一年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
+- 🚁 一分机场（12 块钱一年）：https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh
 
 👀 **点击上方链接可以进入各家官网查看更多套餐**。另外，套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 v2board。
 
