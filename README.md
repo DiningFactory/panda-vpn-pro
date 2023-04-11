@@ -8,13 +8,13 @@
 - 🚁 八方云（12 ￥ / 年）：https://user.bafang.vip/#/register?code=hOmKARXJ
 - 🚁 慈善机场（8.99 ￥ / 年）：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
 - 🚁 极速云（3 ￥ / 月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
+- 🚁 白嫖机场（15 ￥ / 年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 云洞（20 ￥ / 月）：https://www.gw-yundong.com/#/register?code=h5OF1MbS
 - 🚁 冲浪猫（9.9 ￥ / 月）：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 LeTu（5 ￥ / 月）：https://letuclash.top/#/register?code=Gm8ajyV2
 - 🚁 亏本机场（9 ￥ /年）：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
 - 🚁 赔钱机场（8 ￥ / 年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 七七机场（6 ￥ / 月）：https://xn--7gqa191eduq.com/auth/register?code=AnXf
-- 🚁 白嫖机场（15 ￥ / 年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 三毛机场（3 ￥ / 年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 一分机场（12 ￥ / 年）：https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh
 
