@@ -16,7 +16,7 @@
 - 🚁 [2023.02.05] 三毛机场（3 ￥ / 年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 [2023.02.09] 极速云（3 ￥ / 月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 [2023.02.15] 慈善机场（8.99 ￥ / 年）：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
-- 🚁 [2023.02.20] LeTu（5 ￥ / 月）：https://letuclash.top/#/register?code=Gm8ajyV2
+- 🚁 [2023.02.20] LeTu（5 ￥ / 月）：https://letuclash.top/index.php#/register?code=Gm8ajyV2
 - 🚁 [2023.03.09] 亏本机场（9 ￥ /年）：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
 
 👀 **点击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 v2board。
