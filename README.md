@@ -1,6 +1,6 @@
 # 低价机场推荐
 
-> 📌⚡⚡⚡⚡📌 重要通知：七七机场最近正在进行账号转移。**购买了七七机场的小伙伴请务必在 5 月 1 日前** [点击此处前往查看如何进行账号转移](https://xn--7gqa191eduq.com/user)
+> 📌⚡⚡⚡⚡📌 **重要通知：**七七机场最近正在进行账号转移。**4 月 14 日前购买了七七机场的小伙伴请务必在 5 月 1 日前** [点击此处前往查看如何进行账号转移](https://xn--7gqa191eduq.com/user)。另外该机场现在更名为“新七七机场”。
 
 ⚡⚡⚡⚡：机场不适合用来打游戏！需求主要在打游戏的人建议绕道寻找专门的游戏加速器，机场是很难满足这一需求的。原因与速度无关，换言之，不是说机场速度快就能用来打游戏，只有对游戏的线路作了专门的优化才适合，然而这不是机场的“责任”，这是加速器的“责任”。
 
@@ -15,7 +15,7 @@
 - 🚁 [2022.11.24] 白嫖机场（15 ￥ / 年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 [2022.12.07] 一分机场（12 ￥ / 年）：https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh
 - 🚁 [2022.12.12] 冲浪猫（9.9 ￥ / 月）：https://www.clcat.net/#/register?code=d6os6Lzi
-- 🚁 [2023.01.17] 七七机场（6 ￥ / 月）：https://xn--7gqa191eduq.com/auth/register?code=AnXf
+- 🚁 [2023.01.17] 新七七机场（6 ￥ / 月）：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
 - 🚁 [2023.02.05] 三毛机场（3 ￥ / 年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 [2023.02.09] 极速云（3 ￥ / 月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 [2023.02.15] 慈善机场（8.99 ￥ / 年）：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
