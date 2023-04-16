@@ -9,9 +9,10 @@
 😭 对于熊猫跑路我最大的教训就是：这类价格几百块的东西不要随意充年费（富哥随意）。
 
 👍 以下机场都是我使用的价格较低的机场，基本都使用了好几个月，总体算稳定。不过，**虽然价格低，但也不建议买多**，两三个足矣。买多首先你用不完，其次是，这些便宜的机场由于价格低，也是会有跑路的风险。而我买的多主要是为了测试用。**对于月付 10 ￥ 左右的不建议按年购买，按月购买即可，防止跑路时损失过大**。注意，以下机场**排名仅代表机场创建日期先后，不表示体验好坏**，`[]` **内即是机场建立的日期（实际时间可能会更早）**，具体买什么自己考虑清楚再买 💖：
-- 🚁 [2020.11.13] 魔戒（14.9 / 130 GB / 不限时）：https://www.mojie.me/#/register?code=WTsWNdvY 
+- 🚁 [2020.11.13] 魔戒（14.9 ￥ / 130 GB / 不限时）：https://www.mojie.me/#/register?code=WTsWNdvY 
 - 🚁 [2022.05.10] Spcloud（10 ￥ / 月）：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
 - 🚁 [2022.09.18] 八方云（12 ￥ / 年）：https://user.bafang.vip/#/register?code=hOmKARXJ
+- 🚁 [2022.09.25] 两元店（7 ￥ / 季）：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
 - 🚁 [2022.11.06] 赔钱机场（8 ￥ / 年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 [2022.11.24] 白嫖机场（15 ￥ / 年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 [2022.12.07] 一分机场（12 ￥ / 年）：https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh
