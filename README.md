@@ -15,9 +15,9 @@
 - 🚁 [2022.09.18] 八方云（12 ￥ / 年）：https://user.bafang.vip/#/register?code=hOmKARXJ
 - 🚁 [2022.09.25] 两元店（7 ￥ / 季）：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
 - 🚁 [2022.11.06] 赔钱机场（8 ￥ / 年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
+- 🚁 [2022.11.11] 冲浪猫（9.9 ￥ / 月）：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2022.11.24] 白嫖机场（15 ￥ / 年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 [2022.12.07] 一分机场（12 ￥ / 年）：https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh
-- 🚁 [2022.12.12] 冲浪猫（9.9 ￥ / 月）：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2023.01.17] 新七七机场（6 ￥ / 月）：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
 - 🚁 [2023.02.05] 三毛机场（3 ￥ / 年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 [2023.02.09] 极速云（3 ￥ / 月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
