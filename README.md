@@ -22,7 +22,7 @@
 - 🚁 [2023.02.09] 极速云（3 ￥ / 月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 [2023.02.15] 慈善机场（8.99 ￥ / 年）：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
 - 🚁 [2023.02.20] 黑丝机场（5 ￥ / 月）：https://letuclash.top/index.php#/register?code=Gm8ajyV2
-- 🚁 [2023.02.20] （这两天节点出现了问题，尚未修复完成，也可能是跑路。目前请勿购买）嫖鸭（5 ￥ / 年）：https://xn--04s008m.com/#/register?code=8gNivWx5
+- 🚁 [2023.02.20] 嫖鸭（5 ￥ / 年）：https://xn--04s008m.com/#/register?code=8gNivWx5
 - 🚁 [2023.03.09] 亏本机场（9 ￥ / 年）：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
 - 🚁 [2023.04:05] 高速机场（9 ￥ / 年）：https://xn--mes358al14ay7i.com/#/register?code=DzvNXRF2
 
