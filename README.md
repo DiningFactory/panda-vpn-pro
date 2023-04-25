@@ -14,7 +14,7 @@
 - 🚁 [2022.05.10] Spcloud（10 ￥ / 月）：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
 - 🚁 [2022.09.18] 八方云（12 ￥ / 年）：https://user.bafang.vip/#/register?code=hOmKARXJ
 - 🚁 [2022.09.25] 两元店（7 ￥ / 季）：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
-- 🚁 [2022.11.06] 赔钱机场（从现在到起 5 月 5 日期间使用优惠码 `guzhe` 可打 5 折优惠，部分套餐不可使用该优惠码）（8 ￥ / 年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
+- 🚁 [2022.11.06] 赔钱机场（从现在起到 5 月 5 日期间使用优惠码 `guzhe` 可打 5 折优惠，部分套餐不可使用该优惠码）（8 ￥ / 年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 [2022.11.11] 冲浪猫（9.9 ￥ / 月）：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2022.11.24] 白嫖机场（15 ￥ / 年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 [2023.01.17] 新七七机场（6 ￥ / 月）：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
@@ -24,7 +24,7 @@
 - 🚁 [2023.02.20] 黑丝机场（5 ￥ / 月）：https://letuclash.top/index.php#/register?code=Gm8ajyV2
 - 🚁 [2023.02.20] 嫖鸭（5 ￥ / 年）：https://xn--04s008m.com/#/register?code=8gNivWx5
 - 🚁 [2023.03.09] 亏本机场（9 ￥ / 年）：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
-- 🚁 [2023.04:05] 高速机场（从现在起到 5 月 31 日期间使用优惠码 `dazhe50` 可打 5 折优惠，部分套餐不可使用该优惠码）（9 ￥ / 年）：https://xn--mes358al14ay7i.com/#/register?code=DzvNXRF2
+- 🚁 [2023.04.05] 高速机场（从现在起到 5 月 31 日期间使用优惠码 `dazhe50` 可打 5 折优惠，部分套餐不可使用该优惠码）（9 ￥ / 年）：https://xn--mes358al14ay7i.com/#/register?code=DzvNXRF2
 
 👀 以上所列举的套餐属于最低价格或者是我觉得比较实惠的，**击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 `v2board`。
 
