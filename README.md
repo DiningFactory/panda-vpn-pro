@@ -12,7 +12,7 @@
 - 🚁 [2020.07.04] 次元雲（15 ￥ / 128 GB / 不限时）：https://ciyy.cc/#/register?code=3nFNP6Ui
 - 🚁 [2020.11.13] 魔戒（14.9 ￥ / 130 GB / 不限时）：https://www.mojie.me/#/register?code=WTsWNdvY 
 - 🚁 [2022.05.10] Spcloud（10 ￥ / 月）：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
-- 🚁 [2022.09.18] 八方云（12 ￥ / 年）：https://user.bafang.vip/#/register?code=hOmKARXJ
+- 🚁 [2022.09.18] 八方云（从现在起到 5 月 2 日期间使用优惠码 `bafang51` 可打 8 折优惠，部分套餐不可使用该优惠码）（12 ￥ / 年）：https://user.bafang.vip/#/register?code=hOmKARXJ
 - 🚁 [2022.09.25] 两元店（7 ￥ / 季）：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
 - 🚁 [2022.11.06] 赔钱机场（从现在起到 5 月 5 日期间使用优惠码 `guzhe` 可打 5 折优惠，部分套餐不可使用该优惠码）（8 ￥ / 年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 [2022.11.11] 冲浪猫（9.9 ￥ / 月）：https://www.clcat.net/#/register?code=d6os6Lzi
