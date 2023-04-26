@@ -25,7 +25,7 @@
 - 🚁 [2023.02.20] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;99 GB) --- 黑丝机场：https://letuclash.top/index.php#/register?code=Gm8ajyV2
 - 🚁 [2023.02.20] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 嫖鸭：https://xn--04s008m.com/#/register?code=8gNivWx5
 - 🚁 [2023.03.09] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1111 GB) --- 亏本机场：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
-- 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp&nbsp;;500 GB) --- 高速机场『从现在起到 5 月 31 日期间使用优惠码 `dazhe50` 可打 5 折优惠，部分套餐不可使用该优惠码』：https://xn--mes358al14ay7i.com/#/register?code=DzvNXRF2
+- 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场『从现在起到 5 月 31 日期间使用优惠码 `dazhe50` 可打 5 折优惠，部分套餐不可使用该优惠码』：https://xn--mes358al14ay7i.com/#/register?code=DzvNXRF2
 
 👀 以上所列举的套餐属于最低价格或者是我觉得比较实惠的，**击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 `v2board`。
 
