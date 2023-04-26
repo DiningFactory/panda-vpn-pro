@@ -17,7 +17,7 @@
 - 🚁 [2022.11.06] 赔钱机场（从现在起到 5 月 5 日期间使用优惠码 `guzhe` 可打 5 折优惠，部分套餐不可使用该优惠码）（8 ￥ / 年）：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 [2022.11.11] 冲浪猫（9.9 ￥ / 月）：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2022.11.24] 白嫖机场（15 ￥ / 年）：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
-- 🚁 [2023.01.17] 新七七机场（6 ￥ / 月）：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
+- 🚁 [2023.01.17] 新七七机场（从现在起到 5 月 3 日期间使用优惠码 `qiqiyun51` 可打 8 折优惠，部分套餐不可使用该优惠码）（6 ￥ / 月）：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
 - 🚁 [2023.02.05] 三毛机场（3 ￥ / 年）：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 [2023.02.09] 极速云（3 ￥ / 月）：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 [2023.02.15] 慈善机场（8.99 ￥ / 年）：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
