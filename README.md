@@ -16,6 +16,7 @@
 - 🚁 [2022.09.25] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;季&nbsp;&nbsp; / 1024 GB) --- 两元店：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
 - 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场『从现在起到 5 月 5 日期间使用优惠码 `guzhe` 可打 5 折优惠，部分套餐不可使用该优惠码』：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：https://www.clcat.net/#/register?code=d6os6Lzi
+- 🚁 [2022.11.15] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- 彩云『从现在起到 5 月 3 日期间使用优惠码 `51` 可打 8 折优惠，所有套餐均可使用该优惠码』：https://caiyun.pro/#/register?code=gQ1gBtwq
 - 🚁 [2022.11.24] --- (15.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1000 GB) --- 白嫖机场：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 [2023.01.17] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;800 GB) --- 新七七机场『从现在起到 5 月 3 日期间使用优惠码 `qiqiyun51` 可打 8 折优惠，部分套餐不可使用该优惠码』：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
 - 🚁 [2023.02.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 三毛机场：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
