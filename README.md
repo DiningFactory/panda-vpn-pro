@@ -20,7 +20,7 @@
 - 🚁 [2023.02.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 三毛机场：https://xn--ehqx7tcnnope.com/#/register?code=6YYxqO54
 - 🚁 [2023.02.09] --- ( &nbsp;3.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 极速云：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 [2023.02.15] --- ( &nbsp;8.99 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 慈善机场：https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY
-- 🚁 [2023.02.20] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;99 GB) --- 黑丝机场：https://letuclash.top/index.php#/register?code=Gm8ajyV2
+- 🚁 [2023.02.20] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;99 GB) --- 黑丝机场『**5 月 5 日前**使用优惠码 `黑丝庆五一` 可打 **5 折优惠**，部分套餐不可使用该优惠码』：https://letuclash.top/index.php#/register?code=Gm8ajyV2
 - 🚁 [2023.02.20] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 嫖鸭：https://xn--04s008m.com/#/register?code=8gNivWx5
 - 🚁 [2023.03.09] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1111 GB) --- 亏本机场：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
 - 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场『**5 月 31 日前**使用优惠码 `dazhe50` 可打 **5 折优惠**，部分套餐不可使用该优惠码』：https://xn--mes358al14ay7i.com/#/register?code=DzvNXRF2
