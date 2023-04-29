@@ -13,7 +13,7 @@
 - 🚁 [2022.09.18] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 八方云『**部分**套餐 **5 月 2 日前**使用优惠码 `bafang51` 可打 **8 折优惠**』：https://user.bafang.vip/#/register?code=hOmKARXJ。
 - 🚁 [2022.09.25] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;季&nbsp;&nbsp; / 1024 GB) --- 两元店：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
 - 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场『**部分**套餐 **5 月 5 日前**使用优惠码 `guzhe` 可打 **5 折优惠**』：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
-- 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：https://www.clcat.net/#/register?code=d6os6Lzi
+- 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫『**所有**套餐 **5 月 3 日前**使用优惠码 `msclm77` 可打 **7.7 折优惠**』：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2022.11.15] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- 彩云『**所有**套餐 **5 月 3 日前**使用优惠码 `51` 可打 **8 折优惠**』：https://caiyun.pro/#/register?code=gQ1gBtwq
 - 🚁 [2022.11.24] --- (15.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1000 GB) --- 白嫖机场：https://xn--mesv7f5toqlp.com/#/register?code=OJv3ONxw
 - 🚁 [2023.01.17] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;800 GB) --- 新七七机场『**部分**套餐 **5 月 3 日前**使用优惠码 `qiqiyun51` 可打 **8 折优惠**』：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
@@ -25,7 +25,7 @@
 - 🚁 [2023.03.09] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1111 GB) --- 亏本机场：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
 - 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场『**部分**套餐 **5 月 31 日前**使用优惠码 `dazhe50` 可打 **5 折优惠**』：https://xn--mes358al14ay7i.com/#/register?code=DzvNXRF2
 
-👀 以上所列举的套餐属于最低价格或者是我觉得比较实惠的，**击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 `v2board`。
+👀 以上所列举的套餐属于最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 `v2board`。
 
 💡 **市面上几乎所有的机场都不支持同时拥有两个及以上的套餐**。如果在同一个机场想购买多个套餐，需要另外注册新的账号，否则，旧套餐将被新套餐“覆盖”。如果不明白“覆盖”的意思，那么可以看一下这个例子：假如我购买了 A 套餐，然后我在 A 套餐有效期内又购买了 B 套餐，那么此时 A 就会被 B 所覆盖，即我现在只拥有 B 套餐。
 
