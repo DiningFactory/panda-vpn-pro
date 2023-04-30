@@ -12,6 +12,7 @@
 - 🚁 [2022.04.16] --- (12.50 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- 泡泡狗『**部分**套餐 **5 月 3 日前**使用优惠码 `51` 可打 **8 折优惠**』：https://www.paopao.dog/#/register?code=GFn4E13k
 - 🚁 [2022.05.10] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
 - 🚁 [2022.09.18] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 八方云『**部分**套餐 **5 月 2 日前**使用优惠码 `bafang51` 可打 **8 折优惠**』：https://user.bafang.vip/#/register?code=hOmKARXJ。
+- 🚁 [2022.09.22] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;350 GB) --- EFCloud：https://invite.efshop.cc/#/register?code=SlAeYNUI
 - 🚁 [2022.09.25] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;季&nbsp;&nbsp; / 1024 GB) --- 两元店：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
 - 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场『**部分**套餐 **5 月 5 日前**使用优惠码 `guzhe` 可打 **5 折优惠**』：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫『**所有**套餐 **5 月 3 日前**使用优惠码 `msclm77` 可打 **7.7 折优惠**』：https://www.clcat.net/#/register?code=d6os6Lzi
