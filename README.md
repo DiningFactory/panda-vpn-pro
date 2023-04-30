@@ -7,7 +7,7 @@
 😭 对于熊猫跑路我最大的教训就是：这类价格几百块的东西不要随意充年费（富哥随意）。
 
 👍 以下机场都是我使用的价格较低的机场，基本都使用了好几个月，总体算稳定。不过，**虽然价格低**，**但也不建议买多**，两三个足矣。买多首先你用不完，其次是，这些便宜的机场由于价格低，也是会有跑路的风险。而我买的多主要是为了测试用。**对于月付 10 ￥ 左右的不建议按年购买**，**按月购买即可**，**防止跑路时损失过大**。注意，以下机场**排名仅代表机场创建日期先后**，**不表示体验好坏**，`[]` **内即是机场建立的日期（实际时间可能会更早）**。**除了永久套餐以外**，**`()` 内中的流量指的是每月的流量**，**如 `(10 ￥ / 年 / 100 GB)` 表示的是“套餐总价格 10 元**，**有效期一年**，**每个月有 100 GB 的流量**，**实际总流量为 1200 GB”**。具体购买什么请各位考虑清楚再购买：
-- 🚁 [2020.07.04] --- (15.00 ￥ / 永久 / &nbsp;&nbsp;128 GB) --- 次元雲：https://ciyy.cc/#/register?code=3nFNP6Ui
+- 🚁 [2020.07.04] --- (15.00 ￥ / 永久 / &nbsp;&nbsp;128 GB) --- 次元雲：https://ciyy.cc/#/register?code=1f2uoWPb
 - 🚁 [2020.11.13] --- (14.90 ￥ / 永久 / &nbsp;&nbsp;130 GB) --- 魔戒：https://www.mojie.me/#/register?code=WTsWNdvY 
 - 🚁 [2022.05.10] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
 - 🚁 [2022.09.18] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 八方云『**部分**套餐 **5 月 2 日前**使用优惠码 `bafang51` 可打 **8 折优惠**』：https://user.bafang.vip/#/register?code=hOmKARXJ。
@@ -23,7 +23,7 @@
 - 🚁 [2023.02.20] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;99 GB) --- 黑丝机场『**部分**套餐 **5 月 5 日前**使用优惠码 `黑丝庆五一` 可打 **5 折优惠**』：https://letuclash.top/index.php#/register?code=Gm8ajyV2
 - 🚁 [2023.02.20] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 嫖鸭：https://xn--04s008m.com/#/register?code=8gNivWx5
 - 🚁 [2023.03.09] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1111 GB) --- 亏本机场：https://xn--7kq24s4ynvb.com/#/register?code=zGeNpeNZ
-- 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场『**部分**套餐 **5 月 31 日前**使用优惠码 `dazhe50` 可打 **5 折优惠**』：https://xn--mes358al14ay7i.com/#/register?code=DzvNXRF2
+- 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场『**部分**套餐 **5 月 31 日前**使用优惠码 `dazhe50` 可打 **5 折优惠**』：https://xn--mes358al14ay7i.com/#/register?code=WElbQ7EE
 
 👀 以上所列举的套餐属于最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 `v2board`。
 
