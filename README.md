@@ -19,7 +19,6 @@
 - 🚁 [2022.09.18] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 八方云『此机场最近正在增加服务器负载能力，在此期间，**部分**套餐使用优惠码 `bafang5` 可打 **5 折优惠**』：https://user.bafang.vip/#/register?code=hOmKARXJ。
 - 🚁 [2022.09.22] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;350 GB) --- EFCloud：https://invite.efshop.cc/#/register?code=SlAeYNUI
 - 🚁 [2022.09.25] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;季&nbsp;&nbsp; / 1024 GB) --- 两元店：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
-- 🚁 [2022.10.14] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / 5000 GB) --- 三分机场：https://xn--ehq00hgtfdmt.xyz/#/register?code=vLQHCKUu
 - 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场『**部分**套餐 **5 月 5 日前**使用优惠码 `guzhe` 可打 **5 折优惠**』：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫『**所有**套餐 **5 月 3 日前**使用优惠码 `msclm77` 可打 **7.7 折优惠**』：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2022.11.15] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- 彩云『**所有**套餐 **5 月 3 日前**使用优惠码 `51` 可打 **8 折优惠**』：https://caiyun.pro/#/register?code=gQ1gBtwq
