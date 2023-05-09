@@ -9,7 +9,6 @@
 🧐 浅谈一下关于机场与 VPN 的区别。由于这两者都可以翻墙，再加上使用了机场之后，手机状态栏显示的依然是 `VPN` 的字样，所以很多人会把它们混为一谈，然而，这两者并不相同。不过，可以把它们统称为“科学上网工具”，或者是“梯子”。VPN 产生的年代还没有 GFW 的存在，它的作用主要是为了加密通讯，而机场诞生于 GFW 的建立之后，专门用于科学上网。VPN 与机场都能对数据进行加密，但是，VPN 纯粹是为了加密而加密，它并不专门用于绕过 GFW 的探测，而机场的加密则是专门为了绕过 GFW 的探测。这也正是 VPN 近几年来越来越不行了的原因，因为它的流量特征早已被 GFW 掌握，你的上网流量在经过 VPN 的代理之后，虽然 GFW 可能无法完全知道其中的内容，但是，它一定能够知道你这上网流量是“有问题的”，所以很容易给“干掉”，像 `Express VPN` 这种价格极高的国外知名 VPN，翻墙效果也是不理想的，当然，不是说它知道了你的流量异常就一定会截断你的通信，这要看 GFW 的心情（高度）。因此，哪怕你认为我所推荐的低价机场不行，我也不推荐你使用 `Express VPN`，`Nord VPN` 这类高价 VPN，VPN 的受众群体是需要保护隐私的人（尤其是外国人），这也正是那些居住在没有 GFW 的国家的人需要使用 VPN 的原因之一。同样的价格，高价机场绝对比高价 VPN 的翻墙效果好。另外，有些 VPN 其实只是套壳机场节点，本质上就是机场。**VPN 与机场的区别可以简单理解为**：**VPN 与机场技术的实现所使用的协议不同**，**前者主要用于加密**，**后者主要用于翻墙**。
 
 👍 以下机场都是我使用的价格较低的机场，基本都使用了好几个月，总体算稳定。不过，**虽然价格低**，**但也不建议买多**，两三个足矣。买多首先你用不完，其次是，这些便宜的机场由于价格低，也是会有跑路的风险。而我买的多主要是为了测试用。**对于月付 10 ￥ 左右的不建议按年购买**，**按月购买即可**，**防止跑路时损失过大**。注意，以下机场**排名仅代表机场创建日期先后**，**不表示体验好坏**，`[]` **内即是机场建立的日期（实际时间可能会更早）**。**除了永久套餐以外**，**`()` 内中的流量指的是每月的流量**，**如 `(10 ￥ / 年 / 100 GB)` 表示的是“套餐总价格 10 元**，**有效期一年**，**每个月有 100 GB 的流量**，**实际总流量为 1200 GB”**。具体购买什么请各位考虑清楚再购买：
-- 🚁 [2020.06.19] --- (13.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Speed17|放心云：https://speed17.com/#/register?code=6lshLUWx
 - 🚁 [2020.07.04] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;128 GB) --- 次元雲：https://ciyy.cc/#/register?code=tsL8Me6h
 - 🚁 [2020.11.13] --- (14.90 ￥ / 永久 / &nbsp;&nbsp;130 GB) --- 魔戒：https://www.mojie.me/#/register?code=WTsWNdvY 
 - 🚁 [2021.12.08] --- (14.99 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;90 GB) --- Nice  Cloud『**所有**套餐 **5 月 30 日前**使用优惠码 `nice8zhe` 可打 **8 折优惠**』：https://nicecloud.me/index.php#/register?code=uLksVwxv
@@ -18,7 +17,6 @@
 - 🚁 [2022.05.10] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
 - 🚁 [2022.09.18] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 八方云：https://user.bafang.vip/#/register?code=hOmKARXJ。
 - 🚁 [2022.09.22] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;350 GB) --- EFCloud：https://invite.efshop.cc/#/register?code=SlAeYNUI
-- 🚁 [2022.09.25] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;季&nbsp;&nbsp; / 1024 GB) --- 两元店：https://xn--5hqx9equq.com/#/register?code=QFgHmy3h
 - 🚁 [2022.10.14] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / 5000 GB) --- 三分机场：https://xn--ehq00hgtfdmt.xyz/#/register?code=vLQHCKUu
 - 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：https://www.clcat.net/#/register?code=d6os6Lzi
