@@ -15,7 +15,7 @@
 - 🚁 [2022.04.16] --- (12.50 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- 泡泡狗：https://www.paopao.dog/#/register?code=GFn4E13k
 - 🚁 [2022.05.10] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
 - 🚁 [2022.09.18] --- ( &nbsp;7.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 农家有风小院〖新用户免费试用两天〗：https://v2.hjl772vps.top/#/register?code=Q6jDXrlT
-- 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场：https://xn--mes358aby2apfg.com/#/register?code=IcLuJa2q
+- 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场：https://xn--mes358aby2apfg.com/#/register?code=C6AXgaiJ
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2022.11.15] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- 彩云：https://caiyun.pro/#/register?code=gQ1gBtwq
 - 🚁 [2022.12.07] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 一分机场：https://xn--4gqx1hgtfdmt.com/#/register?code=epawbyVs
