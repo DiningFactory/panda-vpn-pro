@@ -20,7 +20,7 @@
 - 🚁 [2022.11.15] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- 彩云：https://caiyun.pro/#/register?code=gQ1gBtwq
 - 🚁 [2022.12.07] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 一分机场：https://xn--4gqx1hgtfdmt.com/#/register?code=epawbyVs
 - 🚁 [2023.01.14] --- ( &nbsp;7.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;100 GB) --- 量子链『**部分**套餐 **5 月 31 日前**使用优惠码 `20236688` 可打 **9 折优惠**』：https://www.liyhk.com/#/register?code=b2M2hspH
-- 🚁 [2023.01.17] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;600 GB) --- 七七云：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
+- 🚁 [2023.01.17] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;600 GB) --- 七七云【此机场最近与某机场发生了矛盾，目前已无法进入官网，节点也掉了一大半，疑似顶不住各种压力，有跑路的可能】：https://xn--7gqa191eduq.com/#/register?code=izDKZsjy
 - 🚁 [2023.02.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 三毛机场：https://xn--ehqx7tcnnope.com/#/register?code=Jw3A8g81
 - 🚁 [2023.02.09] --- ( &nbsp;3.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 极速云：https://www.jisuyun6.com/#/register?code=itBEd8gN
 - 🚁 [2023.02.15] --- ( &nbsp;8.99 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 慈善机场：https://xn--30rs3bu7r87f.com/#/register?code=7xq8aqoD
