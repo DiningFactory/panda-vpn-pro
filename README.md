@@ -14,7 +14,7 @@
 - 🚁 [2022.04.13] --- ( &nbsp;9.88 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 美汁源『**6 月 7 日前**对于**非不限时**套餐使用优惠码 `20%HYQ-1` 可打 **8 折**优惠，对于**不限时**套餐使用优惠码 `15%HYQ-1` 可打 **8.5 折**优惠』：https://meizhiyuan.cc/index.php#/register?code=dO3dDy7G
 - 🚁 [2022.04.16] --- (12.50 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- 泡泡狗：https://www.paopao.dog/#/register?code=GFn4E13k
 - 🚁 [2022.05.10] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
-- 🚁 [2022.09.18] --- ( &nbsp;7.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 农家有风小院〖新用户免费试用两天〗：https://v2.hjl772vps.top/#/register?code=Q6jDXrlT
+- 🚁 [2022.09.18] --- ( &nbsp;7.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 农家有风小院〖新用户免费试用两天〗：https://v2.hjl772vps.top/#/register?code=HM6zXeOP
 - 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场『**所有**套餐 **6 月 6 日前**使用优惠码 `我要过61` 可打 **6 折**优惠』：https://xn--mes358aby2apfg.com/#/register?code=C6AXgaiJ
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2022.11.15] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- 彩云：https://caiyun.pro/#/register?code=gQ1gBtwq
