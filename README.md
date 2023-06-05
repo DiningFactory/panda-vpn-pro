@@ -15,7 +15,7 @@
 - 🚁 [2022.04.16] --- (12.50 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- 泡泡狗：https://www.paopao.dog/#/register?code=GFn4E13k
 - 🚁 [2022.05.10] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：https://www.spcloud.cc/index.php#/register?code=yg4YkPbp
 - 🚁 [2022.09.18] --- ( &nbsp;7.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 农家有风小院〖新用户免费试用 2 天〗：https://v2.hjl772vps.top/#/register?code=HM6zXeOP
-- 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场『**所有**套餐 **6 月 6 日前**使用优惠码 `我要过61` 可打 **6 折**优惠』：https://xn--mes358aby2apfg.com/#/register?code=C6AXgaiJ
+- 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场：https://xn--mes358aby2apfg.com/#/register?code=C6AXgaiJ
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：https://www.clcat.net/#/register?code=d6os6Lzi
 - 🚁 [2022.11.15] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- 彩云：https://caiyun.pro/#/register?code=gQ1gBtwq
 - 🚁 [2022.12.07] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 一分机场『**所有**套餐使用优惠码 `yhq` 可打 **7 折**优惠』：https://xn--4gqx1hgtfdmt.com/#/register?code=epawbyVs
@@ -25,7 +25,7 @@
 - 🚁 [2023.02.15] --- ( &nbsp;8.99 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 慈善机场：https://xn--30rs3bu7r87f.com/#/register?code=7xq8aqoD
 - 🚁 [2023.02.20] --- ( &nbsp;3.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- TOPTCP：https://letuclash.top/index.php#/register?code=Gm8ajyV2
 - 🚁 [2023.03.09] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1111 GB) --- 亏本机场：https://xn--7kq24s4ynvb.com/#/register?code=ubUpvpLP
-- 🚁 [2023.03.21] --- ( &nbsp;4.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;800 GB) --- 稳连云：https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3
+- 🚁 [2023.03.21] --- ( &nbsp;4.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;800 GB) --- 稳连云：https://xn--9kqq77hqun.com/#/register?code=TiTVq7pp
 - 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场：https://xn--mes358al14ay7i.com/#/register?code=uX7ufZYz
 
 👀 以上所列举的套餐属于最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，这是很正常的，因为页面基本都是用了相同的开源项目，比如 `v2board`。
