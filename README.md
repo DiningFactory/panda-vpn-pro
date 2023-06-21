@@ -27,6 +27,7 @@
 - 🚁 [2023.02.20] --- (15.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 黑丝云：https://letuclash.top/index.php#/register?code=Gm8ajyV2
 - 🚁 [2023.03.09] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / 1111 GB) --- 亏本机场：https://xn--7kq24s4ynvb.site/#/register?code=ubUpvpLP
 - 🚁 [2023.03.21] --- ( &nbsp;4.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;800 GB) --- 稳连云『**所有**套餐使用优惠码 `wenlian` 可打 **7 折**优惠』：https://xn--9kqq77hqun.com/#/register?code=TiTVq7pp
+- 🚁 [2023.03.30] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;300 GB) --- COO NETWORK：https://web.coo.wiki/#/register?code=IB5Iv7XL
 - 🚁 [2023.04.05] --- ( &nbsp;9.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场：https://xn--mes358al14ay7i.site/#/register?code=uX7ufZYz
 - 🚁 [2023.06.05] --- (15.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;188 GB) --- 忆远Cloud：https://client.yy8s.top/#/register?code=8pcxen7V
 
