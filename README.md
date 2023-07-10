@@ -14,7 +14,7 @@
 - 🚁 [2022.04.13] --- ( &nbsp;9.88 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 美汁源：https://meizhiyuan.cc/index.php#/register?code=dO3dDy7G
 - 🚁 [2022.04.16] --- (12.50 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- 泡泡狗：https://www.paopao.dog/#/register?code=GFn4E13k
 - 🚁 [2022.05.10] ---  (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：https://www.spcloud.cc/#/register?code=yg4YkPbp
-- 🚁 [2022.09.18] --- ( &nbsp;7.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 农家有风小院〖新用户免费试用 2 天〗：https://v2.hjl772vps.top/#/register?code=HM6zXeOP
+- 🚁 [2022.09.18] --- ( &nbsp;7.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 农家有风小院〖新用户免费试用 2 天〗：https://v2.hjl772vps.top/#/register?code=Q6jDXrlT
 - 🚁 [2022.10.24] --- ( &nbsp;8.80 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;88 GB) --- 雨燕云〖新用户免费试用 8 小时〗：https://yuyan.online/#/register?code=MKZS5XCq
 - 🚁 [2022.11.06] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 赔钱机场『**所有**套餐使用优惠券 `free50` 可打 **5 折**优惠』：https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm
 - 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：https://www.clcat.net/#/register?code=d6os6Lzi
