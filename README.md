@@ -12,7 +12,7 @@
 - 🚁 [2019.03.17] --- (15.99 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;300 GB) --- SACLOUD〖新用户免费试用 5 小时〗：https://sacyun.co/index.php/#/register?code=1YIbUxet
 - 🚁 [2020.07.04] --- (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;128 GB) --- 次元雲：https://ciyy.cc/#/register?code=dKavGnDc
 - 🚁 [2020.11.13] --- (14.90 ￥ / 永久 / &nbsp;&nbsp;130 GB) --- 魔戒：https://www.mojie.me/#/register?code=WTsWNdvY 
-- 🚁 [2022.04.13] --- ( &nbsp;9.88 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 美汁源：https://meizhiyuan.cc/index.php#/register?code=dO3dDy7G
+- 🚁 [2022.04.13] --- ( &nbsp;9.88 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 美汁源：https://meizhiyuan.cc/index.php#/register?code=7dv01jTa
 - 🚁 [2022.04.16] --- (12.50 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- 泡泡狗：https://www.paopao.dog/#/register?code=GFn4E13k
 - 🚁 [2022.05.10] ---  (10.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Spcloud：https://www.spcloud.cc/#/register?code=yg4YkPbp
 - 🚁 [2022.09.18] --- ( &nbsp;7.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 农家有风小院〖新用户免费试用 2 天〗：https://v2.hjl772vps.top/#/register?code=Q6jDXrlT
