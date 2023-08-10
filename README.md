@@ -29,7 +29,7 @@
 - 🚁 [2023.03.09] --- (18.80 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 亏本机场：https://xn--7kq24s4ynvb.site/#/register?code=ubUpvpLP
 - 🚁 [2023.03.21] --- ( &nbsp;4.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;800 GB) --- 稳连云：https://xn--9kqq77hqun.com/#/register?code=RYPIGiJ5
 - 🚁 [2023.03.29] --- ( &nbsp;9.99 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / 1000 GB) --- FacMata〖新用户免费试用 30 分钟〗：https://entrance.facmata.net/#/register?code=RhMhPwBc
-- 🚁 [2023.03.30] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;300 GB) --- COO NETWORK：https://web.coo.wiki/#/register?code=IB5Iv7XL
+- 🚁 [2023.03.30] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;300 GB) --- COO NETWORK：https://web.coo.wiki/#/register?code=HCNO40po
 - 🚁 [2023.04.05] --- (18.80 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 高速机场：https://xn--mes358al14ay7i.site/#/register?code=uX7ufZYz
 - 🚁 [2023.05.05] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- OvO：https://ovofast.com/#/register?code=0pI5OPXj
 - 🚁 [2023.06.01] --- ( &nbsp;4.99 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Pokemon〖新用户免费试用 3 小时〗：https://v2.pikachu.cyou/#/register?code=8N8x3mJH
