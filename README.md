@@ -23,7 +23,7 @@
 - 🚁 [2022.12.07] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 一分机场：https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh
 - 🚁 [2022.12.28] --- (11.11 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- BBCloud〖新用户免费试用 1 天〗：https://panel.upsystem.top/#/register?code=5lc7ZdL6
 - 🚁 [2023.02.08] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;110 GB) --- Max 加速〖新用户免费试用 1 天〗：https://global.maxbyte.net/?code=xvFe9zon
-- 🚁 [2023.02.09] --- ( &nbsp;3.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 极速云：https://www.xn--9kqu12djx2a.me/#/register?code=Dyia9ZHi
+- 🚁 [2023.02.09] --- ( &nbsp;3.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 极速云：https://xn--9kqu12djx2a.me/#/register?code=7YIdiaZA
 - 🚁 [2023.02.15] --- ( &nbsp;8.99 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 慈善机场：https://xn--30rs3bu7r87f.com/#/register?code=7xq8aqoD
 - 🚁 [2023.02.19] --- ( &nbsp;5.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- YkkCloud〖新用户免费试用 1 天〗：https://ykkk.cloud/#/register?code=9WZ6Bi2w
 - 🚁 [2023.02.20] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- TOPTCP：https://letuclash.top/index.php#/register?code=Gm8ajyV2
