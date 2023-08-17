@@ -18,7 +18,7 @@
 - 🚁 [2022.09.18] --- ( &nbsp;7.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 农家有风小院〖新用户免费试用 2 天〗：https://v2.hjl772vps.top/#/register?code=Q6jDXrlT
 - 🚁 [2022.10.24] --- ( &nbsp;8.80 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;88 GB) --- 雨燕云〖新用户免费试用 8 小时〗：https://yuyan.co/#/register?code=i0u5Qc7C
 - 🚁 [2022.11.06] --- (18.80 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- 赔钱机场：https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm
-- 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫『**所有**套餐**8 月 17 日**前使用优惠券 `msclm78` 可打 **7.8 折**优惠』：https://b.msclm.net/#/register?code=qhfaw5ak
+- 🚁 [2022.11.11] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;200 GB) --- 冲浪猫：https://b.msclm.net/#/register?code=qhfaw5ak
 - 🚁 [2022.11.20] --- (12.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- 阿细小屋：https://axixw.cc/#/register?code=qC9D703h
 - 🚁 [2022.12.07] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- 一分机场：https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh
 - 🚁 [2022.12.28] --- (11.11 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;120 GB) --- BBCloud〖新用户免费试用 1 天〗：https://panel.upsystem.top/#/register?code=5lc7ZdL6
