@@ -32,7 +32,7 @@
 - 🚁 [2023.03.29] --- (15.99 ￥ / &nbsp;&nbsp;季&nbsp;&nbsp; / &nbsp;&nbsp;500 GB) --- FacMata〖新用户免费试用 30 分钟〗：https://entrance.facmata.net/#/register?code=RhMhPwBc
 - 🚁 [2023.03.30] --- ( &nbsp;9.90 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;300 GB) --- COO NETWORK：https://web.coo.wiki/#/register?code=HCNO40p
 - 🚁 [2023.05.05] --- (12.00 ￥ / &nbsp;&nbsp;年&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- OvO：https://ovofast.com/#/register?code=0pI5OPXj
-- 🚁 [2023.06.01] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Pokemon〖新用户免费试用 3 小时〗：https://v2.pikachu.cyou/#/register?code=EQPeqnKR
+- 🚁 [2023.06.01] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;100 GB) --- Pokemon：https://v2.pikachu.cyou/#/register?code=EQPeqnKR
 - 🚁 [2023.06.25] --- ( &nbsp;8.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;85 GB) --- To2：https://totwo.top/index.php#/register?code=OKzd5Ktn
 - 🚁 [2022.06.28] --- (15.00 ￥ / &nbsp;&nbsp;月&nbsp;&nbsp; / &nbsp;&nbsp;220 GB) --- 黑暗森林『**所有**套餐**9 月 1 日**前使用优惠券 `9999` 可打 **9 折**优惠』：https://darkforest.cloud/index.php#/register?code=aRRSo9bZ
 
