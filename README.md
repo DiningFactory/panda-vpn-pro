@@ -23,7 +23,7 @@
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 18.80 ￥ / 年 / 500 GB | 14.90 ￥ / 1000 GB | 暂无 | 暂无 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 1 | 9.90 ￥ / 月 / 200 GB | 55.88 ￥ / 384 GB | 暂无 | 暂无 |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/#/register?code=qC9D703h) | 1 | 12.00 ￥ / 月 / 120 GB | 99 ￥ / 1024 GB | 暂无 | 暂无 |
-| 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 1 | 12.00 ￥ / 年 / 200 GB | 9.90 ￥ / 1000 GB | 暂无 | 7.7 折优惠券 `7x`<br>所有套餐可用<br>9 月 8 日前有效 |
+| 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 0.1 | 12.00 ￥ / 年 / 200 GB | 9.90 ￥ / 1000 GB | 暂无 | 7.7 折优惠券 `7x`<br>所有套餐可用<br>9 月 8 日前有效 |
 | 2022.12.28 | [BBCloud](https://panel.upsystem.top/#/register?code=5lc7ZdL6) | 1 | 11.11 ￥ / 月 / 100 GB | 36.66 ￥ / 200 GB | 24 小时 | 暂无 |
 | 2022.12.28 | [Max](https://global.maxbyte.net/?code=xvFe9zon) | 1 | 9.90 ￥ / 月 / 110 GB | 16.00 ￥ / 100 GB | 24 小时 | 暂无 |
 | 2023.02.09 | [极速云](https://xn--9kqu12djx2a.me/#/register?code=7YIdiaZA) | 3 | 3.00 ￥ / 月 / 500 GB | 50.00 ￥/ 1000 GB | 暂无 | 暂无 |
