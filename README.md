@@ -20,7 +20,7 @@
 | 2022.05.10 | [Spcloud](https://www.spcloud.cc/#/register?code=yg4YkPbp) | 1 | 10.00 ￥ / 月 / 100 GB | 15 ￥ / 50 GB | 暂无 | 暂无 |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 1 | 7.00 ￥ / 月 / 100 GB | 14.00 ￥ / 100 GB | 48 小时 | 暂无 |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 1 | 8.80 ￥ / 月 / 88 GB | 19.00 ￥ / 150 GB | 8 小时 | 暂无 |
-| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 18.80 ￥ / 年 / 500 GB | 14.90 ￥ / 1000 GB | 暂无 | 暂无 |
+| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.01 | 18.80 ￥ / 年 / 500 GB | 14.90 ￥ / 1000 GB | 暂无 | 暂无 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 1 | 9.90 ￥ / 月 / 200 GB | 55.88 ￥ / 384 GB | 暂无 | 暂无 |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/#/register?code=qC9D703h) | 1 | 12.00 ￥ / 月 / 120 GB | 99 ￥ / 1024 GB | 暂无 | 暂无 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 0.1 | 12.00 ￥ / 年 / 200 GB | 9.90 ￥ / 1000 GB | 暂无 | 7.7 折优惠券 `7x`<br>所有套餐可用<br>9 月 8 日前有效 |
@@ -31,7 +31,7 @@
 | 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 ￥ / 月 / 100 GB | 15 ￥ / 100 GB | 12 小时 | 暂无 |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 1 | 8.00 ￥ / 月 / 100 GB | 50 ￥ / 500 GB | 暂无 | 暂无 |
 | 2023.03.09 | [亏本机场](https://xn--7kq24s4ynvb.site/#/register?code=ubUpvpLP) | 0.1 | 18.80 ￥ / 月 / 500 GB | 9.99 ￥ / 月 / 1234 GB | 暂无 | 暂无 |
-| 2023.03.11 | [只因机场](https://zhiyin.bid/#/register?code=SZGiFX2r) | 1 | 15.00 ￥ / 月 / 100 GB | 20.00 ￥ / 100 GB | 24 小时 | 暂无 |
+| 2023.03.11 | [只因机场](https://zhiyin.bid/#/register?code=SZGiFX2r) | 0.1 | 15.00 ￥ / 月 / 100 GB | 20.00 ￥ / 100 GB | 24 小时 | 暂无 |
 | 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 1 | 15.99 ￥ / 季 / 500 GB | 79.99 ￥ / 月 / 300 GB | 0.5 小时 | 暂无 |
 | 2023.03.30 | [COO NETWORK](https://web.coo.wiki/#/register?code=HCNO40p) | 1 | 9.90 ￥ / 月 / 300 GB | 19.88 / 300 GB | 暂无 | 暂无 |
 | 2023.04.20 | [鸡爪云](https://jijio.top/#/register?code=OtH7i10C) | 1 | 68.00 ￥ / 月 / 15500 GB | 18.80 ￥ / 100 GB | 24 小时 | 暂无 |
