@@ -15,7 +15,7 @@
 | 2019.03.17 | [SACLOUD](https://sacyun.co/index.php/#/register?code=1YIbUxet) | 1 | 8.99 / 月 / 130 GB | 82.99 / 500 GB | 5 小时 | None |
 | 2020.07.04 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 0.1 | 10.00 / 月 / 128 GB | None | None | 七夕特惠套餐<br>52 ￥ / 不限时 / 1314 GB<br>限量 77 份，售完即止 |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY ) | 1 | None | 14.90 / 130 GB | None | None |
-| 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=GFn4E13k) | 0.2 ~ 1<br>动态调整 | 12.50 / 月 / 110 GB | 30.00 / 150 GB |None |  8.5 折优惠券 `Love85 `<br>大部分套餐可用<br>8 月 25 日前有效 |
+| 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=GFn4E13k) | 0.2 ~ 1<br>动态调整 | 12.50 / 月 / 110 GB | 30.00 / 150 GB |None |  None |
 | 2022.04.13 | [美汁源](https://meizhiyuan.cc/index.php#/register?code=7dv01jTa) | 1 | 9.88 / 月 / 100 GB | 88.88 / 188 GB | None | 8 折优惠券 `EEEEE`<br>所有套餐可用<br>8 月 31 日前有效 |
 | 2022.05.10 | [Spcloud](https://www.spcloud.cc/#/register?code=yg4YkPbp) | 1 | 10.00 / 月 / 100 GB | 15.00 / 50 GB | None | None |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 1 | 7.00 / 月 / 100 GB | 14.00 / 100 GB | 48 小时 | None |
