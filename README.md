@@ -37,7 +37,7 @@
 | 2023.03.30 | [COO NETWORK](https://web.coo.wiki/#/register?code=HCNO40p) | 0.1 | 9.90 / 月 / 300 GB | 19.88 / 300 GB | None | None |
 | 2023.04.20 | [鸡爪云](https://jijio.top/#/register?code=OtH7i10C) | 1 | 68.00 / 月 / 15500 GB | 18.80 / 100 GB | 24 小时 | None |
 | 2023.05.02 | [TaiShan Net](https://www.taishan.pro/#/register?code=XyZ8XFmM) | 1 |10.00 / 月 / 128 GB | 15.00 / 100 GB | 24 小时 | None |
-| 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj) | 1 | 12.00 / 年 / 100 GB | None | None | None |
+| 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj) | 1 | 1.00 / 月 / 100 GB | None | None | None |
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 1 | 8.00 / 月 / 100 GB | 11.00 / 100 GB | None | None |
 | 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 0.3 | 8.00 / 月 / 85 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=aRRSo9bZ) | 0.1 | 15.00 / 月 / 500 GB | 25.00 / 188 GB | None | 9 折优惠券 `9999`<br>所有套餐可用<br>9 月 1 日前有效 |
