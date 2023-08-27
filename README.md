@@ -13,7 +13,7 @@
 | 开业日期 | 机场官网 | 最低倍率 | ￥ / 周期 / GB | 不限时 | 试用期 | 优惠活动 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SACLOUD](https://sacyun.co/index.php/#/register?code=1YIbUxet) | 1 | 8.99 / 月 / 130 GB | 82.99 / 500 GB | 5 小时 | None |
-| 2020.07.04 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 0.1 | 10.00 / 月 / 128 GB | None | None | 七夕特惠套餐<br>52 ￥ / 不限时 / 1314 GB<br>限量 77 份，售完即止 |
+| 2020.07.04 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 0.1 | 10.00 / 月 / 128 GB | None | None | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY ) | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=GFn4E13k) | 0.2 ~ 1<br>动态调整 | 12.50 / 月 / 110 GB | 30.00 / 150 GB |None |  None |
 | 2022.04.13 | [美汁源](https://meizhiyuan.cc/index.php#/register?code=7dv01jTa) | 1 | 9.88 / 月 / 100 GB | 88.88 / 188 GB | None | 8 折优惠券 `EEEEE`<br>所有套餐可用<br>8 月 31 日前有效 |
@@ -40,6 +40,7 @@
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 1 | 8.00 / 月 / 100 GB | 11.00 / 100 GB | None | None |
 | 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 0.3 | 8.00 / 月 / 85 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=aRRSo9bZ) | 0.1 | 15.00 / 月 / 500 GB | 25.00 / 188 GB | None | 9 折优惠券 `9999`<br>所有套餐可用<br>9 月 1 日前有效 |
+| 2023.07.13 | [咸鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 1 | 2.00 / 月 / 100 GB | None | None | None |
 
 👀 以上所列举的套餐都属于机场中最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。不过，如果机场跑路，我是肯定会及时更新的。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，请不要误以为全是同一个老板开的，这是很正常的，因为机场的页面基本都是用了相同的开源项目，比如 `v2board`。
 🙁 **市面上几乎所有的机场都不支持同时拥有两个及以上的套餐**。如果在同一个机场想购买多个套餐，需要另外注册新的账号，否则，旧套餐将被新套餐“覆盖”。如果不明白“覆盖”的意思，那么可以看一下这个例子：假如我购买了 A 套餐，然后我在 A 套餐有效期内又购买了 B 套餐，那么此时 A 就会被 B 所覆盖，即我现在只拥有 B 套餐。
