@@ -26,7 +26,7 @@
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 7.7 折优惠券 `7x`<br>所有套餐可用<br>9 月 8 日前有效 |
 | 2022.12.28 | [BBCloud](https://panel.upsystem.top/#/register?code=5lc7ZdL6) | 1 | 11.11 / 100 GB | 36.66 / 200 GB | 24 小时 | None |
 | 2023.02.09 | [Max](https://global.maxbyte.net/?code=xvFe9zon) | 1 | 9.90 / 110 GB | 16.00 / 100 GB | 24 小时 | None |
-| 2023.02.09 | [极速云](https://xn--9kqu12djx2a.me/#/register?code=7YIdiaZA) | 3 | 3.00 / 500 GB | 50.00 / 1000 GB | None | None |
+| 2023.02.09 | [极速云](https://xn--9kqu12djx2a.me/#/register?code=7YIdiaZA) | 5 | 5.00 / 800 GB | 50.00 / 1000 GB | None | None |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=7xq8aqoD) | 1 | 1.99 / 200 GB | 15.99 / 300 GB | None | None |
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 1 | 3.00 / 200 GB | None | None | None |
 | 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 小时 | None |
