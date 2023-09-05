@@ -15,7 +15,7 @@
 | 2019.03.17 | [SACLOUD](https://sacyun.co/index.php/#/register?code=1YIbUxet) | 1 | 8.99 / 130 GB | 82.99 / 500 GB | 5 小时 | None |
 | 2020.07.04 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY ) | 1 | None | 14.90 / 130 GB | None | None |
-| 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=GFn4E13k) | 0.2 ~ 1<br>动态调整 | 7.50 / 70 GB | 30.00 / 150 GB |None |  None |
+| 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=t46H9V6C) | 0.2 ~ 1<br>动态调整 | 7.50 / 70 GB | 30.00 / 150 GB |None |  None |
 | 2022.04.13 | [美汁源](https://meizhiyuan.cc/index.php#/register?code=7dv01jTa) | 1 | 9.88 / 100 GB | 88.88 / 188 GB | None | None |
 | 2022.05.10 | [Spcloud](https://www.spcloud.cc/#/register?code=yg4YkPbp) | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 小时 | None |
