@@ -31,7 +31,6 @@
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 1 | 3.00 / 200 GB | None | None | None |
 | 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 小时 | None |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | 月付 9 折 `toptcp.top`<br>年付 8 折 `toptcp`<br>优惠券仅可使用一次 |
-| 2023.03.09 | [亏本机场](https://xn--7kq24s4ynvb.site/#/register?code=ubUpvpLP) | 0.1 | 1.99 / 500 GB | 9.99 / 1234 GB | None | None |
 | 2023.03.11 | [只因机场](https://zhiyin.bid/#/register?code=SZGiFX2r) | 0.1 | 15.00 / 100 GB | 20.00 / 100 GB | 24 小时 | None |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | None |
 | 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 0.1 | 15.99 / 300 GB | 79.99 / 300 GB | 0.5 小时 | None |
