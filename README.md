@@ -39,7 +39,7 @@
 | 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj) | 1 | 1.00 / 100 GB | None | 72 小时 | None |
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 1 | 8.00 / 100 GB | 11.00 / 100 GB | None | None |
 | 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 0.3 | 8.00 / 85 GB | 25.00 / 100 GB | None | None |
-| 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=aRRSo9bZ) | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
+| 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=aRRSo9bZ) | 0.1 | 15.00 / 220 GB | 25.00 / 188 GB | None | None |
 | 2023.07.13 | [咸鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 1 | 2.00 / 100 GB | None | None | None |
 | 2023.08.22 | [流萤云](https://portal.lyun.one/#/register?code=I7bdA67h) | 0.8 | 2.66 / 88 GB | 12.88 / 266 GB | 5 GB | 9 折 `lyun9`<br>所有套餐可用 |
 
