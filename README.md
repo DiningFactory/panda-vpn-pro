@@ -14,13 +14,13 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SACLOUD](https://sacyun.co/index.php/#/register?code=1YIbUxet) | 1 | 8.99 / 130 GB | 82.99 / 500 GB | 5 小时 | None |
 | 2020.07.04 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | None |
-| 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY ) | 1 | None | 14.90 / 130 GB | None | None |
+| 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY ) | 1 | None | 14.90 / 130 GB | None | 8.5 折 `TEACHERSDAY85`<br>大部分套餐可用<br>9.12 前有效 |
 | 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=t46H9V6C) | 0.2 ~ 1<br>动态调整 | 7.50 / 70 GB | 30.00 / 150 GB |None |  None |
 | 2022.04.13 | [美汁源](https://meizhiyuan.cc/index.php#/register?code=7dv01jTa) | 1 | 9.88 / 100 GB | 88.88 / 188 GB | None | None |
 | 2022.05.10 | [Spcloud](https://www.spcloud.cc/#/register?code=yg4YkPbp) | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 小时 | None |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 小时 | 8.8 折 `yuyanyun`<br>所有套餐可用 |
-| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 7 折 `老师好`<br>所有套餐可用<br>9.18 前可用 |
+| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 7 折 `老师好`<br>所有套餐可用<br>9.18 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | None |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/#/register?code=qC9D703h) | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | None |
