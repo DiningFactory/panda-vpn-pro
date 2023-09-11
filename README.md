@@ -41,7 +41,7 @@
 | 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 0.3 | 8.00 / 85 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=aRRSo9bZ) | 0.1 | 15.00 / 220 GB | 25.00 / 188 GB | None | None |
 | 2023.07.13 | [咸鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 1 | 2.00 / 100 GB | None | None | None |
-| 2023.08.24 | [EXTC](https://extc.shop/#/register?code=p4pawKIS) | 1 | 10.00 / 168 GB | 36 / 300 GB | 24 小时<br>非全节点 | None |
+| 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 1 | 10.00 / 168 GB | 36 / 300 GB | 24 小时<br>非全节点 | None |
 | 2023.08.22 | [流萤云](https://portal.lyun.one/#/register?code=I7bdA67h) | 0.8 | 2.66 / 88 GB | 12.88 / 266 GB | 5 GB | 9 折 `lyun9`<br>所有套餐可用 |
 
 👀 以上所列举的套餐都属于机场中最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网查看更多套餐**。套餐的价格可能会发生变动，我如果知道了会更新，但不一定会及时，具体以官网为主。不过，如果机场跑路，我是肯定会及时更新的。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，请不要误以为全是同一个老板开的，这是很正常的，因为机场的页面基本都是用了相同的开源项目，比如 `v2board`。
