@@ -21,7 +21,7 @@
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=t46H9V6C) | 0.2 ~ 1<br>动态调整 | 7.50 / 70 GB | 30.00 / 150 GB |None | None |
 | 2022.04.13 | [美汁源](https://meizhiyuan.cc/index.php#/register?code=7dv01jTa) | 1 | 9.88 / 100 GB | 88.88 / 188 GB | None | None |
-| 2022.05.10 | [Spcloud](https://aff.spcloud.vip#/register?code=Jmho92l8) | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
+| 2022.05.10 | [Spcloud](https://aff.spcloud.vip#/register?code=Jmho92l8) | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 7 折 `中秋国庆节日快乐 `<br>所有套餐可用<br>10.16 前有效 |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折 `yuyanyun`<br>所有套餐可用 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | None |
