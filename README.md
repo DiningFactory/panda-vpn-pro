@@ -32,7 +32,7 @@
 | 2023.02.09 | [极速云](https://xn--9kqu12djx2a.me/#/register?code=7YIdiaZA) | 5 | 5.00 / 800 GB | 50.00 / 1000 GB | None | None |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=7xq8aqoD) | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 1 | 3.00 / 200 GB | None | None | None |
-| 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 hours | None |
+| 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 hours | 6 折 `happyBirthday`<br>所有套餐可用<br>9.23前有效 |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | 月付 9 折 `toptcp.top`<br>年付 8 折 `toptcp` |
 | 2023.03.11 | [只因机场](https://zhiyin.bid/#/register?code=SZGiFX2r) | 0.1 | 15.00 / 250 GB | 20.00 / 150 GB | 24 hours | None |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 8 折 `wenlianyun`<br>所有套餐可用 |
@@ -44,7 +44,7 @@
 | 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 0.3 | 8.00 / 85 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=aRRSo9bZ) | 0.1 | 15.00 / 220 GB | 25.00 / 188 GB | None | None |
 | 2023.07.13 | [咸鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 1 | 2.00 / 100 GB | None | None | None |
-| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/register?code=fmCyLM2T) | 1 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
+| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/register?code=fmCyLM2T) | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
 | 2023.08.22 | [流萤云](https://portal.lyun.one/#/register?code=KloWOJIz) | 0.8 | 3.66 / 88 GB | 14.88 / 266 GB | 3 GB | 9 折 `lyun9`<br>所有套餐可用 |
 | 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 1 | 10.00 / 168 GB | 36.00 / 300 GB | 24 hours<br>非全节点 | None |
 
