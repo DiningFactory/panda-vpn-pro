@@ -20,6 +20,7 @@
 | 2020.07.04 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.04.13 | [美汁源](https://meizhiyuan.cc/index.php#/register?code=7dv01jTa) | 1 | 9.88 / 100 GB | 88.88 / 188 GB | None | None |
+| 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=t46H9V6C) | 0.2 ~ 1<br>动态调整 | 8.80 / 70 GB | 60.00 / 300 GB |None | None |
 | 2022.05.10 | [Spcloud](https://aff.spcloud.vip#/register?code=Jmho92l8) | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 7 折 `中秋国庆节日快乐 `<br>所有套餐可用<br>10.16 前有效 |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折 `yuyanyun`<br>所有套餐可用 |
@@ -38,7 +39,6 @@
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 8 折 `wenlianyun`<br>所有套餐可用 |
 | 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 1 | 9.99 / 100 GB | 59.99 / 300 GB | 0.5 hours | None |
 | 2023.03.30 | [COO NETWORK](https://web.coo.wiki/#/register?code=HCNO40po) | 0.1 | 9.90 / 300 GB | 19.88 / 300 GB | None | None |
-| 2022.04.16 | [泡泡狗](https://www.paopao.dog/#/register?code=t46H9V6C) | 0.2 ~ 1<br>动态调整 | 8.80 / 70 GB | 60.00 / 300 GB |None | None |
 | 2023.05.02 | [TaiShan Net](https://www.taishan.pro/#/register?code=XyZ8XFmM) | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj) | 1 | 1.00 / 100 GB | None | 72 hours | None |
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 1 | 8.00 / 100 GB | 11.00 / 100 GB | None | None |
