@@ -31,7 +31,7 @@
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 8 折 `be short of money`<br>所有套餐可用<br>10.14 前有效 |
 | 2023.02.09 | [Max 加速](https://app.maxbyte.net/home.php?code=3TuG9BIg) | 1 | 9.90 / 110 GB | 30.00 / 100 GB | 24 hours | 8 折 `MAX-777`<br>季付及以上套餐可用 |
 | 2023.02.09 | [极速云](https://www.xn--9kqy4sc0nciaw60p.me/#/register?code=7YIdiaZA) | 5 | 5.00 / 800 GB | 50.00 / 1000 GB | None | None |
-| 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=7xq8aqoD) | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
+| 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=yCwnFwKL) | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 1 | 3.00 / 200 GB | None | None | None |
 | 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 hours | None |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | 月付 9 折 `toptcp.top`<br>年付 8 折 `toptcp` |
