@@ -40,7 +40,7 @@
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 8 折 `wenlianyun`<br>所有套餐可用 |
 | 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 1 | 9.99 / 100 GB | 59.99 / 300 GB | 0.5 hours | None |
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
-| 2023.03.30 | [COO NETWORK](https://web.coo.wiki/#/register?code=HCNO40po) | 0.1 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 39.90 / 季 / (1024 GB / 月)<br>39.90 / 不限时 / 1024 GB<br>10.9 前有效<br>9 折 `coo.lol-10off`<br>所有套餐可用 |
+| 2023.03.30 | [COO NETWORK](https://web.coo.wiki/#/register?code=HCNO40po) | 0.1 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 39.90 / 季 / (1024 GB / 月)<br>39.90 / 不限时 / 1024 GB<br>10.9 前有效<br><br>9 折 `coo.lol-10off`<br>所有套餐可用 |
 | 2023.04.29 | [KFC](https://kfccloud.cc/#/register?code=tHBnovbh) | 1 | 10.00 / 200 GB | 25 / 200 GB | 3 hours | None | 
 | 2023.05.02 | [TaiShan Net](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj) | 1 | 1.00 / 100 GB | None | 72 hours | None |
@@ -50,7 +50,7 @@
 | 2023.06.30 | [云上全球加速](https://ys.globalyun.top/#/register?code=ki7FiJlc) | 1 | 5.99 / 166 GB | 29.00 / 200 GB | 5 hours | None |
 | 2023.07.13 | [咸鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 1 | 2.00 / 100 GB | None | None | None |
 | 2023.07.30 | [大飞云](https://www.dafei.xyz/#/register?code=Gr6g7skR) | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
-| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/register?code=fmCyLM2T) | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
+| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/register?code=fmCyLM2T) | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | 8 折 `MID-AUTUMN10.1`<br>所有套餐可用<br>10.8 前有效 |
 | 2023.08.22 | [流萤云](https://portal.lyun.one/#/register?code=KloWOJIz) | 1 | 3.66 / 88 GB | 14.88 / 266 GB | 3 GB | 9 折 `lyun9`<br>所有套餐可用 |
 | 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 1 | 10.00 / 168 GB | 36.00 / 300 GB | 24 hours<br>非全节点 | None |
 
