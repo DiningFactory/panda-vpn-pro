@@ -34,7 +34,7 @@
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=yCwnFwKL) | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 1 | 3.00 / 200 GB | None | None | None |
 | 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 hours | None |
-| 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | 9 折 `toptcp.top`<br>月付套餐可用<br><br>8 折 `toptcp`<br>年付套餐可用 |
+| 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | None |
 | 2023.03.08 | [卷王机场](https://console.simplesocks.pro/#/register?code=rPFdtwNJ) | 10 | 8.00 / 5000 GB | 10.00 / 1000 GB  | None | None |
 | 2023.03.11 | [只因机场](https://zhiyin.bid/#/register?code=SZGiFX2r) | 0.1 | 15.00 / 250 GB | 20.00 / 150 GB | 24 hours | None |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 8 折 `wenlianyun`<br>所有套餐可用 |
