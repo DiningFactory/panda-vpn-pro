@@ -30,8 +30,9 @@
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | None |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | None |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
+| 2022.12.05 | [Max 加速](https://sa.maxgogo.win/home.php?code=3TuG9BIg) | 1 | 9.90 / 110 GB | 30.00 / 100 GB | 24 hours | 8 折 `MAX-777`<br>季付及年付可用 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 8 折 `be short of money`<br>所有套餐可用<br>10.14 前有效 |
-| 2023.02.09 | [Max 加速](https://sa.maxgogo.win/home.php?code=3TuG9BIg) | 1 | 9.90 / 110 GB | 30.00 / 100 GB | 24 hours | 8 折 `MAX-777`<br>季付及年付可用 |
+| 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=8S3V1vsr) | 1 | 6.90 / 100 GB | 9.90 / 100 GB | None | 8.5 折 `FREECAT`<br>所有套餐可用 |
 | 2023.02.09 | [极速云](https://www.xn--9kqy4sc0nciaw60p.me/#/register?code=7YIdiaZA) | 5 | 5.00 / 800 GB | 50.00 / 1000 GB | None | None |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=yCwnFwKL) | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 1 | 3.00 / 200 GB | None | None | None |
