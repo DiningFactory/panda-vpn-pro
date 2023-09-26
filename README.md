@@ -20,10 +20,12 @@
 | 2020.07.04 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | None |
 | 2020.09.26 | [nanoPort](https://v3.nanoport.xyz/#/register?code=kP3JULaN) | 1 | 1.00 / 88 GB | None |3 hours | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 1 | None | 14.90 / 130 GB | None | None |
+| 2022.11.10 | [喵速云](https://neko77.best/#/register?code=UIeWdMrP) | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 8 折 `moon85`<br>所有套餐可用<br>10.8 前有效 |
 | 2022.04.13 | [美汁源](https://meizhiyuan.cc/index.php#/register?code=7dv01jTa) | 1 | 9.88 / 100 GB | 88.88 / 188 GB | None | None |
 | 2022.05.10 | [Spcloud](https://aff.spcloud.vip#/register?code=Jmho92l8) | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 7 折 `中秋国庆节日快乐 `<br>所有套餐可用<br>10.16 前有效 |
 | 2022.05.25 | [Linki Networks](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 1 | 9.90 / 100 GB | 24.90 / 200 GB | 2 hours | None |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
+| 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 1 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折 `yuyanyun`<br>所有套餐可用 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | None |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | None |
