@@ -23,7 +23,7 @@
 | 2022.11.10 | [喵速云](https://neko77.best/#/register?code=UIeWdMrP) | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 8.5 折 `moon85`<br>所有套餐可用<br>10.8 前有效 |
 | 2022.04.13 | [美汁源](https://meizhiyuan.cc/index.php#/register?code=7dv01jTa) | 1 | 9.88 / 100 GB | 88.88 / 188 GB | None | None |
 | 2022.05.10 | [Spcloud](https://aff.spcloud.vip#/register?code=Jmho92l8) | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 7 折 `中秋国庆节日快乐 `<br>所有套餐可用<br>10.16 前有效 |
-| 2022.05.25 | [Linki Networks](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 1 | 9.90 / 100 GB | 24.90 / 200 GB | 2 hours | None |
+| 2022.05.25 | [Linki Networks](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 1 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折 `yuyanyun`<br>所有套餐可用 |
