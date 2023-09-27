@@ -45,7 +45,7 @@
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
 | 2023.03.30 | [COO NETWORK](https://web.coo.wiki/#/register?code=HCNO40po) | 0.1 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 39.90 / 季 / 1024 GB * 3<br>39.90 / 不限时 / 1024 GB<br>10.9 前有效<br><br>9 折 `coo.lol-10off`<br>所有套餐可用 |
 | 2023.04.29 | [KFC](https://kfccloud.cc/#/register?code=tHBnovbh) | 1 | 10.00 / 200 GB | 25 / 200 GB | 3 hours | None | 
-| 2023.05.02 | [TaiShan Net](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
+| 2023.05.02 | [TaiShan Net](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | 7.5 折 `vgD9UuBN`<br>所有套餐可用<br>10.7 前有效 |
 | 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj) | 1 | 1.00 / 100 GB | None | 72 hours | None |
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 1 | 8.00 / 100 GB | 11.00 / 100 GB | None | None |
 | 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 0.3 | 8.00 / 85 GB | 25.00 / 100 GB | None | None |
