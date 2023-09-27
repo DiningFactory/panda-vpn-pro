@@ -36,7 +36,7 @@
 | 2023.02.09 | [极速云](https://www.xn--9kqy4sc0nciaw60p.me/#/register?code=7YIdiaZA) | 5 | 5.00 / 800 GB | 50.00 / 1000 GB | None | 月付 7.8 折 `极速78`<br>季付 7.5 折 `极速75`<br>年付 7 折 `极速7`<br>两年付 6.5 折 `极速65`<br>三年付 6 折 `极速6` |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=yCwnFwKL) | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 1 | 3.00 / 200 GB | None | None | None |
-| 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 hours | None |
+| 2023.02.19 | [YkkCloud](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 hours | 7 折 `g8nAixVG`<br>所有套餐可用<br>10.9 前有效 |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | None |
 | 2023.03.08 | [卷王机场](https://console.simplesocks.pro/#/register?code=rPFdtwNJ) | 10 | 8.00 / 5000 GB | 10.00 / 1000 GB  | None | None |
 | 2023.03.11 | [只因机场](https://zhiyin.bid/#/register?code=SZGiFX2r) | 0.1 | 15.00 / 250 GB | 20.00 / 150 GB | 24 hours | None |
