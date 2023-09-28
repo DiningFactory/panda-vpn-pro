@@ -26,8 +26,8 @@
 | 2022.05.25 | [Linki Networks](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
 | 2022.09.18 | [农家有风小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 1 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
-| 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折 `yuyanyun`<br>所有套餐可用 |
-| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | None |
+| 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 7 折 `MidAutmn70`<br>所有套餐可用<br>10.1 前有效<br><br>8.8 折 `yuyanyun`<br>所有套餐可用 |
+| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 6 折 `国泰民安`<br>所有套餐可用<br>10.15 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | 8 折 `msclm`<br>所有套餐可用<br>10.4 前有效 |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | 随机折扣 `GQ001`<br>所有套餐可用<br>10.7 前有效 |
 | 2022.12.05 | [Max 加速](https://sa.maxgogo.win/home.php?code=3TuG9BIg) | 1 | 9.90 / 110 GB | 30.00 / 100 GB | 24 hours | 8 折 `MAX-777`<br>季付及年付可用 |
