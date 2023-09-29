@@ -17,7 +17,7 @@
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用期 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SACLOUD](https://sachk.189.lol/index.php#/register?code=1YIbUxet) | 中转 | 1 | 8.99 / 130 GB | 82.99 / 500 GB | 5 hours | 8.5 折 `SAC中秋国庆`<br>限量（份数未知） |
-| 2020.07.02 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 中转 | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | 74 ￥ / 不限时 / 1888 GB<br>每年购买日若流量未用完<br>可免费重置<br>如在 2023.09.30 购买<br>而在 2024.09.30 <br>剩余流量为 10 GB <br>那么由于流量尚未用完<br>所以可以免费重置为 1888 GB<br>每年都如此<br>(注：只有该套餐<br>拥有免费重置的福利)<br>限量 300 份<br>10.13 前可购买  |
+| 2020.07.02 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 中转 | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | `74 ￥ / 不限时 / 1888 GB`<br>每年购买日若流量未用完<br>可免费重置<br>如在 2023.09.30 购买<br>而在 2024.09.30 <br>剩余流量为 10 GB <br>那么由于流量尚未用完<br>所以可以免费重置为 1888 GB<br>每年都如此<br>(注：只有该套餐<br>拥有免费重置的福利)<br>限量 300 份<br>10.13 前可购买  |
 | 2020.09.26 | [nanoPort](https://v3.nanoport.xyz/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | 5 折 `wr8LUfU4`<br>所有套餐可用<br>限量 1000 份<br>10.7 前有效<br><br>7 折 `ONvp7tA1`<br>所有套餐可用<br>10.7 前有效 |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.11.10 | [喵速云](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 8.5 折 `moon85`<br>所有套餐可用<br>10.8 前有效 |
@@ -42,7 +42,7 @@
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 8 折 `wenlianyun`<br>所有套餐可用<br>非长期有效 |
 | 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 中转 | 1 | 15.99 / 300 GB | 59.99 / 300 GB | 0.5 hours | None |
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
-| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=HCNO40po) | 中转 | 0.1 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 39.90 / 季 / 1024 GB * 3<br>39.90 / 不限时 / 1024 GB<br>10.9 前有效<br><br>9 折 `coo.lol-10off`<br>所有套餐可用<br>长期有效 |
+| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=HCNO40po) | 中转 | 0.1 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | `39.90 / 季 / 1024 GB * 3`<br>`39.90 / 不限时 / 1024 GB`<br>10.9 前有效<br><br>9 折 `coo.lol-10off`<br>所有套餐可用<br>长期有效 |
 | 2023.04.29 | [KFC](https://kfccloud.cc/#/register?code=tHBnovbh) | 中转 | 1 | 10.00 / 200 GB | 25 / 200 GB | 3 hours | None |
 | 2023.05.01 | [农夫山泉](https://fff.nfsq.me/#/register?code=HvoPMFli) | 中转 | 0.3 | 6.00 / 200 GB | 10.00 / 200 GB | 48 hours | None |
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | 7.5 折 `vgD9UuBN`<br>所有套餐可用<br>10.7 前有效 |
