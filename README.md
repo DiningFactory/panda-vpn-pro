@@ -40,7 +40,7 @@
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 中转 | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | None |
 | 2023.03.11 | [只因机场](https://zhiyin.bid/#/register?code=SZGiFX2r) | 中转 | 0.1 | 15.00 / 250 GB | 20.00 / 150 GB | 24 hours | 7 折`中秋节快乐`<br>所有套餐可用<br>短期有效 |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 7.5 折 `wenlianyun`<br>月付套餐可用<br>7 折 `wenlianyun8`<br>半年付套餐可用<br>6.6 折 `wenlianyun6`<br>年付套餐可用<br>非长期有效<br><br>`36 ￥ / 半年 / 168 GB * 6`<br>`68 ￥ / 年 / 168 GB * 12`<br>`48 ￥ / 半年 / 288 GB * 6`<br>`88 ￥ / 年 / 288 GB * 12`<br>`100 ￥ / 半年 / 500 GB * 6`<br>`198 ￥ / 年 / 500 GB * 12`<br>此部分套餐不可使用以上优惠券<br>10.8 前有效 |
-| 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 中转 | 1 | 15.99 / 300 GB | 59.99 / 300 GB | 0.5 hours | None |
+| 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 中转 | 1 | 9.99 / 100 GB | 59.99 / 300 GB | 0.5 hours | None |
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
 | 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=HCNO40po) | 中转 | 0.1 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | `39.90 / 季 / 1024 GB * 3`<br>`39.90 / 不限时 / 1024 GB`<br>10.9 前有效<br><br>9 折 `coo.lol-10off`<br>所有套餐可用<br>长期有效 |
 | 2023.04.29 | [KFC](https://kfccloud.cc/#/register?code=tHBnovbh) | 中转 | 1 | 10.00 / 200 GB | 25 / 200 GB | 3 hours | None |
