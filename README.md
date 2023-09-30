@@ -25,7 +25,7 @@
 | 2022.05.10 | [Spcloud](https://aff.spcloud.vip#/register?code=Jmho92l8) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 7 折 `中秋国庆节日快乐 `<br>所有套餐可用<br>10.16 前有效 |
 | 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
-| 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 1 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
+| 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 1 | 8.00 / 100 GB | 15.00 / 100 GB | None | 8.5 折 `85`<br>月付和不限时可用<br>10.5 前有效 |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 7 折 `MidAutmn70`<br>所有套餐可用<br>10.1 前有效<br><br>8.8 折 `yuyanyun`<br>所有套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 直连 | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 6 折 `国泰民安`<br>所有套餐可用<br>10.15 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | 8 折 `msclm`<br>所有套餐可用<br>10.4 前有效 |
@@ -52,7 +52,7 @@
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | 9 折 `花好月圆`<br>所有套餐可用<br>短期有效 |
 | 2023.06.30 | [云上全球](https://ys.globalyun.top/#/register?code=ki7FiJlc) | 中转 | 1 | 5.99 / 166 GB | 29.00 / 200 GB | 5 hours | None |
 | 2023.07.13 | [咸鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 2.00 / 100 GB | None | None | None |
-| 2023.07.30 | [大飞云](https://www.dafei.xyz/#/register?code=Gr6g7skR) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | 8.5 折 `85`<br>月付和不限时可用<br>10.5 前有效 |
+| 2023.07.30 | [大飞云](https://www.dafei.xyz/#/register?code=Gr6g7skR) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | 8.5 折 `85`<br>所有套餐可用<br>10.5 前有效 |
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/register?code=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | 8 折 `MID-AUTUMN10.1`<br>所有套餐可用<br>10.8 前有效 |
 | 2023.08.22 | [流萤云](https://portal.lyun.one/#/register?code=KloWOJIz) | 中转 | 0.1 | 3.66 / 88 GB | 14.88 / 266 GB | 3 GB | 8 折 `zhongqiu`<br>所有套餐可用<br>10.2 前有效<br><br>9 折 `lyun9`<br>所有套餐可用<br>长期有效 |
 | 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 中转 | 1 | 10.00 / 168 GB | 36.00 / 300 GB | 24 hours<br>非全节点 | None |
