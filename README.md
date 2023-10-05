@@ -53,6 +53,7 @@
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | 9 折 `花好月圆`<br>所有套餐可用<br>短期有效 |
 | 2023.06.30 | [云上全球](https://ys.globalyun.top/#/register?code=ki7FiJlc) | 中转 | 1 | 5.99 / 166 GB | 29.00 / 200 GB | 5 hours | None |
 | 2023.07.13 | [咸鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 2.00 / 100 GB | None | None | None |
+| 2023.07.16 | [卡荔云](https://portal.karleynetwork.shop/aff.php?aff=71)<br><br>注册信息<br>可乱填<br>邮箱密码<br>除外 | 中转 | 1 | 10.00 / 150 GB | 50.00 / 520 GB | None | None |
 | 2023.07.30 | [大飞云](https://www.dafei.xyz/#/register?code=Gr6g7skR) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | 8.5 折 `85`<br>所有套餐可用<br>10.5 前有效 |
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/register?code=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | 8 折 `MID-AUTUMN10.1`<br>所有套餐可用<br>10.8 前有效 |
 | 2023.08.22 | [流萤云](https://portal.lyun.one/#/register?code=KloWOJIz) | 中转 | 0.1 | 3.66 / 88 GB | 14.88 / 266 GB | 3 GB | 8 折 `zhongqiu`<br>所有套餐可用<br>10.2 前有效<br><br>9 折 `lyun9`<br>所有套餐可用<br>长期有效 |
