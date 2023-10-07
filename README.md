@@ -44,6 +44,7 @@
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | 7.5 折 `vgD9UuBN`<br>所有套餐可用<br>10.7 前有效 |
 | 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj) | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 中转 | 1 | 8.00 / 100 GB | 11.00 / 100 GB | None | None |
+| 2023.06.03 | [ACA](https://www.aca.best/#/register?code=RUV0zn2j) | 中转 | 0.1 | 6.00 / 188 GB | None | None | None |
 | 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 中转 | 0.3 | 8.00 / 85 GB | 25.00 / 100 GB | None | 8.5 折 `85`<br>所有套餐可用<br>短期有效 |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | 9 折 `花好月圆`<br>所有套餐可用<br>短期有效 |
 | 2023.06.30 | [云上全球](https://ys.globalyun.top/#/register?code=ki7FiJlc) | 中转 | 1 | 5.99 / 166 GB | 29.00 / 200 GB | 5 hours | None |
