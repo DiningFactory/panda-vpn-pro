@@ -32,7 +32,7 @@
 | 2023.02.09 | [极速云](https://www.xn--9kqy4sc0nciaw60p.me/#/register?code=7YIdiaZA) | 中转 | 5 | 5.00 / 800 GB | 50.00 / 1000 GB | None |  6 折 `极速6`<br>周期套餐可用<br>短期有效 |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=yCwnFwKL) | 直连 | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 中转 | 1 | 3.00 / 200 GB | None | None | None |
-| 2023.02.19 | [YkkCloud](https://ykkkcloud.com/#/register?code=9WZ6Bi2w) | 中转 | 1 | 5.00 / 100 GB | 15.00 / 100 GB | 12 hours | 7 折 `g8nAixVG`<br>所有套餐可用<br>10.9 前有效 |
+| 2023.02.19 | [YkkCloud](https://ykkkcloud.com/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 100 GB | 30.00 / 100 GB | 12 hours | 7 折 `g8nAixVG`<br>所有套餐可用<br>10.9 前有效 |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 中转 | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | None |
 | 2023.03.11 | [只因机场](https://zhiyin.bid/#/register?code=SZGiFX2r) | 中转 | 0.1 | 15.00 / 250 GB | 20.00 / 150 GB | 24 hours | 7 折`中秋节快乐`<br>所有套餐可用<br>短期有效 |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 7.5 折 `wenlianyun`<br>月付套餐可用<br>7 折 `wenlianyun8`<br>半年付套餐可用<br>6.6 折 `wenlianyun6`<br>年付套餐可用<br>短期有效<br><br>`36 ￥ / 半年 / 168 GB * 6`<br>`68 ￥ / 年 / 168 GB * 12`<br>`48 ￥ / 半年 / 288 GB * 6`<br>`88 ￥ / 年 / 288 GB * 12`<br>`100 ￥ / 半年 / 500 GB * 6`<br>`198 ￥ / 年 / 500 GB * 12`<br>此部分套餐不可使用以上优惠券<br>10.8 前有效 |
