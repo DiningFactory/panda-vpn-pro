@@ -24,7 +24,7 @@
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折 `yuyanyun`<br>所有套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm) | 直连 | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 6 折 `国泰民安`<br>所有套餐可用<br>10.15 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | None |
-| 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 11.98 ￥ / 150 GB | 16.88 / 60 GB | None | 8.5 折 `Mid-Autumn Festival`<br>所有套餐可用<br>10.10 前有效 |
+| 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 11.98 ￥ / 150 GB | 16.88 / 60 GB | None | None |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 8 折 `be short of money`<br>所有套餐可用<br>10.14 前有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=8S3V1vsr) | 中转 | 1 | 6.90 / 100 GB | 9.90 / 100 GB | None | 8.5 折 `FREECAT`<br>所有套餐可用<br>长期有效 |
