@@ -13,7 +13,7 @@
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用期 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SACLOUD](https://sachk.189.lol/index.php#/register?code=1YIbUxet) | 中转 | 1 | 8.99 / 130 GB | 82.99 / 500 GB | 5 hours | None |
-| 2020.07.02 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 中转 | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | `10.10 ￥ / 188 GB / 不限时`<br>不可免费重置<br>限量 200 份<br>10.13 前可购买<br><br> `74 ￥ / 不限时 / 1888 GB`<br>每年购买日若流量未用完<br>可免费重置<br>如在 2023.09.30 购买<br>而在 2024.09.30 <br>剩余流量为 10 GB <br>那么由于流量尚未用完<br>所以可以免费重置为 1888 GB<br>每年都如此<br>(注：只有该套餐<br>拥有免费重置的福利)<br>限量 300 份<br>10.13 前可购买  |
+| 2020.07.02 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 中转 | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | None |
 | 2020.09.26 | [nanoPort](https://v3.nanoport.xyz/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.11.10 | [喵速云](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | None |
