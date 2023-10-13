@@ -59,11 +59,13 @@
 
 🛠️ 关于代理工具的选择：市面上的代理工具（软件）数不胜数，以下是常用的代理软件。没有最好的，只有最适合自己的。在选择过程重点关注自己的实际体验，以及软件所支持的协议。以 `Clash` 为例，其具有许多分支，例如在 Windows 中具有 `Clash for Windows` 和 `Clash Verge` 等分支，前者只支持 `Clash` 内核，后者支持 `Clash` 内核和 `Clash Meta` 内核，后者多内核所带来的最直观的好处就是支持更多的协议（如 `VLESS`），但不代表后者一定就更好，因为后者相对较新，功能不是很完善，BUG 相对也较多，而且，`VLESS` 这种不常见的协议多数机场都不使用（常用的协议有 `Shadowsocks`，`Trojan`，`VMESS`），只有少部分机场会在提供常用协议的节点的基础之上，再提供少量 `VLESS` 这类不常用协议的节点（`VLESS` 在目前阶段不在常用协议的队列之内）。至于杂七杂八的功能，除了 iOS 用户，不必过于在意，因为基本只有 iOS 上的代理软件可玩性较高（`Shadowrocket` 除外），当然，普通用户没必要去折腾那些。个人建议可安装两个代理软件以备用，多了就没必要了。另外，关于代理软件上所测出来的数字通常代表的是延迟（部分代理不仅可以测试延迟，还可以测试速度。注意，延迟 ≠ 速度）。对此不必过于较真，其几乎没有任何参考价值。因为不同软件的测试方法是不同的，显示结果自然也不同，而且有些机场会利用 DNS 劫持等方法，使得延迟看着很低，然而那并不是实际的延迟。所以，延迟的高低，应该以实际体感为主。
 
-- Windows：可选择 `Clash`，`V2ranN`，`NekoBox`，`sing-box` 等。
-- Mac： 可选择 `ClashX`，`Stash`，`Surge` 等。
-- Android：可选择 `Clash`，`Surfboard`，`V2rayN`，`NekoBox`，`sing-box`，`Matsuri` 等。
-- iOS：`Shadowrocket`，`Surge`，`Quantumult X`，`Loon` 等。
-- OpenWrt：`OpenClash`，`Passwall` 等。
+|操作系统|代理软件|
+| :---: | :---: |
+| Windows | `Clash`，`V2ranN`，`NekoBox`，`sing-box` 等|
+| Mac | `ClashX`，`Stash`，`Surge` 等 |
+| Android | `Clash`，`Surfboard`，`V2rayN`，`NekoBox`，`sing-box`，`Matsuri` 等 |
+| iOS | `Shadowrocket`，`Surge`，`Quantumult X`，`Loon` 等 |
+| OpenWrt | `OpenClash`，`Passwall` 等 |
 
 💡 使用机场过程中如果发现**订阅无法更新**，可以参考以下几种**解决方法**：
 
