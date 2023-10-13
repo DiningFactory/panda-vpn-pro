@@ -63,7 +63,7 @@
 | :---: | :---: |
 | Windows | `Clash`，`V2ranN`，`NekoBox`，`sing-box` 等|
 | Mac | `ClashX`，`Stash`，`Surge` 等 |
-| Android | `Clash`，`Surfboard`，`V2rayN`，`NekoBox`，`sing-box`，`Matsuri` 等 |
+| Android | `Clash`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri` 等 |
 | iOS | `Shadowrocket`，`Surge`，`Quantumult X`，`Loon` 等 |
 | OpenWrt | `OpenClash`，`Passwall` 等 |
 
