@@ -60,11 +60,11 @@
 
 |操作系统|代理软件|
 | :---: | :---: |
-| Windows | `Clash`，`V2ranN`，`NekoBox`，`sing-box` 等|
-| Mac | `ClashX`，`Stash`，`Surge` 等 |
-| Android | `Clash`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri` 等 |
-| iOS | `Shadowrocket`，`Surge`，`Quantumult X`，`Loon` 等 |
-| OpenWrt | `OpenClash`，`Passwall` 等 |
+| Windows | `Clash`，`V2ranN`，`NekoBox`，`sing-box` |
+| Mac | `ClashX`，`Stash`，`Surge` |
+| Android | `Clash`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri` |
+| iOS | `Shadowrocket`，`Surge`，`Quantumult X`，`Loon` |
+| OpenWrt | `OpenClash`，`Passwall` |
 
 💡 使用机场过程中如果发现**订阅无法更新**，可以参考以下几种**解决方法**：
 
