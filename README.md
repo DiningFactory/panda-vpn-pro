@@ -16,7 +16,7 @@
 | 2020.07.02 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 中转 | 0.1 | 10.00 / 128 GB | 90.00 / 820 GB | None | None |
 | 2020.09.26 | [nanoPort](https://v3.nanoport.xyz/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
-| 2022.03.17 | [Galaxy](https://xco001.xyz/#/register?code=XoSDcl1b) | 中转 | 1 | 5.00 / 88 GB | None | 10 GB | None |
+| 2022.03.17 | [Galaxy](https://xco001.xyz/#/register?code=XoSDcl1b) | 中转 | 1 | 5.00 / 88 GB | None | 10 GB<br>少量节点 | None |
 | 2022.11.10 | [猫七七](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | None |
 | 2022.05.10 | [Spcloud](https://aff.spcloud.vip#/register?code=zQUEVPsX) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 7 折<br>`中秋国庆节日快乐 `<br>所有套餐可用<br>10.16 前有效 |
 | 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
