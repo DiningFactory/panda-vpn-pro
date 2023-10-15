@@ -66,7 +66,7 @@
 | Windows | `Clash`，`V2ranN`，`NekoBox`，`sing-box` |
 | Mac | `ClashX`，`Stash`，`Surge` |
 | Android | `Clash`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri` |
-| iOS | `Shadowrocket`，`Surge`，`Quantumult X`，`Loon` |
+| iOS | `Shadowrocket`，`sing-box`，`Surge`，`Quantumult X`，`Loon` |
 | OpenWrt | `OpenClash`，`Passwall` |
 
 💡 使用机场过程中如果发现**订阅无法更新**，可以参考以下几种**解决方法**：
