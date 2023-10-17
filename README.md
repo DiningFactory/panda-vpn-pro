@@ -49,7 +49,7 @@
 | 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 中转 | 0.3 | 8.00 / 85 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
 | 2023.06.30 | [云上全球](https://ys.globalyun.top/#/register?code=ki7FiJlc) | 中转 | 1 | 5.99 / 166 GB | 29.00 / 200 GB | 5 hours | None |
-| 2023.07.13 | [咸鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 2.00 / 100 GB | None | None | None |
+| 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 2.00 / 100 GB | None | None | None |
 | 2023.07.30 | [大飞云](https://www.dafei.xyz/#/register?code=Gr6g7skR) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/register?code=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
 | 2023.08.22 | [流萤云](https://liuyingyun.work/#/register?code=ZqUs2ogZ) | 中转 | 0.1 | 9.66 / 488 GB | 14.88 / 266 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效 |
