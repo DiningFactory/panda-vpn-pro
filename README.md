@@ -38,7 +38,7 @@
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 8 折<br>`稳连官网`<br>10.26 前有效 |
 | 2023.03.22 | [Magic](https://www.mofacloud.com/#/register?code=SOWJdu0A) | 中转 | 0.1 | 9.90 / 200 GB | 48.00 / 300 GB | 1 hours | 8 折<br>`mfy926`<br>周期套餐可用<br>长期有效 |
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | 7 折<br>`30OFF`<br>周期套餐可用<br>11.1 前有效 |
-| 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 中转 | 1 | 9.99 / 100 GB | 59.99 / 300 GB | 0.5 hours | None |
+| 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 中转 | 0.1 | 9.99 / 100 GB | 59.99 / 300 GB | 0.5 hours | None |
 | 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=HCNO40po) | 中转 | 1 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效 |
 | 2023.04.29 | [KFC](https://kfccloud.cc/#/register?code=tHBnovbh) | 中转 | 1 | 10.00 / 200 GB | 25.00 / 200 GB | 3 hours | None |
 | 2023.05.01 | [农夫山泉](https://fff.nfsq.me/#/register?code=HvoPMFli) | 中转 | 0.3 | 6.00 / 200 GB | 10.00 / 200 GB | 48 hours | None |
