@@ -29,7 +29,7 @@
 | 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 11.98 / 150 GB | 16.88 / 60 GB | None | None |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | None |
-| 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=8S3V1vsr) | 中转 | 1 | 6.90 / 100 GB | 9.90 / 100 GB | None | 8.5 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
+| 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=HVgK1VB3) | 中转 | 1 | 6.90 / 100 GB | 9.90 / 100 GB | None | 8.5 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://www.xn--9kqy4sc0nciaw60p.me/#/register?code=4nCrjaUd) | 中转 | 5 | 5.00 / 800 GB | 50.00 / 1000 GB | None | None |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=yCwnFwKL) | 直连 | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 中转 | 1 | 3.00 / 200 GB | None | None | None |
