@@ -43,7 +43,7 @@
 | 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=HCNO40po) | 中转 | 0.5 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效 |
 | 2023.04.24 | [吃瓜云](https://chiguayun.com/#/register?code=PkI6qsYT) | 中转 | 1 | 5.00 / 100 GB | None | None | None |
 | 2023.04.29 | [KFC](https://kfccloud.cc/#/register?code=tHBnovbh) | 中转 | 1 | 10.00 / 200 GB | 25.00 / 200 GB | 3 hours | None |
-| 2023.05.01 | [农夫山泉](https://fff.nfsq.me/#/register?code=HvoPMFli) | 中转 | 0.3 | 6.00 / 200 GB | 10.00 / 200 GB | 48 hours | None |
+| 2023.05.01 | [农夫山泉](https://fff.nfsq.me/#/register?code=HvoPMFli) | 中转 | 1 | 6.00 / 200 GB | 10.00 / 200 GB | 48 hours | None |
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj) | 直连 | 1 | 5.00 / 600 GB | None | 72 hours | None |
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 中转 | 1 | 8.00 / 100 GB | 11.00 / 100 GB | None | None |
