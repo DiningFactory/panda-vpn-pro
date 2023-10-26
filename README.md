@@ -15,7 +15,7 @@
 | 2019.03.17 | [SAC](https://sachk.189.lol/index.php#/register?code=1YIbUxet) | 中转 | 1 | 8.99 / 130 GB | 82.99 / 500 GB | 5 hours | None |
 | 2019.09.18 | [SSEP](https://ssep.cc/#/register?code=M2VCF3r3) | 中转 | 1 | 10.00 / 192 GB | 40.00 / 192 GB | 24 hours | None |
 | 2020.07.02 | [次元雲](https://ciyy.cc/#/register?code=dKavGnDc) | 中转 | 0.8 | 10.00 / 128 GB | 99.00 / 820 GB | None | None |
-| 2020.09.26 | [nanoPort](https://v3.nanoport.xyz/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
+| 2020.09.26 | [nanoPort](https://96110.sbs/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.03.17 | [Galaxy](https://xco001.xyz/#/register?code=XoSDcl1b) | 中转 | 1 | 5.00 / 88 GB | None | 10 GB<br>非全节点 | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip#/register?code=zQUEVPsX) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
