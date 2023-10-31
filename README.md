@@ -20,7 +20,7 @@
 | 2020.09.26 | [nanoPort](https://96110.sbs/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip#/register?code=zQUEVPsX) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
-| 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
+| 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | 7 折<br>`HALLOWEEN000`<br>周期套餐可用<br>减 7.77 元<br>`HALLOWEEN000`<br>不限时套餐可用<br>11.6 前有效 |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折<br>`yuyanyun`<br>所有套餐可用<br>长期有效 |
