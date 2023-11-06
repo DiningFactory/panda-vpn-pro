@@ -58,7 +58,7 @@
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`#V` | 直连 | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | None |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | None |
 | 2022.11.15 | [彩云](https://home.caiyun.pw/#/register?code=dv55P9Kw) | 中转 | 0.5 | 10.00 / 120 GB | 19.00 / 80 GB | None | None |
-| 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 11.98 / 150 GB | 16.88 / 60 GB | None | None |
+| 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 11.98 / 150 GB | 16.88 / 60 GB | None | 7 折 `Annual`<br>周期套餐可用<br>限量30份<br>11.15 前有效 |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`V` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 7 折<br>`5s6RzRoz`<br>所有套餐可用<br>11.26 前有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=HVgK1VB3) | 中转 | 1 | 6.90 / 100 GB | 9.90 / 100 GB | None | 8.5 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
@@ -83,7 +83,7 @@
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
 | 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 7.49 / 120 GB | 29.00 / 200 GB | 5 hours | None |
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 2.00 / 100 GB | None | None | None |
-| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/auth/signup;referral=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
+| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/auth/signup;referral=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | 7.5 折<br>`11.11-25%`<br>所有套餐可用<br>短期有效 |
 | 2023.08.22 | [流萤云](https://liuyingyun.work/#/register?code=ZqUs2ogZ) | 中转 | 0.1 | 9.66 / 488 GB | 14.88 / 266 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效<br> |
 | 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 中转 | 1 | 10.00 / 168 GB | 36.00 / 300 GB | 24 hours<br>非全节点 | None |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=RsKVqLBP) | 中转 | 1 |  12.80 / 150 GB | 9.80 / 30 GB | None | None |
