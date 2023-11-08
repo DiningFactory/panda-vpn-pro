@@ -62,7 +62,6 @@
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=HVgK1VB3) | 中转 | 1 | 6.90 / 100 GB | 9.90 / 100 GB | None | 8.5 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://www.xn--osv171g.net/#/register?code=4nCrjaUd) | 中转 | 5 | 7.00 / 1200 GB | 50.00 / 1000 GB | None | 5.5 折<br>`极速55`<br>周期套餐可用<br>6.6 折<br>`极速66`<br>永久套餐可用<br>短期有效 |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=yCwnFwKL) | 直连 | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
-| 2023.02.17 | [NanBei](https://nanbei.cloud/#/register?code=70m1a7pe) | 中转 | 1 | 5.00 / 200 GB | None | None | None |
 | 2023.02.19 | [YkkCloud](https://ykkkcloud.com/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 100 GB | 30.00 / 100 GB | 12 hours | None |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 中转 | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | None |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 6 折<br>`666`<br>大部分周期套餐可用<br>7 折<br>`75`<br>不限时套餐可用<br>短期有效 |
