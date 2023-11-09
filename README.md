@@ -55,7 +55,7 @@
 | 2022.05.10 | [SPCloud](https://www.spcloud.pro/index.php#/register?code=zQUEVPsX) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 7 折<br>`理性消费从我做起`<br>所有套餐可用<br>11.16 前有效 |
 | 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
-| 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
+| 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | 9 折<br>`1111`<br>所有套餐可用<br>11.12 前有效 |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折<br>`yuyanyun`<br>所有套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`#V` | 直连 | 0.1 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 7 折<br>`11.11`<br>所有套餐可用<br>11.14 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | 8 折<br>`11.11`<br>所有套餐可用<br>11.13 前有效 |
