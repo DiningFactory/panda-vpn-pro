@@ -80,7 +80,7 @@
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 中转 | 1 | 8.00 / 100 GB | 11.00 / 100 GB | None | None |
 | 2023.06.03 | [ACA](https://www.aca.best/#/register?code=RUV0zn2j) | 中转 | 0.1 | 6.00 / 188 GB | None | None | None |
 | 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 10.00 / 200 GB | 26.00 / 200 GB | None | None |
-| 2023.06.25 | [To2](https://totwo.top/index.php#/register?code=OKzd5Ktn) | 中转 | 0.3 | 8.00 / 85 GB | 25.00 / 100 GB | None | 15.9 / 月 / 333 GB<br>88.8 / 永久 / 888 GB<br>11.13 前可购买 |
+| 2023.06.25 | [To2](https://totwo.top/#/register?code=6uKUDQ6w) | 中转 | 0.3 | 8.00 / 85 GB | 25.00 / 100 GB | None | 15.9 / 月 / 333 GB<br>88.8 / 永久 / 888 GB<br>11.13 前可购买 |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
 | 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 7.49 / 120 GB | 29.00 / 200 GB | 5 hours | None |
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 2.00 / 100 GB | None | None | None |
