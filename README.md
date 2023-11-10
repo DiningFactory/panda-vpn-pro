@@ -73,7 +73,6 @@
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
 | 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 中转 | 0.1 | 9.99 / 100 GB | 59.99 / 300 GB | 0.5 hours | None |
 | 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=HCNO40po) | 中转 | 0.9 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效<br><br>15.9 / 月 / 1111 GB<br>59.9 / 永久 / 1111 GB<br>99.9 / 永久 / 2222 GB<br>11.13 前可购买 |
-| 2023.04.24 | [吃瓜云](https://chiguayun.com/#/register?code=PkI6qsYT) | 中转 | 1 | 5.00 / 100 GB | None | None | None |
 | 2023.05.01 | [农夫山泉](https://fff.nfsq.me/#/register?code=HvoPMFli) | 中转 | 1 | 6.00 / 200 GB | 12.00 / 200 GB | 48 hours | None |
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://1.ovofast.com/#/register?code=0pI5OPXj)<br>`*VH` | 直连 | 1 | 5.00 / 600 GB | None | 72 hours | None |
