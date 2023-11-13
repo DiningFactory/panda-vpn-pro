@@ -64,11 +64,11 @@
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`V` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 7 折<br>`5s6RzRoz`<br>所有套餐可用<br>11.26 前有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=HVgK1VB3) | 中转 | 1 | 6.90 / 100 GB | 9.90 / 100 GB | None | 8.5 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
-| 2023.02.09 | [极速云](https://www.xn--osv171g.net/#/register?code=4nCrjaUd) | 中转 | 5 | 7.00 / 1200 GB | 50.00 / 1000 GB | None | 5.5 折<br>`极速55`<br>周期套餐可用<br>6.6 折<br>`极速66`<br>永久套餐可用<br>短期有效 |
+| 2023.02.09 | [极速云](https://www.xn--osv171g.net/#/register?code=4nCrjaUd) | 中转 | 5 | 7.00 / 1200 GB | 50.00 / 1000 GB | None | None |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=yCwnFwKL) | 直连 | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.19 | [YkkCloud](https://ykkkcloud.com/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 100 GB | 30.00 / 100 GB | 12 hours | None |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 中转 | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | None |
-| 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 6 折<br>`666`<br>大部分周期套餐可用<br>7 折<br>`75`<br>永久套餐可用<br>短期有效 |
+| 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | None |
 | 2023.03.22 | [Magic](https://www.mofacloud.com/#/register?code=SOWJdu0A) | 中转 | 0.1 | 12.00 / 200 GB | 48.00 / 300 GB | None | 8 折<br>`mfy926`<br>周期套餐可用<br>长期有效 |
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
 | 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 中转 | 0.1 | 9.99 / 100 GB | 59.99 / 300 GB | 0.5 hours | None |
