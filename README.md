@@ -81,7 +81,7 @@
 | 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 10.00 / 200 GB | 26.00 / 200 GB | None | None |
 | 2023.06.25 | [To2](https://totwo.top/#/register?code=6uKUDQ6w) | 中转 | 0.1 | 8.00 / 85 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
-| 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 7.49 / 120 GB | 65.00 / 500 GB | 5 hours | None |
+| 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 8.99 / 200 GB | 65.00 / 500 GB | 5 hours | None |
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 2.00 / 100 GB | None | None | None |
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/auth/signup;referral=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | 7.5 折<br>`11.11-25%`<br>所有套餐可用<br>12.1 前有效 |
 | 2023.08.22 | [流萤云](https://liuyingyun.work/#/register?code=BGf3Pl5Q) | 中转 | 0.6 | 9.66 / 488 GB | 14.88 / 266 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效 |
