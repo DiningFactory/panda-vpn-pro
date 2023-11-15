@@ -75,7 +75,7 @@
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://1.ovofast.com/#/register?code=0pI5OPXj)<br>`*VH` | 直连 | 1 | 5.00 / 600 GB | None | 72 hours | None |
 | 2023.06.01 | [Pokemon](https://v2.pikachu.cyou/#/register?code=EQPeqnKR) | 中转 | 1 | 8.00 / 100 GB | 11.00 / 100 GB | None | None |
-| 2023.06.03 | [ACA](https://www.aca.best/#/register?code=RUV0zn2j) | 中转 | 0.1 | 6.00 / 188 GB | None | None | None |
+| 2023.06.03 | [ACA](https://www.aca.best/#/register?code=RUV0zn2j) | 中转 | 0.1 | 6.00 / 188 GB | 10.00 / 100 GB | None | None |
 | 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 10.00 / 200 GB | 26.00 / 200 GB | None | None |
 | 2023.06.25 | [To2](https://totwo.top/#/register?code=6uKUDQ6w) | 中转 | 0.1 | 8.00 / 85 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
