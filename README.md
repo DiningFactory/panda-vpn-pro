@@ -6,7 +6,6 @@
 📢 **重要通知**：此部分仅用于对于机场的重要变动及突发情况作出必要的说明。
 
  - 🗓️ 2023.11.2 🗓️ `Clash for Windows` 已停止更新，原因未知，但不影响使用。若实在有顾虑，可更换其他代理软件。注意，`Clash for Windows` 与 `Clash Core` 是两个完全不同的东西，也就是说，它停止更新不影响 `Clash` 的任何分支。不过，如果后者停止更新，将会使得前者的更新变得毫无意义。可以将前者想象为人的衣物，而后者为人的躯体。衣物对于躯体的活动毫无影响，但若躯体停止活动，那么更换衣物也就变得毫无意义。🗓️ 2023.11.3 🗓️ `Clash Premium Core`，`Clash.Meta Core`，`Clash for Android`，`Clash Meta for Android`，`Clash Verge`，`Tuic`，`Helloworld 路由器插件`，`Gui.for.Clash`，`homeproxy`，`Fclash`，`ClashX` 也纷纷停止更新或删库，部分进行了存档。想要备份各种 `Clash` 的人可[点击此处前往下载](https://mega.nz/folder/orkzRYbR#bHhSjy9r_9AJayIgqtZTag)。另外，**忠心劝诫各位不要在墙内的任何地方谈论任何与翻墙相关的事情**，无论是为了自身安全还是为了代理工具的安全。近期本来只是 `Clash for Windows` 删库，结果各种无知群众莫名把相关话题带上微博热搜，此后一堆 Core，GUI 删库，造成这一局面，可以说是那些无知人士带节奏所引起的一系列连锁反应。至于目前这些代理软件还能不能用呢，答案是能。只有到了这些代理工具或是内核被发现有严重漏洞那一天，或是当前主流协议都被新协议所替代时，才不可以使用。然而，对此这丝毫可以不用感到惊慌，代理工具以及内核千千万万，除了 `Clash` 还有 `V2ray` 等，并且旧事物的褪去总会有新事物来代替，互联网的更新是日新月异的，这点我相信各位很清楚。总之，请勿在墙内大谈特谈相关事件，此通知将长期保留。
- - 使用 `农夫山泉` 的用户请注意：🗓️ 2023.11.16 🗓️ 机场流量统计出现异常，如果发现了自己的流量出现了异常，可发工单等待处理，处理之后会重置流量。此通知将与 11.25 删除。
 
 ---
 ---
@@ -52,13 +51,13 @@
 | 2020.09.26 | [nanoPort](https://96110.sbs/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://www.spcloud.pro/index.php#/register?code=zQUEVPsX) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
-| 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | 6.5 折<br>`BF2023YR`<br>周期套餐可用<br>11.25 前有效 |
+| 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.09.26 | [牛牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
 | 2022.10.24 | [雨燕云](https://yuyan.co/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 19.00 / 150 GB | 8 hours | 8.8 折<br>`yuyanyun`<br>所有套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`#V` | 直连 | 0.01 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 6 折<br>`一路有你`<br>所有套餐可用<br>12.1 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | None | None |
-| 2022.11.15 | [彩云](https://home.caiyun.pw/#/register?code=dv55P9Kw) | 中转 | 0.5 | 18.80 / 200 GB | 100.00 / 1000 GB | None | 5 折<br>`caiyun555`<br>所有套餐可用<br>仅 11.24 有效<br><br>7 折<br>`caiyun777`<br>所有套餐可用<br>11.25 ~ 11.27 有效<br><br>8 折<br>`caiyun888`<br>所有套餐可用<br>11.28 ~ 12.5 有效<br> |
+| 2022.11.15 | [彩云](https://home.caiyun.pw/#/register?code=dv55P9Kw) | 中转 | 0.5 | 18.80 / 200 GB | 100.00 / 1000 GB | None | 7 折<br>`caiyun777`<br>所有套餐可用<br>11.25 ~ 11.27 有效<br><br>8 折<br>`caiyun888`<br>所有套餐可用<br>11.28 ~ 12.5 有效<br> |
 | 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 11.98 / 150 GB | 16.88 / 60 GB | None | None |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`V` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 7 折<br>`5s6RzRoz`<br>所有套餐可用<br>11.26 前有效 |
@@ -83,7 +82,7 @@
 | 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 8.99 / 200 GB | 65.00 / 500 GB | 5 hours | None |
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 5.00 / 100 GB | None | None | None |
 | 2023.07.27 | [私房菜](https://air.kogeki.dev/ui/#/register?code=VuYPc0MT)<br>`VH` | 中转 | 1 | 5.00 / 50 GB | None | None | None |
-| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/auth/signup;referral=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | 7.5 折<br>`11.11-25%`<br>所有套餐可用<br>12.1 前有效<br><br>6.5 折<br>`BF35%`<br>所有套餐可用<br>11.25 前有效 |
+| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/auth/signup;referral=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
 | 2023.08.22 | [流萤云](https://liuyingyun.work/#/register?code=BGf3Pl5Q) | 中转 | 0.6 | 9.66 / 488 GB | 14.88 / 266 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效 |
 | 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 中转 | 1 | 10.00 / 168 GB | 36.00 / 300 GB | 24 hours<br>非全节点 | None |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  12.80 / 150 GB | 9.80 / 30 GB | None | None |
