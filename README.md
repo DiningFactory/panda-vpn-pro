@@ -100,7 +100,7 @@
 |操作系统|代理软件|
 | :---: | :---: |
 | Windows | `Clash for Windows`，`Clash Verge`，`V2ranN`，`NekoBox`，`sing-box` |
-| Mac | `ClashX`，`Clash Verge`，`Stash`，`Surge` |
+| Mac | `ClashX`，`Clash Verge`，`sing-box`，`Stash`，`Surge` |
 | Android | `Clash for Android`，`Clash Meta for Android`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri` |
 | iOS | `Shadowrocket`，`sing-box`，`Surge`，`Quantumult X`，`Loon` |
 | OpenWrt | `OpenClash`，`Passwall` |
