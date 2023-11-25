@@ -60,7 +60,7 @@
 | 2022.11.15 | [彩云](https://home.caiyun.pw/#/register?code=dv55P9Kw) | 中转 | 0.5 | 18.80 / 200 GB | 100.00 / 1000 GB | None | 7 折<br>`caiyun777`<br>所有套餐可用<br>11.25 ~ 11.27 有效<br><br>8 折<br>`caiyun888`<br>所有套餐可用<br>11.28 ~ 12.5 有效<br> |
 | 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 11.98 / 150 GB | 16.88 / 60 GB | None | None |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
-| 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`V` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 7 折<br>`5s6RzRoz`<br>所有套餐可用<br>11.26 前有效 |
+| 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`V` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | None |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=HVgK1VB3) | 中转 | 1 | 6.90 / 100 GB | 9.90 / 100 GB | None | 8.5 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://www.xn--osv171g.net/#/register?code=4nCrjaUd) | 中转 | 5 | 8.00 / 800 GB | 50.00 / 1000 GB | None | None |
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY) | 直连 | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
