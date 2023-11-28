@@ -70,7 +70,7 @@
 | 2023.03.22 | [Magic](https://www.mofacloud.com/#/register?code=SOWJdu0A) | 中转 | 0.1 | 12.00 / 200 GB | 48.00 / 300 GB | None | 8 折<br>`mfy926`<br>周期套餐可用<br>长期有效 |
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
 | 2023.03.29 | [FacMata](https://entrance.facmata.net/#/register?code=RhMhPwBc) | 中转 | 0.1 | 9.99 / 100 GB | 59.99 / 300 GB | 0.5 hours | None |
-| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效<br><br>11.24 / 月 / 1124 GB<br>49.88 / 不限时 / 1124 GB<br>88.88 / 不限时 / 2448 GB<br>11.28 前可购买 |
+| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效<br><br>18.88 / 月 / 1212 GB<br>49.88 / 不限时 / 1212 GB<br>88.88 / 不限时 / 2624 GB<br>12.13 前可购买 |
 | 2023.05.01 | [农夫山泉](https://fff.nfsq.me/#/register?code=Y7sMzWiV) | 中转 | 1 | 6.00 / 200 GB | 12.00 / 200 GB | 48 hours | None |
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://1.ovofast.com/#/register?code=0pI5OPXj)<br>`*VH` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
