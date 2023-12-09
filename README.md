@@ -82,7 +82,7 @@
 | 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 7.99 / 200 GB | 65.00 / 500 GB | 5 hours | None |
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 5.00 / 100 GB | None | None | None |
 | 2023.07.27 | [私房菜](https://air.kogeki.dev/ui/#/register?code=VuYPc0MT)<br>`VH` | 中转 | 1 | 5.00 / 50 GB | None | None | None |
-| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/auth/signup;referral=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
+| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/#/auth/signup;referral=fmCyLM2T) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | 7.5 折<br>`12.12-25%`<br>所有套餐可用<br>12.13 前有效 |
 | 2023.08.22 | [流萤云](https://liuyingyun.work/#/register?code=BGf3Pl5Q) | 中转 | 0.6 | 9.66 / 488 GB | 14.88 / 266 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效 |
 | 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 中转 | 1 | 10.00 / 168 GB | 36.00 / 300 GB | 24 hours<br>非全节点 | None |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  12.80 / 150 GB | 9.80 / 30 GB | None | None |
