@@ -67,7 +67,7 @@
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=xl7MHbiY) | 直连 | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.19 | [Ykk](https://ykkkcloud.com/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 100 GB | 30.00 / 100 GB | 12 hours | None |
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 中转 | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | None |
-| 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | None |
+| 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | 8.5 折<br>`666`<br>所有套餐可用<br>短期有效 |
 | 2023.03.22 | [Magic](https://www.mofacloud.com/#/register?code=SOWJdu0A) | 中转 | 0.1 | 12.00 / 200 GB | 48.00 / 300 GB | None | 8 折<br>`mfy926`<br>周期套餐可用<br>长期有效 |
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
 | 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效<br><br>18.88 / 月 / 1212 GB<br>49.88 / 不限时 / 1212 GB<br>88.88 / 不限时 / 2624 GB<br>12.13 前可购买 |
