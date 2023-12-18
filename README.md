@@ -99,7 +99,7 @@
 | :---: | :---: |
 | Windows | `Clash for Windows`，`Clash Verge`，`V2ranN`，`Nekoray`，`sing-box` |
 | Mac | `ClashX`，`Clash Verge`，`sing-box`，`Stash`，`Surge` |
-| Android | `Clash for Android`，`Clash Meta for Android`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri` |
+| Android | `Clash for Android`，`Clash Meta for Android`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify` |
 | iOS | `Shadowrocket`，`sing-box`，`Surge`，`Quantumult X`，`Loon` |
 | OpenWrt | `OpenClash`，`Passwall` |
 
