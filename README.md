@@ -68,7 +68,7 @@
 | 2023.02.20 | [TOPTCP](https://letuclash.top/index.php#/register?code=Gm8ajyV2) | 中转 | 1 | 8.00 / 100 GB | 50.00 / 500 GB | None | None |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 5.00 / 100 GB | 88.00 / 180 GB | None | None |
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
-| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | None |
+| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | 7 折<br>`Merry-Christmas-30off`<br>所有套餐可用<br>12.29 前有效 |
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 6.00 / 200 GB | 12.00 / 200 GB | 48 hours | 8 折<br>`农夫山泉8折`<br>所有套餐可用<br>长期有效 |
 | 2023.05.02 | [TaiShan](https://us.taishan2.pro/#/register?code=j8WBrHpH) | 中转 | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/#/register?code=0pI5OPXj)<br>`*VH` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
