@@ -97,10 +97,10 @@
 
 |操作系统|代理软件|
 | :---: | :---: |
-| Windows | `Clash for Windows`，`Clash Verge`，`V2ranN`，`Nekoray`，`sing-box` |
-| Mac | `ClashX`，`Clash Verge`，`sing-box`，`Stash`，`Surge` |
+| Windows | `Clash for Windows`，`Clash Verge`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify` |
+| Mac | `ClashX`，`Clash Verge`，`sing-box`，`Stash`，`Surge`，`Hiddify` |
 | Android | `Clash for Android`，`Clash Meta for Android`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify` |
-| iOS | `Shadowrocket`，`sing-box`，`Surge`，`Quantumult X`，`Loon` |
+| iOS | `Shadowrocket`，`sing-box`，`Surge`，`Quantumult X`，`Loon`，`Hiddify` |
 | OpenWrt | `OpenClash`，`Passwall` |
 
 ---
