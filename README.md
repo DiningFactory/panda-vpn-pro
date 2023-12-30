@@ -58,7 +58,6 @@
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`#V` | 直连 | 0.01 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 7折<br>`去吧，双弹瓦斯！`<br>所有套餐可用<br>2024.1.15 前有效 |
 | 2022.11.10 | [猫七七](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 9 折<br>`mango9`<br>所有套餐可用<br>长期有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 中转 | 1 | 15.00 / 200 GB | 72.99 / 384 GB | None | None |
-| 2022.11.15 | [彩云](https://home.caiyun.pw/#/register?code=dv55P9Kw) | 中转 | 0.5 | 18.80 / 200 GB | 100.00 / 1000 GB | None | None |
 | 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 10.00 / 138 GB | 27.88 / 100 GB | None | 8.5 折<br>`2024666`<br>月付套餐可用<br>8 折<br>`2024888`<br>季付及以上套餐可用<br>2024.1.3 前可用 |
 | 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | 8 折<br>`yd80%`<br>月付及不限时套餐可用<br>7.8 折<br>`yd78%`<br>季付及半年付套餐可用<br>7.5 折<br>`yd75%`<br>年付套餐可用<br>2024.1.3 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`V` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | None |
