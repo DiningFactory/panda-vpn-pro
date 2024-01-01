@@ -48,7 +48,7 @@
 | 2019.03.17 | [SAC](https://sachk.189.lol/index.php#/register?code=1YIbUxet) | 中转 | 1 | 8.99 / 130 GB | 82.99 / 500 GB | 5 hours | 8.5 折<br>`SAC2024`<br>所有套餐可用<br>限量 50 份<br>9 折<br>`SAC2401`<br>所有套餐可用<br>限量 100 份 |
 | 2019.09.18 | [SSEP](https://ssep.cc/#/register?code=h4FNyC9Y) | 中转 | 1 | 10.00 / 192 GB | 40.00 / 192 GB | 24 hours | 5 折<br>`2024-0101-50off`<br>所有套餐可用<br>1.4 前有效 |
 | 2020.07.02 | [次元雲](https://ciyy.cc/index.php#/register?code=4ClGtdDG) | 中转 | 0.8 | 10.00 / 128 GB | 119.00 / 1024 GB | None | None |
-| 2020.09.26 | [nanoPort](https://96110.sbs/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
+| 2020.09.26 | [nanoPort](https://v2.nanoport.pro/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 8 折<br>`2024`<br>所有套餐可用<br>1.4 前有效 |
 | 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
