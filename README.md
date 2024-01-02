@@ -54,7 +54,7 @@
 | 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | 8 折<br>`1111`<br>所有套餐可用<br>1.7 前有效 |
-| 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=ySwxDenK) | 中转 | 1 | 8.80 / 88 GB | 19.00 / 150 GB | None | 8.8 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效<br><br>6.6 折<br>`newyear`<br>周期套餐可用<br>7.7 折<br>`newyear2024`<br>不限时套餐可用<br>1.3 前有效 |
+| 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 19.00 / 150 GB | None | 8.8 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效<br><br>6.6 折<br>`newyear`<br>周期套餐可用<br>7.7 折<br>`newyear2024`<br>不限时套餐可用<br>1.3 前有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`#V` | 直连 | 0.01 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 7折<br>`去吧，双弹瓦斯！`<br>所有套餐可用<br>1.15 前有效 |
 | 2022.11.10 | [猫七七](https://neko77.best/#/register?code=CA0hkIz3) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 9 折<br>`mango9`<br>所有套餐可用<br>长期有效<br><br>8 折<br>`yellowwhite`<br>所有套餐可用<br>1.4 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=qhfaw5ak) | 中转 | 1 | 15.00 / 200 GB | 72.99 / 384 GB | None | 8.8 折<br>`CLM2024`<br>所有套餐可用<br>1.4 前有效 |
