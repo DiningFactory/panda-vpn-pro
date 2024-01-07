@@ -69,7 +69,7 @@
 | 2023.03.24 | [无界云](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 1 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | None |
 | 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | None |
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 6.00 / 200 GB | 12.00 / 200 GB | 48 hours | 8 折<br>`农夫山泉8折`<br>所有套餐可用<br>长期有效 |
-| 2023.05.02 | [TaiShan](https://us.taishan2.pro/#/register?code=j8WBrHpH) | 中转 | 1 |10.00 / 128 GB | 15.00 / 100 GB | 24 hours | None |
+| 2023.05.02 | [TaiShan](https://us.taishan2.pro/#/register?code=j8WBrHpH) | 中转 | 1 |10.00 / 128 GB | 27.00 / 150 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*VH` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
 | 2023.06.03 | [ACA](https://www.aca.best/#/register?code=bo2bDJrK) | 中转 | 0.1 | 6.00 / 188 GB | 10.00 / 100 GB | None | None |
 | 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 10.00 / 200 GB | 26.00 / 200 GB | None | None |
@@ -77,7 +77,7 @@
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
 | 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 7.99 / 200 GB | 65.00 / 500 GB | 5 hours | None |
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 5.00 / 100 GB | None | None | None |
-| 2023.07.27 | [私房菜](https://air.kogeki.dev/ui/#/register?code=VuYPc0MT)<br>`VH` | 中转 | 1 | 5.00 / 50 GB | None | None | 8.8 折<br>`12discount`<br>季付及以上套餐可用<br>1.8 前有效 |
+| 2023.07.27 | [私房菜](https://air.kogeki.dev/ui/#/register?code=VuYPc0MT)<br>`VH` | 中转 | 1 | 5.00 / 50 GB | None | None | None |
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/en/#/auth/signup;referral=71ViHZnB) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
 | 2023.08.22 | [流萤云](https://web.lyun.one/#/register?code=BGf3Pl5Q) | 中转 | 0.6 | 9.66 / 488 GB | 14.88 / 266 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效<br><br>6 折<br>`HappyNewYear`<br>所有套餐可用<br>1.11 前有效 |
 | 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 中转 | 1 | 10.00 / 168 GB | 36.00 / 300 GB | 24 hours<br>非全节点 | None |
