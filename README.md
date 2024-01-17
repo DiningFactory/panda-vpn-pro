@@ -67,11 +67,9 @@
 | 2023.02.19 | [Ykk](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 100 GB | 30.00 / 100 GB | 12 hours | None |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 6.00 / 100 GB | 88.00 / 180 GB | None | None |
 | 2023.03.24 | [星辰无界](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 0.3 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | 7 折<br>`30OFF`<br>所有套餐可用<br>短期有效 |
-| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.90 / 300 GB | 19.88 / 300 GB | 1 GB | None |
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 6.00 / 200 GB | 12.00 / 200 GB | 48 hours | 8 折<br>`农夫山泉8折`<br>所有套餐可用<br>长期有效 |
 | 2023.05.02 | [TaiShan](https://us.taishan2.pro/#/register?code=j8WBrHpH) | 中转 | 1 |10.00 / 128 GB | 27.00 / 150 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*VH` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
-| 2023.06.03 | [ACA](https://www.aca.best/#/register?code=bo2bDJrK) | 中转 | 0.1 | 6.00 / 188 GB | 10.00 / 100 GB | None | None |
 | 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 10.00 / 200 GB | 26.00 / 200 GB | None | None |
 | 2023.06.25 | [To2](https://ai.totwo.top/#/register?code=6uKUDQ6w) | 中转 | 0.1 | 8.00 / 120 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
