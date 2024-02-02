@@ -46,7 +46,7 @@
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SAC](https://hn.189.lol/index.php#/register?code=1YIbUxet) | 中转 | 1 | 8.99 / 130 GB | 82.99 / 500 GB | 5 hours | None |
-| 2019.09.18 | [SSEP](https://ssep.cc/#/register?code=h4FNyC9Y) | 中转 | 1 | 10.00 / 192 GB | 40.00 / 192 GB | 24 hours | None |
+| 2019.09.18 | [SSEP](https://ssep.cc/#/register?code=M2VCF3r3) | 中转 | 1 | 10.00 / 192 GB | 40.00 / 192 GB | 24 hours | None |
 | 2020.07.02 | [次元雲](https://ciyy.cc/index.php#/register?code=4ClGtdDG) | 中转 | 0.8 | 10.00 / 128 GB | 119.00 / 1024 GB | None | None |
 | 2020.09.26 | [nanoPort](https://v2.nanoport.pro/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
