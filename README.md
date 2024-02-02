@@ -70,6 +70,7 @@
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 6.00 / 200 GB | 12.00 / 200 GB | 48 hours | 8 折<br>`农夫山泉8折`<br>所有套餐可用<br>长期有效 |
 | 2023.05.02 | [TaiShan](https://us.taishan2.pro/#/register?code=j8WBrHpH) | 中转 | 1 |10.00 / 128 GB | 27.00 / 150 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*VH` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
+| 2023.06.03 | [ACA](https://www.aca.best/#/register?code=RUV0zn2j) | 中转 | 1 | 8.00 / 120 GB | None | None | None |
 | 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 10.00 / 200 GB | 26.00 / 200 GB | None | None |
 | 2023.06.25 | [To2](https://ai.totwo.top/#/register?code=6uKUDQ6w) | 中转 | 0.1 | 8.00 / 120 GB | 25.00 / 100 GB | None | None |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
