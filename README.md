@@ -79,7 +79,6 @@
 | 2023.07.27 | [私房菜](https://air.kogeki.dev/ui/#/register?code=VuYPc0MT)<br>`VH` | 中转 | 1 | 5.00 / 50 GB | None | None | 9 折<br>`DragonLuck24`<br>月付及以上套餐可用<br>8.5 折<br>`ProsperousDragon2024`<br>半年付及以上套餐可用<br>2.19 前有效 |
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/en/#/auth/signup;referral=71ViHZnB) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
 | 2023.08.22 | [流萤云](https://web.lyun.one/#/register?code=BGf3Pl5Q) | 中转 | 1 | 9.99 / 288 GB | 15.66 / 266 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效<br><br>8 折<br>`恭喜发财`<br>所有套餐可用<br>2.29 前有效 |
-| 2023.08.24 | [EXTC](https://extc.shop/#/register?code=UF6ALjPo) | 中转 | 1 | 10.00 / 168 GB | 36.00 / 300 GB | 24 hours<br>非全节点 | None |
 | 2023.08.30 | [UNU](https://portal.ununetwork.top/#/register?code=eyh89xDO) | 中转 | 1 | 10.00 / 128 GB | 9.00 / 50 GB | 24 hours<br>非全节点 | 9 折<br>`8ENDZzTW`<br>周期套餐可用<br>短期有效 |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  12.80 / 150 GB | 39.90 / 200 GB | None | 9 折<br>`month90`<br>月付套餐可用<br>8.5 折<br>`season85`<br>季付套餐可用<br>8.2 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>2.18 前有效 |
 | 2023.11.30 | [小巫云](https://www.grey51.life/#/register?code=iR5Q5mDe) | 中转 | 0.9 | None | 12.00 / 100 GB | None | 7 折<br>`newyear`<br>所有套餐可用<br>2.25 前有效 |
