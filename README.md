@@ -78,7 +78,7 @@
 | 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 7.99 / 200 GB | 65.00 / 500 GB | 5 hours | None |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.pro/auth/register?code=mnYBMQ) | 中转 | 1 | 10.00 / 200 GB | 43.00 / 420 GB | None | 100 / 年 / (500 GB / 月)<br>7.5 折<br>`2024`<br>大部分套餐可用<br>2.13 前有效 | 
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 5.00 / 100 GB | None | None | None |
-| 2023.07.27 | [私房菜](https://air.kogeki.dev/ui/#/register?code=VuYPc0MT)<br>`VH` | 中转 | 1 | 5.00 / 50 GB | None | None | 9 折<br>`DragonLuck24`<br>月付及以上套餐可用<br>8.5 折<br>`ProsperousDragon2024`<br>半年付及以上套餐可用<br>2.19 前有效 |
+| 2023.07.27 | [私房菜](https://air.kogeki.dev/ui/#/register?code=VuYPc0MT)<br>`VH` | 中转 | 1 | 6.00 / 50 GB | None | None | 9 折<br>`DragonLuck24`<br>月付及以上套餐可用<br>8.5 折<br>`ProsperousDragon2024`<br>半年付及以上套餐可用<br>2.19 前有效 |
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/en/#/auth/signup;referral=71ViHZnB) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
 | 2023.08.22 | [流萤云](https://web.lyun.one/#/register?code=BGf3Pl5Q) | 中转 | 1 | 9.99 / 288 GB | 15.66 / 266 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效<br><br>8 折<br>`恭喜发财`<br>所有套餐可用<br>2.29 前有效 |
 | 2023.08.30 | [UNU](https://portal.ununetwork.top/#/register?code=eyh89xDO) | 中转 | 1 | 10.00 / 128 GB | 9.00 / 50 GB | 24 hours<br>非全节点 | 9 折<br>`8ENDZzTW`<br>周期套餐可用<br>短期有效 |
