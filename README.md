@@ -67,6 +67,7 @@
 | 2023.02.19 | [Ykk](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 150 GB | 30.00 / 100 GB | 12 hours | 7 折<br>`2024`<br>所有套餐可用<br>2.15 前有效 |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 6.00 / 100 GB | 88.00 / 180 GB | None | 8 折<br>`888`<br>所有套餐可用<br>7 折<br>`777`<br>年付套餐可用<br>6 折<br>`666`<br>三年付套餐可用<br>2.7 前有效 |
 | 2023.03.24 | [星辰无界](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 0.3 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | 7 折<br>`30OFF`<br>所有套餐可用<br>短期有效 |
+| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.88 / 300 GB | 44.66 / 500 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效<br><br>19.99 / 月 / 500 GB<br>29.99 / 月 / 1024 GB<br>56.66 / 月 / 2048 GB<br>24.24 / 永久 / 500 GB<br>46.88 GB / 永久 / 1024 GB<br>88.88 / 永久 / 2048 GB<br>198.88 / 永久 / 5120 GB<br>388.88 / 永久 / 10240 GB<br>699.99 / 永久 / 20480 GB<br>短期有效 |
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 6.00 / 200 GB | 12.00 / 200 GB | 48 hours | 8 折<br>`农夫山泉8折`<br>所有套餐可用<br>长期有效 |
 | 2023.05.02 | [TaiShan](https://us.taishan2.pro/#/register?code=j8WBrHpH) | 中转 | 1 |10.00 / 128 GB | 27.00 / 150 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*H` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
