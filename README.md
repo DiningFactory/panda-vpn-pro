@@ -54,7 +54,7 @@
 | 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | 8 折<br>`LINKI2024`<br>所有套餐可用<br>短期有效 |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
-| 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | None | 8.8 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效 |
+| 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | None | 8.8 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效<br><br>6 折<br>`NewYear2024`<br>周期套餐可用<br>8 折<br>`Dragon2024`<br>不限时套餐可用<br>2.15 前有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`#VH` | 直连 | 0.01 | 1.99 / 500 GB | 14.90 / 1000 GB | None | 6 折<br>`饺子`<br>所有套餐可用<br>2.18 前有效 |
 | 2022.11.10 | [猫七七](https://neko77.best/#/register?code=CA0hkIz3) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 9 折<br>`mango9`<br>所有套餐可用<br>长期有效<br><br>8 折<br>`juziapple`<br>所有套餐可用<br>2.15 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=d6os6Lzi) | 中转 | 1 | 15.00 / 200 GB | 72.99 / 384 GB | None | 7.8 折<br>`clm2024`<br>所有套餐可用<br>2.13 前可用 |
@@ -67,7 +67,7 @@
 | 2023.02.19 | [Ykk](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 150 GB | 30.00 / 100 GB | 12 hours | 7 折<br>`2024`<br>所有套餐可用<br>2.15 前有效 |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 6.00 / 100 GB | 88.00 / 180 GB | None | 8 折<br>`888`<br>所有套餐可用<br>7 折<br>`777`<br>年付套餐可用<br>6 折<br>`666`<br>三年付套餐可用<br>2.7 前有效 |
 | 2023.03.24 | [星辰无界](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 0.3 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | 7 折<br>`30OFF`<br>所有套餐可用<br>短期有效 |
-| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.88 / 300 GB | 44.66 / 500 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效<br><br>19.99 / 月 / 500 GB<br>29.99 / 月 / 1024 GB<br>56.66 / 月 / 2048 GB<br>24.24 / 永久 / 500 GB<br>46.88 GB / 永久 / 1024 GB<br>88.88 / 永久 / 2048 GB<br>198.88 / 永久 / 5120 GB<br>388.88 / 永久 / 10240 GB<br>699.99 / 永久 / 20480 GB<br>短期有效 |
+| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.88 / 300 GB | 44.66 / 500 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效<br><br>19.99 / 月 / 500 GB<br>29.99 / 月 / 1024 GB<br>56.66 / 月 / 2048 GB<br>24.24 / 不限时 / 500 GB<br>46.88 GB / 不限时 / 1024 GB<br>88.88 / 不限时 / 2048 GB<br>198.88 / 不限时 / 5120 GB<br>388.88 / 不限时 / 10240 GB<br>699.99 / 不限时 / 20480 GB<br>短期有效 |
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 6.00 / 200 GB | 12.00 / 200 GB | 48 hours | 8 折<br>`农夫山泉8折`<br>所有套餐可用<br>长期有效 |
 | 2023.05.02 | [TaiShan](https://us.taishan2.pro/#/register?code=j8WBrHpH) | 中转 | 1 |10.00 / 128 GB | 27.00 / 150 GB | 24 hours | 8 折<br>`vgD9UubN`<br>大部分套餐可用<br>2.17 前有效 |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*H` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | 8 折<br>`新年快乐`<br>年付套餐可用<br>2.24 前有效 |
