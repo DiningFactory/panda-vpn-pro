@@ -59,7 +59,7 @@
 | 2022.11.10 | [猫七七](https://neko77.best/#/register?code=CA0hkIz3) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 9 折<br>`mango9`<br>所有套餐可用<br>长期有效<br><br>8 折<br>`juziapple`<br>所有套餐可用<br>2.15 前有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=d6os6Lzi) | 中转 | 1 | 15.00 / 200 GB | 72.99 / 384 GB | None | 7.8 折<br>`clm2024`<br>所有套餐可用<br>2.13 前可用 |
 | 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 10.00 / 138 GB | 27.88 / 100 GB | None | 8.5 折<br>`2024666`<br>周期套餐可用<br>8 折<br>`2024888`<br>季付及以上套餐可用<br>2.15 前有效 |
-| 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | None |
+| 2022.11.20 | [阿细小屋](https://axixw.cc/index.php#/register?code=qC9D703h) | 中转 | 1 | 12.00 / 120 GB | 99.00 / 1024 GB | None | 8 折<br>`龙年大吉`<br>所有套餐可用<br>2.14 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`#V` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 7 折<br>`5s6RzRoz`<br>所有套餐可用<br>短期有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=8S3V1vsr) | 中转 | 0.5 | 6.90 / 100 GB | 28.80 / 500 GB | None | 8.5 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://www.xn--osv171g.net/#/register?code=4nCrjaUd) | 中转 | 5 | 8.00 / 800 GB | 50.00 / 1000 GB | None | None |
@@ -73,7 +73,7 @@
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*H` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | 8 折<br>`新年快乐`<br>年付套餐可用<br>2.24 前有效 |
 | 2023.06.03 | [ACA](https://www.aca.best/#/register?code=RUV0zn2j) | 中转 | 1 | 8.00 / 120 GB | None | None | 8 折<br>`bE2RZmgM`<br>所有套餐可用<br>短期有效 |
 | 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 10.00 / 200 GB | 26.00 / 200 GB | None | None |
-| 2023.06.25 | [To2](https://ai.totwo.top/#/register?code=6uKUDQ6w) | 中转 | 0.1 | 8.00 / 120 GB | 25.00 / 100 GB | None | None |
+| 2023.06.25 | [To2](https://ai.totwo.top/#/register?code=6uKUDQ6w) | 中转 | 0.1 | 8.00 / 120 GB | 25.00 / 100 GB | None | 8.8 折<br>`hello2024`<br>周期套餐可用<br>89.9 / 不限时 / 888 GB<br>2.16 前有效 |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=ipz1xU9g) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
 | 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 7.99 / 200 GB | 65.00 / 500 GB | 5 hours | None |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.pro/auth/register?code=mnYBMQ) | 中转 | 1 | 10.00 / 200 GB | 43.00 / 420 GB | None | 100 / 年 / (500 GB / 月)<br>7.5 折<br>`2024`<br>大部分套餐可用<br>2.13 前有效 | 
