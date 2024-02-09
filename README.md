@@ -49,7 +49,7 @@
 | 2019.09.18 | [SSEP](https://ssep.cc/#/register?code=M2VCF3r3) | 中转 | 1 | 10.00 / 192 GB | 40.00 / 192 GB | 24 hours | None |
 | 2020.07.02 | [次元雲](https://ciyy.cc/index.php#/register?code=4ClGtdDG) | 中转 | 0.2 | 10.00 / 128 GB | 119.00 / 1024 GB | None | 9折<br>`2024龙年9折`<br>月付及季付套餐可用<br>8 折<br>`龙年大吉`<br>年付套餐可用<br>中杯及大杯年付套餐时长翻倍<br>8 折<br>`dragon2024-20%`<br>不限时套餐可用<br>购买不限时套餐前 100 名流量翻倍<br>注：以上套餐所赠送的流量或时长不会立马到账，需等待几天<br>短期有效 |
 | 2020.09.26 | [nanoPort](https://v2.nanoport.pro/#/register?code=kP3JULaN) | 直连 | 1 | 2.00 / 1999 GB | None |3 hours | None |
-| 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=7rTYBz6d) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
+| 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 8 折<br>`新春快乐`<br>所有套餐可用<br>3.1 前有效 |
 | 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | 8 折<br>`LINKI2024`<br>所有套餐可用<br>短期有效 |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
