@@ -72,7 +72,7 @@
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 |10.00 / 128 GB | 27.00 / 150 GB | 24 hours | 8 折<br>`vgD9UubN`<br>大部分套餐可用<br>2.17 前有效 |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*H` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | 8 折<br>`新年快乐`<br>年付套餐可用<br>2.24 前有效 |
 | 2023.06.03 | [ACA](https://www.aca.best/#/register?code=RUV0zn2j) | 中转 | 1 | 8.00 / 120 GB | None | None | 8 折<br>`bE2RZmgM`<br>所有套餐可用<br>短期有效 |
-| 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 10.00 / 200 GB | 26.00 / 200 GB | None | None |
+| 2023.06.23 | [快乐星球](https://klxqbak.djgskc.top/#/register?code=hoikUcRr) | 中转 | 0.5 | 15.00 / 200 GB | 26.00 / 200 GB | None | None |
 | 2023.06.25 | [To2](https://ai.totwo.top/#/register?code=6uKUDQ6w) | 中转 | 0.1 | 8.00 / 120 GB | 25.00 / 100 GB | None | 8.8 折<br>`hello2024`<br>周期套餐可用<br>89.9 / 不限时 / 888 GB<br>2.16 前有效 |
 | 2023.06.28 | [黑暗森林](https://darkforest.cloud/index.php#/register?code=aRRSo9bZ) | 中转 | 0.1 | 10.00 / 125 GB | 25.00 / 188 GB | None | None |
 | 2023.06.30 | [云上全球](https://www.10010.lat/#/register?code=ki7FiJlc) | 中转 | 1 | 7.99 / 200 GB | 65.00 / 500 GB | 5 hours | None |
