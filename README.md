@@ -63,7 +63,7 @@
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`#V` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | 7 折<br>`5s6RzRoz`<br>所有套餐可用<br>短期有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=8S3V1vsr) | 中转 | 0.5 | 6.90 / 100 GB | 28.80 / 500 GB | None | 8.5 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://www.xn--osv171g.net/#/register?code=4nCrjaUd) | 中转 | 5 | 8.00 / 800 GB | 50.00 / 1000 GB | None | 88 / 年 / (999 GB / 月)<br>158 / 年 / (1998 GB / 月)<br>666 / 年 / (8888 GB / 月)<br>39 / 不限时 / 999 GB<br>99 / 不限时 / 2999 GB<br>288 / 不限时 / 10000 GB<br>4 折<br>`888`<br>月付套餐可用<br>短期有效 |
-| 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=fhcDWoEq)<br>`#H` | 直连 | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
+| 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=Oo4eCbR0)<br>`#H` | 直连 | 1 | 3.00 / 100 GB | 15.99 / 300 GB | None | None |
 | 2023.02.19 | [Ykk](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 150 GB | 30.00 / 100 GB | 12 hours | 7 折<br>`2024`<br>所有套餐可用<br>2.15 前有效 |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 6.00 / 100 GB | 88.00 / 180 GB | None | 66 / 年 / (128 GB / 月)<br>99 / 年 / (256 GB / 月)<br>58 / 不限时 / 200 GB<br>2.16 前有效 |
 | 2023.03.24 | [星辰无界](https://wujielink.xyz/#/register?code=JRalPAg8) | 中转 | 0.3 | 8.90 / 138 GB | 15.80 / 138 GB | 1 hours | 7 折<br>`30OFF`<br>所有套餐可用<br>短期有效 |
