@@ -51,7 +51,7 @@
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
 | 2022.05.25 | [Linki](https://user.linki-1.com/#/register?code=7tqfNR3Y) | 中转 | 1 | 9.90 / 100 GB | 29.90 / 200 GB | 2 hours | None |
-| 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=as7WvYza) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
+| 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 7.00 / 100 GB | 14.00 / 100 GB | 48 hours | None |
 | 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 0.8 | 8.00 / 100 GB | 15.00 / 100 GB | None | None |
 | 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | None | 8.8 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`#VH` | 直连 | 0.01 | 1.99 / 500 GB | 14.90 / 1000 GB | None | None |
