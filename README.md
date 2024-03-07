@@ -65,7 +65,6 @@
 | 2023.02.15 | [慈善机场](https://xn--30rs3bu7r87f.com/#/register?code=Ef0sDOj7)<br>`#H` | 直连 | 1 | 0.70 / 100 GB | None | None | None |
 | 2023.02.19 | [Ykk](https://ykkk.cloud/#/register?code=9WZ6Bi2w) | 中转 | 1 | 10.50 / 150 GB | 30.00 / 100 GB | 12 hours | None |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 6.00 / 100 GB | 88.00 / 180 GB | None | None |
-| 2023.03.30 | [COO](https://web.coo.wiki/#/register?code=IB5Iv7XL) | 中转 | 0.9 | 9.88 / 300 GB | 44.66 / 500 GB | 1 GB | 9 折<br>`coo.lol-10off`<br>所有套餐可用<br>长期有效<br><br>19.99 / 月 / 500 GB<br>29.99 / 月 / 1024 GB<br>56.66 / 月 / 2048 GB<br>24.24 / 不限时 / 500 GB<br>46.88 GB / 不限时 / 1024 GB<br>88.88 / 不限时 / 2048 GB<br>198.88 / 不限时 / 5120 GB<br>388.88 / 不限时 / 10240 GB<br>699.99 / 不限时 / 20480 GB<br>短期有效 |
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | None |
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 | 10.00 / 128 GB | 27.00 / 150 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*H` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
