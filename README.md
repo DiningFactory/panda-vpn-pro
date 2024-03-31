@@ -74,8 +74,8 @@
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/en/#/auth/signup;referral=71ViHZnB) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
 | 2023.08.22 | [流萤云](https://panel.lyun.pro/#/register?code=BGf3Pl5Q)<br>请勿再购买<br>已被 `Frost` 收购 | 中转 | 0.5 | 6.66 / 88 GB | 12.88 / 88 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  12.80 / 150 GB | 39.90 / 200 GB | None | None |
-| 2023.11.30 | [小巫云](https://www.grey51.life/#/register?code=b6x4qNSX) | 中转 | 0.9 | None | 12.00 / 100 GB | None | None |
-| 2023.12.27 | [DPDP](https://www.dpdp.cc/#/register?code=lmIu6DzE) | 中转 | 1 | 6.99 / 100 GB | 40.00 / 300 GB | 5 GB | 8 折<br>`dpdpcc`<br>大部分套餐可用<br>短期有效 |
+| 2023.11.30 | [小巫云](https://www.grey51.life/#/register?code=b6x4qNSX) | 中转 | 0.9 | None | 12.00 / 100 GB | None | 9 折<br>`sunday`<br>所有套餐可用<br>4.5 前有效 |
+| 2023.12.27 | [DPDP](https://www.dpdp.cc/#/register?code=lmIu6DzE) | 中转 | 1 | 6.99 / 100 GB | 40.00 / 300 GB | 5 GB | 8 折<br>`dpdpcc`<br>大部分套餐可用<br>长期有效 |
 | 2024.01.12 | [Frost](https://www.frostboutiques.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 9 折`e9tb09De`<br>所有套餐可用<br>长期有效 |
 
 👀 以上所列举的套餐都属于机场中最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网（部分机场官网可能处于被墙的状态，若是进不去可将代理工具切换到全局代理模式）查看更多套餐**。套餐的价格偶尔会发生变动，我如果知道了就会进行相应的更新，但不一定会及时，具体以官网为主。不过，如果机场跑路，我是肯定会第一时间更新的。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，请不要误以为全是同一个老板开的，这是很正常的，因为机场的页面基本都是用了相同的开源项目，比如 `v2board`。
