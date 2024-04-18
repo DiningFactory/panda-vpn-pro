@@ -55,7 +55,7 @@
 | 2022.09.26 | [大牛](https://daniu.e300daniu.top/#/register?code=v99X2LV9) | 中转 | 0.8 | 8.00 / 102 GB | 15.00 / 102 GB | None | None |
 | 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | None | 8.8 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 1.99 / 500 GB | 14.90 / 1000 GB | None | None |
-| 2022.11.10 | [猫七七](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 9 折<br>`mango9`<br>所有套餐可用<br>长期有效 |
+| 2022.11.10 | [猫七七](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 8 折<br>`wuyi`<br>所有套餐可用<br>5.9 前有效<br><br>9 折<br>`mango9`<br>所有套餐可用<br>长期有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=d6os6Lzi) | 中转 | 1 | 15.00 / 200 GB | 72.99 / 384 GB | None | None |
 | 2022.11.17 | [夜煞云](https://www.night-furyx.com/index.php#/register?code=F3xLKRhM) | 中转 | 0.6 | 10.00 / 138 GB | 27.88 / 100 GB | None | None |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 1.00 / 200 GB | 9.90 / 1000 GB | None | None |
@@ -73,7 +73,7 @@
 | 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/en/#/auth/signup;referral=71ViHZnB) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | None |
 | 2023.08.22 | [流萤云](https://panel.lyun.pro/#/register?code=BGf3Pl5Q)<br>请勿再购买<br>已被 `Frost` 收购 | 中转 | 0.5 | 6.66 / 88 GB | 12.88 / 88 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  12.80 / 150 GB | 39.90 / 200 GB | None | None |
-| 2023.11.30 | [小巫云](https://www.grey51.life/#/register?code=b6x4qNSX) | 中转 | 0.9 | None | 12.00 / 100 GB | None | None |
+| 2023.11.30 | [小巫云](https://www.grey51.life/#/register?code=b6x4qNSX) | 中转 | 0.9 | None | 12.00 / 100 GB | None | 9 折<br>`wuyi`<br>所有套餐可用<br>5.5 前有效 |
 | 2023.12.27 | [DPDP](https://www.dpdp.cc/#/register?code=lmIu6DzE) | 中转 | 1 | 6.99 / 100 GB | 40.00 / 300 GB | 5 GB | 8 折<br>`dpdpcc`<br>大部分套餐可用<br>长期有效 |
 | 2024.01.12 | [Frost](https://www.frostboutiques.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 9 折`e9tb09De`<br>所有套餐可用<br>长期有效 |
 
