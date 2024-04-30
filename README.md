@@ -47,7 +47,7 @@
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SAC](https://sachk.189.cam/index.php#/register?code=1YIbUxet) | 中转 | 1 | 9.99 / 130 GB | 84.99 / 500 GB | None | None |
-| 2020.04.22 | [次元雲](https://ciyy.cc/index.php#/register?code=4ClGtdDG) | 中转 | 0.8 | 10.00 / 128 GB | 158.00 / 1024 GB | None | 200 / 4000 GB<br>每年若剩余流量高于 400 GB 可重置流量<br>仅售 20 份<br><br>288 / 4000 GB<br>四年内，每年若剩余流量高于 400 GB 可重置流量<br>仅售 20 份<br><br>7 折<br>`次元云四岁啦`<br>季付及年付套餐可用，除了以上套餐<br><br>活动 4.30 10:00 开始<br>5.7 前有效 |
+| 2020.04.22 | [次元雲](https://ciyy.cc/index.php#/register?code=4ClGtdDG) | 中转 | 0.8 | 10.00 / 128 GB | 158.00 / 1024 GB | None | 200 / 4000 GB<br>每年若剩余流量高于 400 GB 可重置流量<br>仅售 20 份<br><br>288 / 4000 GB<br>四年内，每年若剩余流量高于 400 GB 可重置流量<br>仅售 20 份<br><br>7 折<br>`次元云四岁啦`<br>季付及年付套餐可用，除了以上套餐<br><br>5.7 前有效 |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 8 折<br>`202405`<br>所有套餐可用<br>5.6 前有效 |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 9.80 / 100 GB | 19.80 / 100 GB | 48 hours | None |
