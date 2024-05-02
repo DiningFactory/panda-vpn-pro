@@ -50,6 +50,7 @@
 | 2020.04.22 | [次元雲](https://ciyy.cc/#/register?code=tsL8Me6h) | 中转 | 0.8 | 10.00 / 128 GB | 158.00 / 1024 GB | None | 200 / 4000 GB<br>每年若剩余流量高于 400 GB 可重置流量<br>仅售 20 份<br>已售完，5.1-12:00 会补10 份<br><br>288 / 4000 GB<br>四年内，每年若剩余流量高于 400 GB 可重置流量<br>仅售 20 份<br><br>7 折<br>`次元云四岁啦`<br>季付及年付套餐可用，除了以上套餐<br><br>5.7 前有效 |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 8 折<br>`202405`<br>所有套餐可用<br>5.6 前有效 |
+| 2022.06.21 | [Frost](https://www.frostboutiques.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 7 折<br>`FrostVPN245103`<br>年付和黄金套餐可用<br>仅售 25 份<br><br>7.5 折<br>`FrostVPN245102`<br>半年付和白银套餐可用<br>仅售 50 份<br><br>8 折<br>`FrostVPN245101`<br>季付套餐可用<br>仅售 100 份<br><br>短期有效<br><br><br>9 折`e9tb09De`<br>季付以上套餐可用<br>长期有效 |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 9.80 / 100 GB | 19.80 / 100 GB | 48 hours | None |
 | 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=i0u5Qc7C) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | None | 8.8 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.80 / 1000 GB | None | 5 折<br>`五一优惠`<br>所有套餐可用<br>6.1 前有效 |
@@ -69,7 +70,6 @@
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  12.80 / 150 GB | 39.90 / 200 GB | None | 9 折<br>`month90`<br>月付套餐可用<br>8.5 折<br>`season85`<br>季付套餐可用<br>8.2 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>5.8 前有效 |
 | 2023.11.30 | [小巫云](https://www.grey51.life/#/register?code=b6x4qNSX) | 中转 | 0.9 | None | 12.00 / 100 GB | None | 9 折<br>`wuyi`<br>所有套餐可用<br>5.5 前有效 |
 | 2023.12.27 | [DPDP](https://www.dpdp.cc/#/register?code=lmIu6DzE) | 中转 | 1 | 6.99 / 100 GB | 40.00 / 300 GB | 5 GB | 8 折<br>`dpdpcc`<br>大部分套餐可用<br>长期有效 |
-| 2024.01.12 | [Frost](https://www.frostboutiques.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 7 折<br>`FrostVPN245103`<br>年付和黄金套餐可用<br>仅售 25 份<br><br>7.5 折<br>`FrostVPN245102`<br>半年付和白银套餐可用<br>仅售 50 份<br><br>8 折<br>`FrostVPN245101`<br>季付套餐可用<br>仅售 100 份<br><br>短期有效<br><br><br>9 折`e9tb09De`<br>季付以上套餐可用<br>长期有效 |
 
 👀 以上所列举的套餐都属于机场中最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网（部分机场官网可能处于被墙的状态，若是进不去可将代理工具切换到全局代理模式）查看更多套餐**。套餐的价格偶尔会发生变动，我如果知道了就会进行相应的更新，但不一定会及时，具体以官网为主。不过，如果机场跑路，我是肯定会第一时间更新的。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，请不要误以为全是同一个老板开的，这是很正常的，因为机场的页面基本都是用了相同的开源项目，比如 `v2board`。
 
