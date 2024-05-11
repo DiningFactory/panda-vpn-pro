@@ -62,10 +62,8 @@
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | None |
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 | 10.00 / 128 GB | 27.00 / 150 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*H` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
-| 2023.06.03 | [ACA](https://www.aca.best/#/register?code=RUV0zn2j) | 中转 | 1 | 8.00 / 120 GB | None | None | 6.5 折<br>`TFfTVNeM`<br>所有套餐可用<br>短期有效 |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.pro/auth/register?code=mnYBMQ) | 中转 | 1 | 10.00 / 200 GB | 22.00 / 200 GB | None | 9 折<br>`FW9`<br>所有套餐可用<br>长期有效 | 
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 5.00 / 100 GB | None | None | None |
-| 2023.08.05 | [蛋挞云](https://eggtartcloud.shop/en/#/auth/signup;referral=71ViHZnB) | 中转 | 0.4 | 7.00 / 99 GB | 30.00 / 188 GB | None | 8 折<br>`5.1HappyHappy`<br>所有套餐可用<br>短期有效 |
 | 2023.08.22 | [流萤云](https://panel.lyun.pro/#/register?code=BGf3Pl5Q)<br>请勿再购买<br>已被 `Frost` 收购 | 中转 | 0.5 | 6.66 / 88 GB | 12.88 / 88 GB | 3 GB | 9 折<br>`lyun9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  12.80 / 150 GB | 39.90 / 200 GB | None | 9 折<br>`month90`<br>月付套餐可用<br>8.5 折<br>`season85`<br>季付套餐可用<br>8.2 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>5.8 前有效 |
 | 2023.11.30 | [小巫云](https://www.grey51.life/#/register?code=b6x4qNSX) | 中转 | 0.9 | None | 12.00 / 100 GB | None | 9 折<br>`wuyi`<br>所有套餐可用<br>5.5 前有效 |
