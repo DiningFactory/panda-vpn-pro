@@ -7,7 +7,6 @@
 
  - 🗓️ 2023.11.02 🗓️ `Clash for Windows` 已停止更新，原因未知，但不影响使用。若实在有顾虑，可更换其他代理软件。注意，`Clash for Windows` 与 `Clash Core` 是两个完全不同的东西，也就是说，它停止更新不影响 `Clash` 的任何分支。不过，如果后者停止更新，将会使得前者的更新变得毫无意义。可以将前者想象为人的衣物，而后者为人的躯体。衣物对于躯体的活动毫无影响，但若躯体停止活动，那么更换衣物也就变得毫无意义。🗓️ 2023.11.03 🗓️ `Clash Premium Core`，`Clash.Meta Core`，`Clash for Android`，`Clash Meta for Android`，`Clash Verge`，`Tuic`，`Helloworld 路由器插件`，`Gui.for.Clash`，`homeproxy`，`Fclash`，`ClashX` 也纷纷停止更新或删库，部分进行了存档。想要备份各种 `Clash` 的人可[点击此处前往下载](https://mega.nz/folder/orkzRYbR#bHhSjy9r_9AJayIgqtZTag)。另外，**忠心劝诫各位不要在墙内的任何地方谈论任何与翻墙相关的事情**，无论是为了自身安全还是为了代理工具的安全。近期本来只是 `Clash for Windows` 删库，结果各种无知群众莫名把相关话题带上微博热搜，此后一堆 Core，GUI 删库，造成这一局面，可以说是那些无知人士带节奏所引起的一系列连锁反应。至于目前这些代理软件还能不能用呢，答案是能。只有到了这些代理工具或是内核被发现有严重漏洞那一天，或是当前主流协议都被新协议所替代时，才不可以使用。然而，对此这丝毫可以不用感到惊慌，代理工具以及内核千千万万，除了 `Clash` 还有 `V2ray` 等，并且旧事物的褪去总会有新事物来代替，互联网的更新是日新月异的，这点我相信各位很清楚。总之，请勿在墙内大谈特谈相关事件，此通知将长期保留。
  - 🗓️ 2023.05.26 🗓️ 临近敏感日期，各机场可能会存在或大或小的网络波动，请勿过于紧张。另外，友善提醒，由“局域网”跨入“互联网”后请谨言慎行，尤其是在敏感时期。此通知将于 6.15 删除。
- - 🗓️ 2023.06.08 🗓️ 使用 `Frost` 机场的用户请注意，由于正处敏感时期，所以机场主暂时将官网关闭，此通知将于官网恢复后删除。
 
 ---
 ---
@@ -51,7 +50,7 @@
 | 2020.04.22 | [次元雲](https://ciyy.cc/index.php/#/register?code=tsL8Me6h) | 中转 | 0.8 | 10.00 / 128 GB | 158.00 / 1024 GB | None | Nonw |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | 8 折<br>`端午安康 `<br>所有套餐可用<br>6.11 前有效 |
-| 2022.06.21 | [Frost](https://www.frostboutiques.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 9 折<br>`e9tb09De`<br>季付以上套餐可用<br>长期有效 |
+| 2022.06.21 | [Frost](https://www.twilightfrost.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 9 折<br>`e9tb09De`<br>季付以上套餐可用<br>长期有效 |
 | 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 9.80 / 100 GB | 19.80 / 100 GB | 48 hours | None |
 | 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=MKZS5XCq) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | None | 88 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.80 / 1000 GB | None | None |
