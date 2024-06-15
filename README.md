@@ -51,7 +51,7 @@
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
 | 2022.06.21 | [Frost](https://www.twilightfrost.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 9 折<br>`e9tb09De`<br>季付以上套餐可用<br>长期有效 |
-| 2022.09.18 | [农家小院](https://v2.hjl772vps.top/#/register?code=Q6jDXrlT) | 中转 | 1 | 9.80 / 100 GB | 19.80 / 100 GB | 48 hours | None |
+| 2022.09.18 | [农家小院](https://youf.in/#/register?code=Q6jDXrlT) | 中转 | 1 | 9.80 / 100 GB | 19.80 / 100 GB | 48 hours | None |
 | 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=MKZS5XCq) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | None | 88 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.80 / 1000 GB | None | None |
 | 2022.11.10 | [猫七七](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 0.8 | 9.98 / 100 GB |  6.00 / 30 GB | None | 9 折<br>`mango9`<br>所有套餐可用<br>长期有效 |
