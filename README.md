@@ -47,7 +47,7 @@
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SAC](https://sachk.189.cam/index.php#/register?code=1YIbUxet) | 中转 | 1 | 9.99 / 130 GB | 84.99 / 500 GB | Null | Null |
-| 2020.04.22 | [次元雲](https://ciyy.cc/index.php/#/register?code=tsL8Me6h) | 中转 | 0.8 | 10.00 / 128 GB | 158.00 / 1024 GB | Null | Nonw |
+| 2020.04.22 | [次元雲](https://ciyy.cc/index.php/#/register?code=tsL8Me6h) | 中转 | 0.8 | 10.00 / 128 GB | 158.00 / 1024 GB | Null | Null |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | Null | 14.90 / 130 GB | Null | Null |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | Null | Null |
 | 2022.06.21 | [Frost](https://www.twilightfrost.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 9 折<br>`e9tb09De`<br>季付以上套餐可用<br>长期有效 |
