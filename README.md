@@ -80,7 +80,7 @@
 
 |操作系统|代理软件|
 | :---: | :---: |
-| Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify`，`Clash Nyanpasu` |
+| Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify` |
 | Mac | `ClashX`，`Clash Verge`，`sing-box`，`Stash`，`Surge`，`Hiddify`，`Clash Nyanpasu` |
 | Android | `Clash for Android`，`Clash Meta for Android`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify` |
 | iOS | `Shadowrocket`，`sing-box`，`Surge`，`Quantumult X`，`Loon`，`Hiddify` |
