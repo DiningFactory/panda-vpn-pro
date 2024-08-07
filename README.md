@@ -62,7 +62,6 @@
 | 2023.02.09 | [极速云](https://512.jsy.lol/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | Null |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | Null |
 | 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 | 10.00 / 128 GB | 60.00 / 200 GB | 24 hours | Null |
-| 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*H` | 直连 | 1 | 1.00 / 100 GB | Null | 72 hours | Null |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.pro/auth/register?code=mnYBMQ) | 中转 | 1 | 10.00 / 300 GB | 22.00 / 200 GB | Null | Null | 
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 5.00 / 100 GB | Null | Null | Null |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  12.80 / 150 GB | 49.90 / 200 GB | Null | Null |
