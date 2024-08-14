@@ -55,8 +55,8 @@
 | 2022.09.18 | ~~[农家小院](https://youf.in/#/register?code=Q6jDXrlT)~~ | 中转 | 1 | 9.80 / 100 GB | 19.80 / 100 GB | 48 hours | Null |
 | 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=MKZS5XCq) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | Null | 88 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
-| 2022.11.10 | [猫七七](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 1 | 9.98 / 100 GB |  6.00 / 33 GB | Null | 7 折<br>`2024`<br>所有套餐可用<br> 8.12 前有效<br><br>9 折<br>`mango9`<br>所有套餐可用<br>长期有效 |
-| 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=d6os6Lzi) | 中转 | 1 | 15.88 / 200 GB | 72.99 / 384 GB | None | 7 折<br>`clm7`<br>年付套餐可用<br>85 折<br>`clm7packge`<br>不限时套餐可用<br>8.14 前有效 |
+| 2022.11.10 | [猫七七](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 1 | 9.98 / 100 GB |  6.00 / 33 GB | Null | 9 折<br>`mango9`<br>所有套餐可用<br>长期有效 |
+| 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=d6os6Lzi) | 中转 | 1 | 15.88 / 200 GB | 72.99 / 384 GB | None | Null |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=8S3V1vsr) | 中转 | 0.5 | 6.90 / 100 GB | 28.80 / 500 GB | Null | 85 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://512.jsy.lol/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | 8 折<br>`777`<br>所有套餐可用<br>短期有效 |
