@@ -54,7 +54,7 @@
 | 2022.06.21 | [Frost](https://www.twilightfrost.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 60 GB | 13.00 / 68 GB<br>实际时长一年 | 1 hours | 9 折<br>`e9tb09De`<br>季付以上套餐可用<br>长期有效 |
 | 2022.09.18 | ~~[农家小院](https://youf.in/#/register?code=Q6jDXrlT)~~ | 中转 | 1 | 9.80 / 100 GB | 19.80 / 100 GB | 48 hours | Null |
 | 2022.10.24 | [雨燕云](https://yuyan.online/#/register?code=MKZS5XCq) | 中转 | 1 | 8.80 / 88 GB | 36.80 / 250 GB | Null | 88 折<br>`yuyanyun`<br>周期套餐可用<br>长期有效 |
-| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
+| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 7 折<br>`70%discount`<br>所有套餐可用<br>短期有效 |
 | 2022.11.10 | [猫七七](https://neko77.best/#/register?code=UIeWdMrP) | 中转 | 1 | 9.98 / 100 GB |  6.00 / 33 GB | Null | 9 折<br>`mango9`<br>所有套餐可用<br>长期有效 |
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=d6os6Lzi) | 中转 | 1 | 15.88 / 200 GB | 72.99 / 384 GB | None | Null |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
