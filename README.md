@@ -78,9 +78,9 @@
 
 |操作系统|代理软件|
 | :---: | :---: |
-| Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify` |
-| Mac | `ClashX`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`sing-box`，`Stash`，`Surge`，`Hiddify` |
-| Android | `Clash for Android`，`Clash Meta for Android`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify` |
+| Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify` |
+| Mac | `ClashX`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`sing-box`，`Stash`，`Surge`，`Hiddify` |
+| Android | `Clash for Android`，`Clash Meta for Android`，`FlClash`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify` |
 | iOS | `Shadowrocket`，`sing-box`，`Surge`，`Quantumult X`，`Loon`，`Hiddify` |
 | OpenWrt | `OpenClash`，`Passwall` |
 
