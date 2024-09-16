@@ -55,7 +55,7 @@
 | 2022.11.11 | [冲浪猫](https://b.msclm.net/#/register?code=d6os6Lzi) | 中转 | 1 | 15.88 / 200 GB | 72.99 / 384 GB | Null | Null |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/index.php#/register?code=8S3V1vsr) | 中转 | 1 | 9.90 / 100 GB | 50.00 / 500 GB | Null | 66 折<br>`2024mid66`<br>所有套餐可用<br>9.18 前有效<br><br>85 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
-| 2023.02.09 | [极速云](https://905.jsy902.xyz/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | Null |
+| 2023.02.09 | [极速云](https://905.jsy902.xyz/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | 8 折<br>`888`<br>所有套餐可用<br>短期有效 |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | Null |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 10.00 / 300 GB | 22.00 / 200 GB | Null | Null | 
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 5.00 / 100 GB | Null | Null | Null |
