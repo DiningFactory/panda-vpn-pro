@@ -53,7 +53,7 @@
 | 2022.06.21 | [Frost](https://www.twilightfrost.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 60 GB | 13.00 / 68 GB<br>实际时长一年 | 1 hours | 9 折<br>`e9tb09De`<br>所有套餐可用<br>长期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 7 折<br>`富强`<br>所有套餐可用<br>10.16 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
-| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 15.00 / 100 GB | Null | 7 折<br>`2024NationDay`<br>所有套餐可用<br>10.8 前有效<br><br>85 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
+| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 15.00 / 100 GB | Null | 7 折<br>`2024NationDay`<br>所有套餐可用<br>10.8 前有效<br><br>8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://905.jsy902.xyz/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | Null |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | Null |
 | 2023.06.25 | [To2](https://ai.totwo.top/#/login?code=OKzd5Ktn) | 中转 | 0.5 | 8.00 / 120 GB | 35.00 / 100 GB | Null | 95 折<br>`to95`<br>月付套餐可用<br>9 折<br>`to90`<br>季付套餐可用<br>85 折<br>`to85`<br>年付套餐可用<br>10.8 前有效 |
