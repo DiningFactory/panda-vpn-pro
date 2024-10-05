@@ -7,6 +7,7 @@
 
  - 🗓️ 2023.11.02 🗓️ `Clash for Windows` 已停止更新，原因未知，但不影响使用。若实在有顾虑，可更换其他代理软件。注意，`Clash for Windows` 与 `Clash Core` 是两个完全不同的东西，也就是说，它停止更新不影响 `Clash` 的任何分支。不过，如果后者停止更新，将会使得前者的更新变得毫无意义。可以将前者想象为人的衣物，而后者为人的躯体。衣物对于躯体的活动毫无影响，但若躯体停止活动，那么更换衣物也就变得毫无意义。🗓️ 2023.11.03 🗓️ `Clash Premium Core`，`Clash.Meta Core`，`Clash for Android`，`Clash Meta for Android`，`Clash Verge`，`Tuic`，`Helloworld 路由器插件`，`Gui.for.Clash`，`homeproxy`，`Fclash`，`ClashX` 也纷纷停止更新或删库，部分进行了存档。想要备份各种 `Clash` 的人可[点击此处前往下载](https://mega.nz/folder/orkzRYbR#bHhSjy9r_9AJayIgqtZTag)。另外，**忠心劝诫各位不要在墙内的任何地方谈论任何与翻墙相关的事情**，无论是为了自身安全还是为了代理工具的安全。近期本来只是 `Clash for Windows` 删库，结果各种无知群众莫名把相关话题带上微博热搜，此后一堆 Core，GUI 删库，造成这一局面，可以说是那些无知人士带节奏所引起的一系列连锁反应。至于目前这些代理软件还能不能用呢，答案是能。只有到了这些代理工具或是内核被发现有严重漏洞那一天，或是当前主流协议都被新协议所替代时，才不可以使用。然而，对此这丝毫可以不用感到惊慌，代理工具以及内核千千万万，除了 `Clash` 还有 `V2ray` 等，并且旧事物的褪去总会有新事物来代替，互联网的更新是日新月异的，这点我相信各位很清楚。总之，请勿在墙内大谈特谈相关事件，此通知将长期保留。
  - 🗓️ 2024.09.25 🗓️ 临近国庆，GFW 会在一定程度上进行加强，这将使各机场的节点出现一定的波动，通常假期结束时会基本恢复正常，此通知将于 10.10 删除。
+ - 🗓️ 2024.10.06 🗓️ `喵喵云` 机场暂时停止新用户进行注册（已经购买了套餐的用户不会受到影响），此通知将于机场恢复注册之后删除。
 
 ---
 ---
@@ -53,7 +54,7 @@
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=lW0qemOm)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 7 折<br>`富强`<br>所有套餐可用<br>10.16 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 75 折<br>`普天同庆`<br>所有套餐可用<br>10.6 前有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 15.00 / 100 GB | Null | 7 折<br>`2024NationDay`<br>所有套餐可用<br>10.8 前有效<br><br>8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
-| 2023.02.09 | [极速云](https://905.jsy902.xyz/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | 8 折<br>`618`<br>所有套餐可用<br>短期有效 |
+| 2023.02.09 | [极速云](https://905.jsy902.xyz/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | Null |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | Null |
 | 2023.06.25 | [To2](https://ai.totwo.top/#/login?code=OKzd5Ktn) | 中转 | 0.5 | 8.00 / 120 GB | 35.00 / 100 GB | Null | 95 折<br>`to95`<br>月付套餐可用<br>9 折<br>`to90`<br>季付套餐可用<br>85 折<br>`to85`<br>年付套餐可用<br>10.8 前有效 |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 10.00 / 300 GB | 43.00 / 420 GB | Null | 8 折<br>`20241001`<br>所有套餐可用<br>10.8 前有效 | 
