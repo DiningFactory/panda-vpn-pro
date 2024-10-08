@@ -51,7 +51,7 @@
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SAC](https://hk.sacjs.host/#/register?code=1YIbUxet) | 中转 | 1 | 9.99 / 100 GB | 169.99 / 1000 GB | Null | Null |
-| 2020.04.22 | [次元雲](https://go.ciyy.top/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 85.00 / 500 GB | Null | 8 折<br>`盛世华诞`<br>所有套餐可用<br>10.8 前有效 |
+| 2020.04.22 | [次元雲](https://go.ciyy.top/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 85.00 / 500 GB | Null | Null |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | Null | 14.90 / 130 GB | Null | Null |
 | 2022.05.10 | [SPCloud](https://invite.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 25.00 / 100 GB | Null | 8 折<br>`new`<br>所有套餐可用<br>长期有效 |
 | 2022.06.21 | [Frost](https://www.twilightfrost.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 60 GB | 13.00 / 68 GB<br>实际时长一年 | 1 hours | 9 折<br>`e9tb09De`<br>所有套餐可用<br>长期有效 |
@@ -60,12 +60,12 @@
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 15.00 / 100 GB | Null | 7 折<br>`2024NationDay`<br>所有套餐可用<br>10.8 前有效<br><br>8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://905.jsy902.xyz/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | Null |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | Null |
-| 2023.06.25 | [To2](https://ai.totwo.top/#/login?code=OKzd5Ktn) | 中转 | 0.5 | 8.00 / 120 GB | 35.00 / 100 GB | Null | 95 折<br>`to95`<br>月付套餐可用<br>9 折<br>`to90`<br>季付套餐可用<br>85 折<br>`to85`<br>年付套餐可用<br>10.8 前有效 |
-| 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 10.00 / 300 GB | 43.00 / 420 GB | Null | 8 折<br>`20241001`<br>所有套餐可用<br>10.8 前有效 | 
-| 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  7.80 / 80 GB | 85.00 / 400 GB | Null | 9 折<br>`month90`<br>月付套餐可用<br>85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>10.8 前有效 |
+| 2023.06.25 | [To2](https://ai.totwo.top/#/login?code=OKzd5Ktn) | 中转 | 0.5 | 8.00 / 120 GB | 35.00 / 100 GB | Null | Null |
+| 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 10.00 / 300 GB | 43.00 / 420 GB | Null | Null | 
+| 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  7.80 / 80 GB | 85.00 / 400 GB | Null | Null |
 | 2024.03.01 | [Tutu](https://www.tutunbyy.uk/#/register?code=QKEtXiLs) | 中转 | 1 | 9.90 / 140 GB | 15.00 / 60 GB | 12 hours | Null |
-| 2024.06.14 | [山水云](https://ccc.ssy614.com/#/register?code=k4V6l8b2) | 中转 | 1 | 4.80 / 100 GB | 30.00 / 150 GB | Null | 88 折<br>`888`<br>所有套餐可用<br>10.8 前有效 |
-| 2024.07.02 | [外星云](https://www.xn--9kq49wbqk.site/register?code=Bh8u6J5m) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | 5 GB | 8 折<br>`10.1@80`<br>年付以下套餐可用<br>7 折<br>`10.1@70`<br>年付套餐可用<br>10.8 前有效 |
+| 2024.06.14 | [山水云](https://ccc.ssy614.com/#/register?code=k4V6l8b2) | 中转 | 1 | 4.80 / 100 GB | 30.00 / 150 GB | Null | Null |
+| 2024.07.02 | [外星云](https://www.xn--9kq49wbqk.site/register?code=Bh8u6J5m) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | 5 GB | Null |
 | 2024.08.14 | [喵喵云](https://v1.nyanss.xyz/#/login?code=dfsKFF7s)<br>暂时关闭<br>注册渠道 | 中转 | 1 | 7.50 / 50 GB | Null | Null | 8 折<br>`Dragon2024`<br>所有套餐可用<br>长期有效 |
 
 👀 以上所列举的套餐都属于机场中最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网（部分机场官网可能处于被墙的状态，若是进不去可将代理工具切换到全局代理模式）查看更多套餐**。套餐的价格偶尔会发生变动，我如果知道了就会进行相应的更新，但不一定会及时，具体以官网为主。“试用”是我自己注册账号时的情况，这部分完全不具有时效性，因为我不可能定期为每个机场注册新账号，请见谅。不过，如果机场跑路，我是肯定会第一时间发通知进行提醒的。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，请不要误以为全是同一个老板开的，这是很正常的，因为机场的页面基本都是用了相同的开源项目，比如 `v2board`。因此，机场界面的美观与否，显然与机场质量的好坏也是没有任何关系的。
