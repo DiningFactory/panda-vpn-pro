@@ -63,7 +63,7 @@
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 10.00 / 300 GB | 43.00 / 420 GB | Null | 9 折<br>`FW9`<br>所有套餐可用<br>长期有效 | 
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  7.80 / 80 GB | 85.00 / 400 GB | Null | Null |
 | 2024.03.01 | [Tutu](https://www.tutunbyy.uk/#/register?code=QKEtXiLs) | 中转 | 1 | 9.90 / 140 GB | 15.00 / 60 GB | 12 hours | Null |
-| 2024.06.14 | [山水云](https://ccc.ssy614.com/#/register?code=k4V6l8b2) | 中转 | 1 | 4.99 / 100 GB | 30.00 / 150 GB | Null | Null |
+| 2024.06.14 | [山水云](https://ccc.ssy614.com/#/register?code=k4V6l8b2) | 中转 | 1 | 4.99 / 100 GB | 30.00 / 150 GB | Null | 8.5 折<br>`1111`<br>所有套餐可用<br>11.12 前有效 |
 | 2024.07.02 | [外星云](https://www.xn--9kq49wbqk.site/register?code=Bh8u6J5m) | 中转 | 1 | 10.00 / 125 GB | 15.00 / 50 GB | 5 GB | Null |
 | 2024.08.14 | [喵喵云](https://v1.nyanss.xyz/#/login?code=dfsKFF7s) | 中转 | 1 | 7.50 / 50 GB | Null | Null | 8 折<br>`Dragon2024`<br>所有套餐可用<br>长期有效 |
 
