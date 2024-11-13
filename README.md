@@ -89,7 +89,7 @@
 | Linux | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Dae`，`Daed` |
 | Android | `Clash for Android`，`Clash Meta for Android`，`FlClash`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify` |
 | iOS | `Shadowrocket`，`One Click`，`sing-box`，`Surge`，`Quantumult`，`Quantumult X`，`Loon`，`Hiddify`，`Egern`，`Potatso Lite`，`Choc`，`Foxray`，`Streisand` |
-| OpenWrt | `OpenClash`，`Passwall` |
+| OpenWrt | `OpenClash`，`OpenWrt`，`SSRPlus`，`Passwall` |
 
 ---
 
