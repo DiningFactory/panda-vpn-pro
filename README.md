@@ -84,10 +84,11 @@
 
 |操作系统|代理软件|
 | :---: | :---: |
-| Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify` |
-| Mac | `ClashX`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`sing-box`，`Stash`，`Surge`，`Hiddify` |
+| Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray` |
+| Mac | `Clash for Windows`，`ClashX`，`ClashX Pro`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2rayU`，`sing-box`，`Stash`，`Surge`，`Quantumult X`，`Hiddify`，`Qv2ray`，`Streisand` |
+| Linux | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray` |
 | Android | `Clash for Android`，`Clash Meta for Android`，`FlClash`，`Surfboard`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify` |
-| iOS | `Shadowrocket`，`One Click`，`sing-box`，`Surge`，`Quantumult X`，`Loon`，`Hiddify` |
+| iOS | `Shadowrocket`，`One Click`，`sing-box`，`Surge`，`Quantumult`，`Quantumult X`，`Loon`，`Hiddify`，`Egern`，`Potatso Lite`，`Choc`，`Foxray`，`Streisand` |
 | OpenWrt | `OpenClash`，`Passwall` |
 
 ---
