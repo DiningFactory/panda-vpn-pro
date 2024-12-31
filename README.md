@@ -61,7 +61,7 @@
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SAC](https://hk.sacjs.host/register?code=1YIbUxet) | 中转 | 1 | 9.99 / 100 GB | 169.99 / 1000 GB | Null | Null |
-| 2020.04.22 | [次元雲](https://ciyy.me/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 158.00 / 1024 GB | Null | Null |
+| 2020.04.22 | [次元雲](https://ciyy.me/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 158.00 / 1024 GB | Null | 8 折<br>`2025快乐`<br>小杯及中杯的年付套餐可用<br>减 20 元<br>`happy2025`<br>不限时套餐可用<br>2025.01.03 前有效 |
 | 2022.05.10 | [SPCloud](https://invite.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 25.00 / 100 GB | Null | 8 折<br>`new`<br>所有套餐可用<br>长期有效 |
 | ~~2022.06.21~~ | ~~[Frost](https://www.twilightfrost.top/#/register?code=XSWmt6KF)~~ | ~~中转~~ | ~~1~~ | ~~12.00 / 168 GB~~ | ~~13.00 / 68 GB<br>实际时长一年~~ | ~~1 hour~~ | ~~9 折<br>`e9tb09De`<br>所有套餐可用<br>长期有效~~ |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 7 折<br>`你好2025`<br>所有套餐可用<br>2025.01.15 前有效 |
