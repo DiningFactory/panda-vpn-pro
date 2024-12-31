@@ -71,7 +71,7 @@
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | 5 折<br>`2024-50%`<br>限量 20 份<br><br>7 折<br>`2024-30%`<br>限量 50 份<br><br>9 折<br>`nfsqttt`<br>2025.01.02 前有效 |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 10.00 / 300 GB | 43.00 / 420 GB | Null | 8折<br>`2025z8`<br>所有套餐可用<br>2025.01.04 前有效<br><br>9 折<br>`FW9`<br>所有套餐可用<br>长期有效 | 
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 0.75 |  7.80 / 80 GB | 85.00 / 400 GB | Null | 85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>2025.01.06 前可购买 |
-| 2024.03.01 | [Tutu](https://www.tutunbyy.uk/#/register?code=QKEtXiLs)<br>`H` | 中转 | 0.1 | 9.90 / 140 GB | 15.00 / 60 GB | 12 hours | Null |
+| 2024.03.01 | [Tutu](https://www.tutunbyy.uk/#/register?code=QKEtXiLs)<br>`H` | 中转 | 0.1 | 9.90 / 140 GB | 15.00 / 60 GB | 12 hours | 85 折<br>`welcome-2025`<br>所有套餐可用<br>2025.01.02 前有效 |
 | 2024.06.14 | [山水云](https://ccc.ssy614.com/#/register?code=k4V6l8b2) | 中转 | 1 | 6.50 / 100 GB | 30.00 / 150 GB | Null | 98 / 年 / (每月 200 GB)<br>198 / 年 / (每月 500 GB)<br>298 / 年 / (每月 800 GB)<br>短期内可购买<br><br>8 折<br>`888`<br>除以上套餐外可用<br>短期有效 |
 | 2024.08.14 | [喵喵云](https://v1.nyanss.xyz/#/login?code=dfsKFF7s) | 中转 | 0.5 | 7.50 / 50 GB | Null | Null | 8.8 / 季 / (每月 20 GB)<br>限量 50 份<br><br>7 折<br>`Dragon2024`<br>除以上套餐外<br>所有套餐可用<br>长期有效 |
 
