@@ -60,13 +60,13 @@
 
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2019.03.17 | [SAC](https://hk.sacjs.host/register?code=1YIbUxet) | 中转 | 1 | 9.99 / 100 GB | 169.99 / 1000 GB | Null | 9 折<br>`SACTG`<br>所有套餐可用<br>短期有效 |
+| 2019.03.17 | [SAC](https://hk.sacjs.host/register?code=1YIbUxet) | 中转 | 1 | 9.99 / 100 GB | 169.99 / 1000 GB | Null | Null |
 | 2020.04.22 | [次元雲](https://ciyy.me/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 158.00 / 1024 GB | Null | 8 折<br>`2025快乐`<br>小杯及中杯的年付套餐可用<br>减 20 元<br>`happy2025`<br>不限时套餐可用<br>2025.01.03 前有效 |
 | 2022.05.10 | [SPCloud](https://invite.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 25.00 / 100 GB | Null | 8 折<br>`new`<br>所有套餐可用<br>长期有效 |
 | ~~2022.06.21~~ | ~~[Frost](https://www.twilightfrost.top/#/register?code=XSWmt6KF)~~ | ~~中转~~ | ~~1~~ | ~~12.00 / 168 GB~~ | ~~13.00 / 68 GB<br>实际时长一年~~ | ~~1 hour~~ | ~~9 折<br>`e9tb09De`<br>所有套餐可用<br>长期有效~~ |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 7 折<br>`你好2025`<br>所有套餐可用<br>2025.01.15 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 8 折<br>`New Year's Day Welfare Shopping`<br>所有套餐可用<br>2025.01.05 前有效 |
-| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 15.00 / 100 GB | Null | 66 折<br>`20250101`<br>所有套餐可用<br>2025.01.01 前有效<br><br>8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
+| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 15.00 / 100 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://w2.rouhe88.com/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | 88 / 年 / (每月 1000 GB)<br>39 / 不限时 / 999 GB<br>99 / 不限时 / 2999 GB<br>288 / 不限时 / 10000 GB<br>短期内可购买 |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | 5 折<br>`2024-50%`<br>所有套餐可用<br>限量 20 份<br><br>7 折<br>`2024-30%`<br>所有套餐可用<br>限量 50 份<br><br>9 折<br>`nfsqttt`<br>所有套餐可用<br>2025.01.02 前有效 |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 10.00 / 300 GB | 43.00 / 420 GB | Null | 8折<br>`2025z8`<br>所有套餐可用<br>2025.01.04 前有效<br><br>9 折<br>`FW9`<br>所有套餐可用<br>长期有效 | 
