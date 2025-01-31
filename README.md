@@ -63,7 +63,7 @@
 | 2019.03.17 | [SAC](https://hk.sacjs.host/register?code=1YIbUxet) | 中转 | 1 | 9.99 / 100 GB | 169.99 / 1000 GB | Null | Null |
 | 2020.04.22 | [次元雲](https://ciyy.me/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 158.00 / 1024 GB | Null | 88 折<br>`2025-88`<br>所有套餐可用<br>7.8 折<br>`2025-78`<br>小杯及中杯年付套餐可用<br>大杯年付赠送 100% 时长<br>所赠时长当日 23:59 前到账<br>2.14 前有效 |
 | ~~2022.05.10~~ | ~~[SPCloud](https://invite.spcloud.vip/#/register?code=yg4YkPbp)~~ | ~~中转~~ | ~~1~~ | ~~10.00 / 100 GB~~ | ~~25.00 / 100 GB~~ | ~~Null~~ | ~~8 折<br>`new`<br>所有套餐可用<br>长期有效~~ |
-| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 7 折<br>`新年好`<br>所有套餐可用<br>1.29 前有效 |
+| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 7 折<br>`新年好`<br>所有套餐可用<br>2.28 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 85 折<br>`rzmR7McO`<br>月付和不限时套餐可用<br>8 折<br>`I9Je4crb`<br>半年付和年付套餐可用<br>2.6 前有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 15.00 / 100 GB | Null | 6.6 折<br>`2025NewYear`<br>所有套餐可用<br>2.5 前有效<br><br>8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://w2.rouhe88.com/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 800 GB | 50.00 / 1000 GB | Null | 88 / 年 / (每月 1000 GB)<br>168 / 年 / (每月 2000 GB)<br>39 / 不限时 / 999 GB<br>99 / 不限时 / 2999 GB<br>短期内可购买<br><br>79 折<br>`2579`<br>除以上套餐外可用<br>2.5 前有效 |
