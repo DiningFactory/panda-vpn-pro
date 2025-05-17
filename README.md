@@ -92,7 +92,7 @@
 
 |操作系统|代理软件|
 | :---: | :---: |
-| Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Mihomo Party`，`Karing` |
+| Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Mihomo Party`，`Karing`，`Fly Clash` |
 | Mac | `Clash for Windows`，`ClashX`，`ClashX Pro`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2rayU`，`sing-box`，`Stash`，`Surge`，`Quantumult X`，`Hiddify`，`Qv2ray`，`Streisand`，`Mihomo Party`，`Karing` |
 | Linux | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Dae`，`Daed`，`Mihomo Party` |
 | Android | `Clash for Android`，`Clash Meta for Android`，`FlClash`，`Surfboard`，`SagerNet`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify`，`Karing` |
