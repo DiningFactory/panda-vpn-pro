@@ -63,16 +63,16 @@
 | 2020.04.22 | [次元雲](https://ciyy.me/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 158.00 / 1024 GB | Null | 6.10 / 不限时 / 61 GB<br>6.3 前可购买<br><br>8 折<br>`ciyy08`<br>除以上套餐外<br>所有套餐可用<br>6.20 前有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 75 折<br>`端午`<br>所有套餐可用<br>6.11 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 85 折<br>`DW`<br>所有套餐可用<br>6.5 前有效 |
-| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 7 折<br>`2025DW`<br>所有套餐可用<br>6.3 前有效<br><br>8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
+| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | Null |
 | 2023.02.09 | [极速云](https://905.jsy902.xyz/#/register?code=4nCrjaUd) | 中转 | 8 | 12.99 / 1200 GB | 68.00 / 1000 GB | Null | Null |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 2 days | Null |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 10.00 / 300 GB | 43.00 / 420 GB | Null | 9 折<br>`FW9`<br>所有套餐可用<br>长期有效 | 
 | 2023.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 128.88 / 1024 GB | Null | 7 折<br>`IUcJArC5`<br>所有套餐可用<br>6.5 前有效 |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 0.75 |  7.80 / 80 GB | 88.00 / 400 GB | Null | Null |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`H` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
-| 2024.06.14 | [山水云](https://ccc.ssy113.com/#/register?code=k4V6l8b2) | 中转 | 1 | 13.00 / 100 GB | 88.00 / 150 GB | Null | 8.5 折<br>`2025666`<br>所有套餐可用<br>8 折<br>`2025555`<br>季付和半年付套餐可用<br>7.5 折<br>`2025888`<br>年付套餐可用<br>6.3 前有效<br><br>9 折<br>`998`<br>所有套餐可用<br>长期有效 |
+| 2024.06.14 | [山水云](https://ccc.ssy113.com/#/register?code=k4V6l8b2) | 中转 | 1 | 13.00 / 100 GB | 88.00 / 150 GB | Null | 9 折<br>`998`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [喵喵云](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.5 | 7.50 / 50 GB | 25.00 / 100 GB | Null | 8 折<br>`NYA2025`<br>所有套餐可用<br>长期有效 |
-| 2025.03.14 | [iNetS](https://inets.io/#/register?code=DpHxThbX)<br>`*V` | 直连<br>+ | 1 | 4.90 / 50 GB | 6.90 / 50 GB | 7 days<br>极少节点 | 7 折<br>`A3ZZOCrI`<br>所有套餐可用<br>6.3 有效<br><br>85 折<br>`iNetS85OFF`<br>所有套餐可用<br>长期有效 | 
+| 2025.03.14 | [iNetS](https://inets.io/#/register?code=DpHxThbX)<br>`*V` | 直连<br>+ | 1 | 4.90 / 50 GB | 6.90 / 50 GB | 7 days<br>极少节点 | 85 折<br>`iNetS85OFF`<br>所有套餐可用<br>长期有效 | 
 
 👀 以上所列举的套餐都属于机场中最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网（部分机场官网可能处于被墙的状态，若是进不去可将代理工具切换到全局代理模式）查看更多套餐**。套餐的价格偶尔会发生变动，我如果知道了就会进行相应的更新，不一定会及时，但每个月至少会更新一次，具体以官网为主（注意，**由于机场一般都有对接第三方支付**以防止因账户风控而导致用户无法付款等一系列问题，**所以在支付时会产生一定的手续费**，即实际付款的费用会稍高于套餐的“标价”）。“试用”是我自己注册账号时的情况，这部分完全不具有时效性，因为我不可能定期为每个机场注册新账号，请见谅。不过，如果机场跑路，我是肯定会第一时间发通知进行提醒的。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，请不要误以为全是同一个老板开的，这是很正常的，因为机场的页面基本都是用了相同的开源项目，比如 `v2board`。因此，机场界面的美观与否，显然与机场质量的好坏也是没有任何关系的。
 
