@@ -67,7 +67,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SAC](https://sachk.189.cam/register?code=1YIbUxet) | 中转 | 1 & 1.3 | 9.99 / 100 GB | 169.99 / 1000 GB | Null | Null |
 | 2020.04.22 | [次元雲](https://gfb.ciyynode.cloud/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 158.00 / 1024 GB | Null | 8 折<br>`ciyy08`<br>所有套餐可用<br>6.20 前有效 |
-| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
+| 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 75 折<br>`618`<br>所有套餐可用<br>6.30 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://w4.rouhe88.com/#/register?code=4nCrjaUd) | 中转 | 8 | 12.99 / 1200 GB | 68.00 / 1000 GB | Null | Null |
