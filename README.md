@@ -159,7 +159,7 @@
 
 💡 DNS 的设置有时候会产生各种奇奇怪怪的问题，比如分流异常（Youtube 能够正常访问，而 Google 却访问不了），或是节点明明能 Ping 通，却死活用不了，再或者，节点时不时断流。诸如此类的问题，在经过各种排查都无法解决，而更换代理软件之后，这些毛病都不复存在。那就可能是 DNS 的问题。这时可以尝试在代理软件中修改远程 DNS 的“类型”。比如，你原先使用的是 `8.8.8.8` 这种 IP 类型的 DNS，那么就改为 `https://dns.google/dns-query` 这种域名类型的 DNS（它的专业术语叫做 DoH，DNS over HTTPS）。若是修改远程 DNS 后问题依旧，那么可以尝试更改本地 DNS。在修改时，一次只建议修改一项，不要同时修改，也就是控制变量法，这样有助于确定问题的根源。[此链接](https://adguard-dns.io/kb/general/dns-providers/) 包含了许多国内外的公共 DNS 可供选择。
 
-💡 DNS 缓存偶尔也会产生各种问题（我自己大概遇到了两三次因 DNS 缓存导致节点无法使用以及节点延迟变得异常高的情况），手机可以通过打开“飞行模式”，然后关闭它，以清除 DNS 缓存。Windows 则可以通过“以管理员身份运行”命令提示符，然后执行 `ipconfig /flushdns` 命令来清除 DNS 缓存。
+💡 DNS 缓存偶尔也会产生各种问题（我自己大概遇到了两三次因 DNS 缓存导致节点无法使用以及节点延迟变得异常高的情况），手机可以通过打开“飞行模式”，然后关闭它，以清除 DNS 缓存。Windows 则可以通过“以管理员身份运行”命令提示符，然后执行 `ipconfig /flushdns` 命令来清除 DNS 缓存。Mac 则可以在终端中使用 `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder` 命令来清除 DNS 缓存。
 
 ---
 
