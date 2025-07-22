@@ -98,7 +98,7 @@
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 0.6 / 1 |  7.80 / 80 GB | 88.00 / 400 GB | Null | Null |
 | 2023.09.23 | [云安云](https://yay520.com/login/?code=zE8rnA2S) | 中转 | 1 | 7.00 / 120 GB | 25.00 / 118 GB | Null | 88 折<br>`yay88yay`<br>大部分套餐可用<br>8 折<br>`yay80yay`<br>两年以上套餐可用<br>长期有效 |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`#V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
-| ~~2024.06.14~~ | ~~[山水云](https://ccc.ssy113.com/#/register?code=k4V6l8b2)~~ | ~~中转~~ | ~~2~~ | ~~13.00 / 100 GB~~ | ~~88.00 / 150 GB~~ | ~~Null~~ | ~~Null~~ |
+| ~~2024.06.14~~ | ~~[山水云](https://ccc.ssy113.com/#/register?code=k4V6l8b2)~~ | ~~中转~~ | ~~2~~ | ~~14.99 / 100 GB~~ | ~~99.00 / 100 GB~~ | ~~Null~~ | ~~Null~~ |
 | 2024.08.14 | [喵喵云](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.5 & 1 | 7.50 / 50 GB | 25.00 / 100 GB | Null | 8 折<br>`NYA2025`<br>所有套餐可用<br>长期有效 |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=DpHxThbX)<br>`*V` | 直连<br>+ | 0.7 & 1 | 4.90 / 50 GB | Null | 7 days<br>极少节点 | Null | 
 
