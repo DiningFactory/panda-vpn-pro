@@ -97,7 +97,7 @@
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli)<br>`V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 20.00 / 188 GB | 40.00 / 210 GB | Null | 9 折<br>`FW9`<br>所有套餐可用<br>长期有效 | 
 | 2023.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 128.88 / 1024 GB | Null | Null |
-| 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 0.6 / 1 |  7.80 / 80 GB | 88.00 / 400 GB | Null | Null |
+| 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  7.80 / 80 GB | 88.00 / 400 GB | Null | Null |
 | 2023.09.23 | [云安云](https://yay520.com/login/?code=zE8rnA2S) | 中转 | 1 | 7.00 / 120 GB | 25.00 / 118 GB | Null | 88 折<br>`yay88yay`<br>大部分套餐可用<br>8 折<br>`yay80yay`<br>两年以上套餐可用<br>长期有效 |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`#V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | ~~2024.06.14~~ | ~~[山水云](https://ccc.ssy113.com/#/register?code=k4V6l8b2)~~ | ~~中转~~ | ~~2~~ | ~~14.99 / 100 GB~~ | ~~99.00 / 100 GB~~ | ~~Null~~ | ~~Null~~ |
