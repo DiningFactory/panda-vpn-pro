@@ -97,12 +97,13 @@
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://w4.rouhe88.com/#/register?code=4nCrjaUd) | 中转 | 8 & 12 | 15.99 / 1200 GB | 88.00 / 1000 GB | Null | 88 折<br>`888`<br>所有套餐可用<br>8.14 前有效 |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli)<br>`#V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
-| 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 20.00 / 188 GB | 40.00 / 210 GB | Null | 9 折<br>`FW9`<br>所有套餐可用<br>长期有效 | 
+| 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 20.00 / 188 GB | 40.00 / 210 GB | Null | 9 折<br>`FW9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 128.88 / 1024 GB | Null | Null |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  7.80 / 80 GB | 88.00 / 400 GB | Null | Null |
 | 2023.09.23 | [云安云](https://yay520.com/login/?code=zE8rnA2S) | 中转 | 1 | 7.00 / 120 GB | 25.00 / 118 GB | Null | Null |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`#V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | ~~2024.06.14~~ | ~~[山水云](https://ccc.ssy113.com/#/register?code=k4V6l8b2)~~ | ~~中转~~ | ~~2~~ | ~~14.99 / 100 GB~~ | ~~99.00 / 100 GB~~ | ~~Null~~ | ~~Null~~ |
+| 2024.07.18 | [FlyBit](https://flybit.cc/#/register?code=HpHWTZX1) | 中转 | 1 | 12.00 / 100 GB | 28.00 / 100 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [喵喵云](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.5 & 1 | 7.50 / 50 GB | 25.00 / 100 GB | Null | Null |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=DpHxThbX)<br>`*V` | 直连<br>+ | 0.7 & 1 | 4.90 / 50 GB | Null | 7 days<br>极少节点 | Null | 
 
@@ -128,6 +129,7 @@
 | 云安云 | 电信：江苏南通<br>联通：山东青岛<br>移动：广东深圳 |
 | 兔兔云 | 电信：云南昆明<br>移动：广东广州 |
 | 山水云 | 移动：广东佛山 |
+| FlyBit | 电信：广东东莞<br>联通：广东东莞<br>移动：广东揭阳 |
 | 喵喵云 | 移动：广东深圳<br>腾讯云：广东广州 |
 
 ---
