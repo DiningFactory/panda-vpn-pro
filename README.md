@@ -69,12 +69,9 @@
     - `V`：表示该机场大部分节点都为常用协议，极少部分节点使用了 `Vless` 协议。
     - `H`：表示该机场大部分节点都为常用协议，极少部分节点使用了 `Hysteria2` 协议。
     - `VH`：表示该机场大部分节点都为常用协议，极少部分节点使用了 `Vless` 或 `Hysteria2` 协议。
-    - `#V`：表示该机场大部分的节点为 `Vless` 协议。
-    - `#H`：表示该机场大部分的节点为 `Hysteria2` 协议。
-    - `#VH`：表示该机场大部分的节点为 `Vless` 或 `Hysteria2` 协议。
-    - `*V`：表示该机场所有的节点都为 `Vless` 协议。
-    - `*H`：表示该机场所有的节点都为 `Hysteria2` 协议。
-    - `*VH`：表示该机场所有的节点都为 `Vless` 或 `Hysteria2` 协议。
+    - `*V`：表示该机场绝大部分或所有的节点都为 `Vless` 协议。
+    - `*H`：表示该机场绝大部分或所有的节点都为 `Hysteria2` 协议。
+    - `*VH`：表示该机场绝大部分或所有的节点都为 `Vless` 或 `Hysteria2` 协议。
  - 类型：描述了机场的主要线路类型是直连还是中转（带 `+` 的直连是经过特殊优化的直连机场，价格与体验基本无异于中转机场）。
     - **在选购机场时**，**按自己预算选即可**，**没必要刻意追求专线**，因为专线的性价比太低。**确认自己需要的是直连（价格较低，流量充足，稳定性一般）还是中转（价格中等，流量适中，稳定性较好）即可**。不过，直连机场有些时候反而会比中转机场“稳定”，比如国内入口被大面积通报时。
     - 本文有部分中转机场提供了少量专线节点，但我没有在节点类型中多作说明，因为低价机场所提供的专线节点倍率一般都较高。如果专线节点倍率低，那机场本身价格不会低。因此，我不建议刻意追求专线机场（`2025.07.22` 补充：本文部分机场由于种种原因已全面升级为专线机场。不过，我依然不对专线机场作特别标注。一是因为**所谓专线机场本质其实就是线路更优质的中转机场**，不过，“**优质**”**主要是优在入口的出海线路**，而**你到入口这一段线路依然可能是卡慢的**。这就好比你出国的方式从坐船变成坐飞机，但是你家到飞机场的路常年塞车，这种情况下，即使飞机再快，也改变不了你家去飞机场需要耗费很长时间的境况。二是因为“专线”这个词容易给人一种特别高大上的感觉，以至于冲动消费购买了远超自己原本预算的机场。另外，由于本文主推的是性价比高的机场，因此，如果机场升级后，价格变得过于高，或者我觉得它不值那个价，我将会发出通知并移除相应机场的链接）。
@@ -98,12 +95,12 @@
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>长期有效 |
 | 2023.02.09 | [极速云](https://w4.rouhe88.com/#/register?code=4nCrjaUd) | 中转 | 8 & 12 | 15.99 / 1200 GB | 88.00 / 1000 GB | Null | Null |
-| 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli)<br>`#V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
+| 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli)<br>`*V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 中转 | 1 | 20.00 / 188 GB | 40.00 / 210 GB | Null | 9 折<br>`FW9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 128.88 / 1024 GB | Null | Null |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP) | 中转 | 1 |  7.80 / 80 GB | 88.00 / 400 GB | Null | Null |
 | 2023.09.23 | [云安云](https://yay520.com/login/?code=zE8rnA2S) | 中转 | 1 | 7.00 / 120 GB | 25.00 / 118 GB | Null | Null |
-| 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`#V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
+| 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`*V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 12.00 / 100 GB | 28.00 / 100 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [喵喵云](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.5 & 1 | 7.50 / 50 GB | 25.00 / 100 GB | Null | Null |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=DpHxThbX)<br>`*V` | 直连<br>+ | 0.7 & 1 | 4.90 / 50 GB | Null | 7 days<br>极少节点 | Null | 
