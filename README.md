@@ -162,7 +162,7 @@
 | Android | `Clash for Android`，`Clash Meta for Android`，`FlClash`，`Surfboard`，`SagerNet`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify`，`Karing`，`Fly Clash`，`Clash Mi` |
 | iOS | `Shadowrocket`，`One Click`，`sing-box`，`Surge`，`Quantumult`，`Quantumult X`，`Loon`，`Hiddify`，`Egern`，`Potatso Lite`，`Choc`，`Foxray`，`Streisand`，`Karing`，`Clash Mi` |
 | HarmonyOS NEXT | `ClashBox` |
-| OpenWrt | `OpenClash`，`SSRPlus`，`Passwall`，`Passwall2`，`Openwrt-Mihomo`，`fancyss`，`Momo` |
+| OpenWrt | `OpenClash`，`SSRPlus`，`Passwall`，`Passwall2`，`Openwrt-Nikki`，`fancyss`，`Momo` |
 
 ---
 
