@@ -104,6 +104,7 @@
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`*V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 12.00 / 100 GB | 28.00 / 100 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.3 & 1 | 7.50 / 50 GB | 25.00 / 100 GB | Null | Null |
+| 2025.03.07 | [ofoNET](https://j1u.ofo3.com/#/register?code=q3kx6Xt9) | 中转 | 1 | 15.00 / 100 GB | 39.00 / 100 GB | Null | Null |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=DpHxThbX)<br>`*V` | 直连<br>+ | 0.2 & 1 | 4.90 / 50 GB | Null | 7 days<br>极少节点 | 充 50 送 5<br>充 100 送 15<br>10.7 前有效 |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm)<br>`*VH` | 直连 | 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | 7 折<br>`LXY`<br>所有套餐可用<br>10.7 前有效 |
 
@@ -130,6 +131,7 @@
 | 兔兔云 | 电信：上海<br>移动：上海，四川成都，广东广州 |
 | FlyBit | 电信：广东广州<br>联通：广东广州<br>移动：广东广州，湖北荆州 |
 | NyanSS | 联通：广东广州<br>移动：广东广州，广东深圳 |
+| ofoNet | 电信：广东广州<br>联通：广东广州<br>移动：广东广州 |
 
 ---
 
