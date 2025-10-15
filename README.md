@@ -93,7 +93,7 @@
 | 2020.04.22 | [次元雲](https://ciyy.me/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 85.00 / 500 GB | Null | Null |
 | 2022.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 128.88 / 1024 GB | Null | Null |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
-| 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 75 折<br>`中秋贺团圆`<br>所有套餐可用<br>10.15 前有效<br><br>充 100 送 10<br>充 200 送 30<br>注：非自动到账<br>需发工单提供<br>`202510010000XXXX`<br>格式的订单号<br>10.31 前有效 |
+| 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 充 100 送 10<br>充 200 送 30<br>注：非自动到账<br>需发工单提供<br>`202510010000XXXX`<br>格式的订单号<br>10.31 前有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
 | ~~2023.02.09~~ | ~~[极速云](https://w4.rouhe88.com/#/register?code=4nCrjaUd)<br>🔥~~ | ~~中转~~ | ~~8 & 12~~ | ~~15.99 / 1200 GB~~ | ~~88.00 / 1000 GB~~ | ~~Null~~ | ~~Null~~ |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli)<br>`*V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
@@ -124,7 +124,7 @@
 | 自由猫 | 移动：广东广州，广东深圳，广东韶关 |
 | 极速云 | 移动：广东广州，广东深圳 |
 | 农夫山泉 | 电信：广东深圳<br>联通：广东深圳<br>移动：广东深圳 |
-| 蜂窝云 | 电信：广东东莞<br>联通：广东佛山<br>移动：广东广州 |
+| 蜂窝云 | 联通：广东佛山<br>移动：广东广州 |
 | M78星云 | 电信：广东东莞<br>联通：广东佛山<br>移动：广东佛山，广州深圳 |
 | 云安云 | 移动：广东佛山 |
 | 兔兔云 | 电信：上海<br>移动：上海，四川成都，广东广州 |
