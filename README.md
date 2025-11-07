@@ -106,6 +106,7 @@
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔥 | 中转 | 1 |  7.80 / 80 GB | 88.00 / 400 GB | Null | 85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>11.23 前有效 |
 | 2023.09.23 | [云安云](https://yay520.com/login/?code=zE8rnA2S)<br>🔥 | 中转 | 1 | 7.00 / 120 GB | 25.00 / 118 GB | Null | 95 折<br>`2025100195`<br>月付套餐可用<br>88 折<br>`2025100188`<br>季 / 半年 / 不限时<br>套餐可用<br>78 折<br>`2025100178`<br>年付套餐可用<br>12.1 前有效 |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`*V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
+| 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | 9 折<br>`灯海浮沉千万愿，一丝一扣缔良缘`<br>所有套餐可用<br>11.16 前有效 |  
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 12.00 / 100 GB | 28.00 / 100 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | 🟨<br>[NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.3 & 1 | 7.50 / 50 GB | 44.90 / 200 GB | Null | Null |
 | 2025.03.07 | [ofoNET](https://q.ofo.baby/#/register?code=q3kx6Xt9) | 中转 | 1 | 15.00 / 100 GB | 39.00 / 100 GB | Null | Null |
@@ -132,6 +133,7 @@
 | M78星云 | 联通：广东深圳，上海，福建厦门<br>移动：广州深圳，广东云浮，四川成都 |
 | 云安云 | 移动：湖北武汉 |
 | 兔兔云 | 电信：上海<br>移动：上海，四川成都，广东广州 |
+| Doriya | 电信：广东深圳，福建泉州，湖北襄阳<br>联通：广东深圳，湖北武汉，湖北襄阳<br>移动：广东深圳，广东东莞，江苏徐州，湖北襄阳 |
 | FlyBit | 电信：广东深圳<br>联通：广东深圳<br>移动：广东深圳 |
 | NyanSS | 移动：广东深圳 |
 | ofoNet | 电信：广东广州<br>联通：广东广州<br>移动：广东广州 |
