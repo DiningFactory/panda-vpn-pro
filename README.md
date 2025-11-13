@@ -99,7 +99,7 @@
 | 2022.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 128.88 / 1024 GB | Null | Null |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 7 折<br>`1111`<br>所有套餐可用<br>11.15 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
-| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 6.8 折<br>`20251111`<br>所有套餐可用<br>11.12 前有效<br><br>8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
+| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli)<br>🔥🔥<br>`*V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5)<br>🔥<br>`V` | 中转 | 0.5 & 1 | 20.00 / 200 GB | 40.00 / 210 GB | Null | 7 折<br>`1111`<br>所有套餐可用<br>11.16 前有效<br><br>充 200 送 30<br>充 500 送 100<br>充 1000 送 300<br>11.16 前有效<br><br>9 折<br>`FW9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔥 | 中转 | 1 |  7.80 / 80 GB | 88.00 / 400 GB | Null | 85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>11.23 前有效 |
@@ -108,8 +108,8 @@
 | 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | 9 折<br>`灯海浮沉千万愿，一丝一扣缔良缘`<br>所有套餐可用<br>11.16 前有效 |  
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 12.00 / 100 GB | 28.00 / 100 GB | 2 GB | 8 折<br>`flybit202511`<br>所有套餐可用<br>11.15 前有效<br><br>9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.3 & 1 | 7.50 / 50 GB | 44.90 / 200 GB | Null | Null |
-| 2025.03.07 | [ofoNET](https://q.ofo.baby/#/register?code=q3kx6Xt9) | 中转 | 1 | 15.00 / 150 GB | 49.00 / 150 GB | Null | 8 折<br>`ofonet8`<br>所有套餐可用<br>11.13 前有效<br><br>充 100 送 8<br>充 200 送 20<br>充 500 送 60<br>充 1000 送 150<br>11.13 前有效 |
-| 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv)<br>`*V` | 直连<br>+ | 0.2 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | 85 折<br>`PoxFH3wy`<br>所有套餐可用<br>11.13 前有效 |
+| 2025.03.07 | [ofoNET](https://q.ofo.baby/#/register?code=q3kx6Xt9) | 中转 | 1 | 15.00 / 150 GB | 49.00 / 150 GB | Null | Null |
+| 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv)<br>`*V` | 直连<br>+ | 0.2 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm)<br>`*VH` | 直连 | 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | Null |
 
 👀 以上所列举的套餐都属于机场中最低价格或者是我觉得比较实惠的，**点击上方链接可以进入各家官网（部分机场官网可能处于被墙的状态，若是进不去可将代理工具切换到全局代理模式。去广告的浏览器插件也可能导致无法访问官网或官网加载缓慢，建议将机场官网加入这类插件的白名单中）查看更多套餐**。套餐的价格偶尔会发生变动，我如果知道了就会进行相应的更新，不一定会及时，但每个月至少会更新一次，具体以官网为主（注意，**由于机场一般都有对接第三方支付**以防止因账户风控而导致用户无法付款等一系列问题，**所以在支付时会产生一定的手续费**，即实际付款的费用会稍高于套餐的“标价”）。“试用”是我自己注册账号时的情况，这部分完全不具有时效性，因为我不可能定期为每个机场注册新账号，请见谅。不过，如果机场跑路，我是肯定会第一时间发通知进行提醒的。另外，初次使用机场的小伙伴可能会发现各家机场官网的界面都很相似，请不要误以为全是同一个老板开的，这是很正常的，因为机场的页面基本都是用了相同的开源项目，比如 `v2board`（但是确实有一些老板会同时开多家机场，在我知情的情况下，我是一定不会推同一老板的多家机场的，因为这些机场有同时跑路的风险。当然，不是说开多家机场这个行为一定是不好的，毕竟有些老板单纯只是为了分为不同的线路）。机场界面的美观与否，与机场质量的好坏也是没有任何关系的，不要看到美观的界面就产生“这个老板一定很用心！一定不会跑路！我要狠狠年付！”的想法，这就好比一个装修华丽的餐厅，它的食物一定美味与健康吗？答案显然是否定的。
