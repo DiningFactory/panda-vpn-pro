@@ -94,7 +94,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~~2019.03.17~~ | 🟨<br>~~[SAC](https://sachk.189.cam/)~~<br>大概率已跑路 | ~~中转~~ | ~~1 & 1.3~~ | ~~9.99 / 100 GB~~ | ~~199.99 / 1000 GB~~ | ~~Null~~ | ~~Null~~ |
 | 2019.08.15 | [壹速云](https://www.onesy1.cc/auth/register?code=R4Lm) | 中转 | 1 | 10.90 / 150 GB | 188.00 / 1000 GB | Null | Null |
-| 2020.04.22 | [次元雲](https://ciyy.me/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 85.00 / 500 GB | Null | 85 折<br>`20251111`<br>部分周期套餐可用<br>短期内有效 |
+| 2020.04.22 | [次元雲](https://ciyy.me/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 85.00 / 500 GB | Null | Null |
 | 2022.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 128.88 / 1024 GB | Null | Null |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
