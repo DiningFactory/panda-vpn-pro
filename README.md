@@ -103,7 +103,7 @@
 | 2022.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 18.88 / 128 GB | Null | Null |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
-| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
+| 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 6.8 折<br>`20251212`<br>所有套餐可用<br>12.12 前有效<br><br>8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
 | 2023.05.01 | [农夫山泉](https://www.nfsq.us/#/register?code=HvoPMFli)<br>🔥🔥<br>`*V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5)<br>🔥<br>`V` | 中转 | 0.5 & 1 | 20.00 / 200 GB | 40.00 / 210 GB | Null | 8 折<br>`1212`<br>所有套餐可用<br>7 折<br>`Y1212`<br>年付套餐可用<br>12.15 前有效<br><br>`FW9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔥<br>`V` | 中转 | 1 |  7.80 / 80 GB | 99.00 / 400 GB | Null | Null |
@@ -112,7 +112,7 @@
 | 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | Null |  
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 12.00 / 100 GB | 28.00 / 100 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 1 | 7.50 / 50 GB | 44.90 / 200 GB | Null | Null |
-| 2025.03.07 | [ofoNET](https://q.ofo.baby/#/register?code=q3kx6Xt9) | 中转 | 1 | 15.00 / 150 GB | 49.00 / 150 GB | Null | 8 折<br>`ofonet8`<br>所有套餐可用<br>12.8 前有效 |
+| 2025.03.07 | [ofoNET](https://q.ofo.baby/#/register?code=q3kx6Xt9) | 中转 | 1 | 15.00 / 150 GB | 49.00 / 150 GB | Null | 8 折<br>`ofonet8`<br>所有套餐可用<br>短期有效 |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv)<br>`*V` | 直连<br>+ | 0.5 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm)<br>`*VH` | 直连 | 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | Null |
 
