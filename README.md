@@ -102,7 +102,7 @@
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`*V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | 9 折<br>`历添新岁月，春满旧山河。`<br>所有套餐可用<br>1.19 前有效 |  
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
-| 2024.08.14 | [NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 1 | 7.50 / 50 GB | 44.90 / 200 GB | Null | Null |
+| 2024.08.14 | [NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.3 & 1 | 7.50 / 50 GB | 44.90 / 200 GB | Null | Null |
 | 2025.03.07 | [ofoNET](https://ofokc.com/#/register?code=q3kx6Xt9) | 中转 | 1 | 15.00 / 150 GB | 49.00 / 150 GB | Null | Null |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv)<br>`*V` | 直连<br>+ | 0.5 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm)<br>`*VH` | 直连 | 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | Null |
@@ -117,18 +117,18 @@
 
 | 机场 | 入口运营商及地区 |
 | :---: | :---: |
-| 壹速云 | 电信：广东深圳，广东东莞<br>移动：广东深圳 |
-| 次元雲 | 电信：福建泉州<br>移动：广东广州 |
-| Metcha | 电信：广东东莞<br>联通：广东佛山<br>移动：广东揭阳，广东江门 |
-| 自由猫 | 移动：广东深圳，广东广州 |
-| 农夫山泉 | 电信：广东广州<br>联通：广东佛山<br>移动：广东汕尾 |
+| 壹速云 | 电信：广东东莞 |
+| 次元雲 | 移动：广东广州 |
+| Metcha | 电信：广东深圳，广东东莞<br>联通：广东深圳<br>移动：广东广州，广东汕尾 |
+| 自由猫 | 移动：广东广州 |
+| 农夫山泉 | 电信：广东东莞<br>联通：广东佛山<br>移动：广东揭阳 |
 | 蜂窝云 | 电信：广东东莞<br>联通：广东广州<br>移动：广东深圳 |
-| M78星云 | 电信：广东东莞<br>联通：广东广州<br>移动：广州广州，广东深圳 |
-| 兔兔云 | 移动：广东广州，吉林，四川 |
-| Doriya | 电信：湖北襄阳，福建泉州<br>联通：湖北襄阳<br>移动：湖北襄阳，广东深圳，广东广州 |
-| FlyBit | 电信：广东深圳<br>联通：广东深圳<br>移动：广东深圳，广东广州 |
-| NyanSS | 移动：广东广州，广东深圳 |
-| ofoNet | 电信：福建泉州<br>移动：山东济南 |
+| M78星云 | 电信：广东广州<br>移动：广州广州 |
+| 兔兔云 | 移动：广东广州，吉林 |
+| Doriya | 电信：福建泉州<br>移动：广东深圳，广东广州 |
+| FlyBit | 电信：广东深圳<br>联通：广东深圳<br>移动：广东广州 |
+| NyanSS | 移动：广东广州 |
+| ofoNet | 电信：广东广州<br>移动：山东济南 |
 
 ---
 
