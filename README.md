@@ -90,7 +90,7 @@
 
 | 开业日期 | 机场官网 | 类型 | 倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2019.08.15 | [壹速云](https://www.onesy1.cc/auth/register?code=R4Lm) | 中转 | 1 | 10.90 / 150 GB | 39.00 / 200 GB | Null | Null |
+| 2019.08.15 | [壹速云](https://www.onesy1.cc/auth/register?code=R4Lm) | 中转 | 1 | 10.90 / 150 GB | 188.00 / 1000 GB | Null | Null |
 | 2020.04.22 | [次元雲](https://ciyy.one/#/register?code=tsL8Me6h) | 中转 | 1 | 10.00 / 128 GB | 85.00 / 520 GB | Null | Null |
 | 2022.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj) | 中转 | 1 | 9.88 / 128 GB | 258.88 / 1024 GB | Null | Null |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
