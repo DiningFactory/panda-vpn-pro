@@ -103,7 +103,7 @@
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5)<br>🔥<br>`V` | 中转 | 0.5 & 1 | 20.00 / 200 GB | 40.00 / 210 GB | Null | 7 折<br>`2026`<br>周期套餐可用<br>8 折<br>`2026A`<br>不限时套餐可用<br>2.28 前有效<br><br>充 200 送 30<br>充 500 送 100<br>充 1000 送 300<br>2.28 前有效<br><br>9 折<br>`FW9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔥<br>`V` | 中转 | 1 |  7.80 / 80 GB | 99.00 / 400 GB | Null | 85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>2.28 前有效 |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`*V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
-| 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | Null |  
+| 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | 8.8 折<br>`劝君今夕不须眠。且满满，泛觥船。大家沉醉对芳筵。愿新年，胜旧年。`<br>所有套餐可用<br>2.26 前有效 |  
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.3 & 1 | 7.50 / 50 GB | 44.90 / 200 GB | Null | Null |
 | 2025.03.07 | [ofoNET](https://ofonet.net/#/register?code=q3kx6Xt9)<br>🔥🔑 | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | Null | 8 折<br>`ofonet2026`<br>所有套餐可用<br>2.22 前有效 |
