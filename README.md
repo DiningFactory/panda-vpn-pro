@@ -106,7 +106,7 @@
 | 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | 8.8 折<br>`劝君今夕不须眠。且满满，泛觥船。大家沉醉对芳筵。愿新年，胜旧年。`<br>所有套餐可用<br>2.26 前有效 |  
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.3 & 1 | 7.50 / 50 GB | 44.90 / 200 GB | Null | Null |
-| 2025.03.07 | [ofoNET](https://ofonet.net/#/register?code=q3kx6Xt9)<br>🔥🔑 | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | Null | 8 折<br>`ofonet2026`<br>所有套餐可用<br>2.22 前有效 |
+| 2025.03.07 | [ofoNET](https://ofonet.net/#/register?code=q3kx6Xt9)<br>🔥🔑 | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | Null | Null |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv)<br>`*V` | 直连<br>+ | 0.5 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | 85 折<br>`MdAoVhjp`<br>所有套餐可用<br>3.3 前有效 |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm)<br>`*VH` | 直连 | 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | Null |
 
