@@ -13,6 +13,7 @@
 - 🗓️ 2026.02.11 🗓️ `ofoNET` 的用户请注意，该机场已启用“阅后即焚”模式，我已在机场列表添加 🔥 标识，此通知将于 2.28 删除。🗓️ 2026.02.15 🗓️ 该机场目前对“阅后即焚”的机制进行了修改。依然为阅后即焚，但是如果使用的是该机场的节点，那么可以随意更新订阅。我已将标识修改为 🔥🔑（机场列表上方也已新增该标识的说明）。
 - 🗓️ 2026.02.27 🗓️ `Doria` 的用户请注意，受通报影响，该机场目前大部分节点都处于不可用的状态，不用过于担心，等待修复即可。此通知将于恢复后删除。
 - 🗓️ 2026.02.27 🗓️ `M78星云` 的用户请注意，该机场目前几乎所有节点都处于不可用的状态，原因未知，暂无太大跑路风险，等待修复即可。
+- 🗓️ 2026.02.27 🗓️ `农夫山泉` 的用户请注意，该机场目前所有节点都处于不可用的状态，原因未知，暂无太大跑路风险，等待修复即可。
 
 ---
 
@@ -101,7 +102,7 @@
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 75 折<br>`新年好`<br>所有套餐可用<br>2.28 前有效 |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
-| 2023.05.01 | [农夫山泉](https://www.nfsqttt.com/#/register?code=HvoPMFli)<br>🔥🔥<br>`*V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
+| 2023.05.01 | 🟨<br>[农夫山泉](https://www.nfsqttt.com/#/register?code=HvoPMFli)<br>🔥🔥<br>`*V` | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5)<br>🔥<br>`V` | 中转 | 0.5 & 1 | 20.00 / 200 GB | 40.00 / 210 GB | Null | 7 折<br>`2026`<br>周期套餐可用<br>8 折<br>`2026A`<br>不限时套餐可用<br>2.28 前有效<br><br>充 200 送 30<br>充 500 送 100<br>充 1000 送 300<br>2.28 前有效<br><br>9 折<br>`FW9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.12 | 🟨<br>[M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔥<br>`V` | 中转 | 1 |  7.80 / 80 GB | 99.00 / 400 GB | Null | 85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>2.28 前有效 |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`*V` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
