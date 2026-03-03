@@ -159,7 +159,7 @@
 |操作系统|代理软件|
 | :---: | :---: |
 | Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Clash Party`，`Karing`，`Fly Clash`，`Clash Mi`，`GUI For SingBox`，`Sparkle`，`AnyPortal`，`Pandora Box`，`Throne`，`Pantheon`，`vproxy` |
-| Mac | `Clash for Windows`，`ClashX`，`ClashX Pro`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2rayU`，`sing-box`，`Stash`，`Surge`，`Quantumult X`，`Hiddify`，`Qv2ray`，`Streisand`，`Clash Party`，`Karing`，`Clash Mi`，`Sparkle`，`ClashMac`，`AnyPortal`，`AnyPortal`，`Pandora Box`，`LanceX`，`vproxy` |
+| Mac | `Clash for Windows`，`ClashX`，`ClashX Pro`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2rayU`，`sing-box`，`Stash`，`Surge`，`Quantumult X`，`Hiddify`，`Qv2ray`，`Streisand`，`Clash Party`，`Karing`，`Clash Mi`，`Sparkle`，`ClashMac`，`AnyPortal`，`Pandora Box`，`LanceX`，`vproxy` |
 | Linux | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Dae`，`Daed`，`Clash Party`，`GUI For SingBox`，`Sparkle`，`AnyPortal`，`Pantheon` |
 | Android | `Clash for Android`，`Clash Meta for Android`，`FlClash`，`Surfboard`，`SagerNet`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify`，`Karing`，`Fly Clash`，`Clash Mi`，`AnyPortal`，`vproxy`，`V2Box` |
 | iOS | `Shadowrocket`，`One Click`，`sing-box`，`Surge`，`Quantumult`，`Quantumult X`，`Loon`，`Hiddify`，`Egern`，`Potatso Lite`，`Choc`，`Foxray`，`Streisand`，`Karing`，`Clash Mi`，`LanceX`，`HAPP`，`OneXray`，`vproxy` |
