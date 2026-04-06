@@ -104,7 +104,7 @@
 | 2020.04.22 | [次元雲](https://ciyy.one/#/register?code=tsL8Me6h)<br>`V` | 中转 | 1 | 17.00 / 256 GB | 90.00 / 520 GB | Null | Null |
 | 2022.09.01 | [Metcha](https://ww1.638242.xyz/#/register?code=MzTl1fEj)<br>📜<br>暂时封车 | 中转 | 1 | 9.88 / 128 GB | 258.88 / 1024 GB | Null | Null |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe)<br>`*VH` | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
-| 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 7.9 折<br>`杨柳依依`<br>所有套餐可用<br>4.6 前有效 |
+| 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
 | 2023.02.03 | 🟨<br>[自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
 | 2023.05.01 | 🟨<br>[农夫山泉](https://qqq.nfsqttt.com/#/register?code=HvoPMFli)<br>🔒 | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | Null | Null |
 | 2023.07.01 | 🟨<br>[蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5) | 直连 | 0.5 & 1 | 20.00 / 200 GB | Null | Null | 8 折<br>`QM2026`<br>所有套餐可用<br>4.13 前有效<br><br>9 折<br>`FW9`<br>所有套餐可用<br>长期有效 |
@@ -113,7 +113,7 @@
 | 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | Null |  
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.08.14 | [NyanSS](https://dash.nyanss20250507.lat/register?code=dfsKFF7s) | 中转 | 0.5 & 1 | 7.50 / 50 GB | 44.90 / 200 GB | Null | Null |
-| 2025.03.07 | [ofoNET](https://ofotw.org/#/register?code=q3kx6Xt9)<br>🔥🔑 | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | Null | Null |
+| 2025.03.07 | [ofoNET](https://ofotw.org/#/register?code=q3kx6Xt9) | 中转 | 1 | 9.90 / 200 GB | 55.88 / 384 GB | Null | Null |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv)<br>`*V` | 直连<br>+ | 0.5 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm)<br>`*VH` | 直连 | 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | Null |
 
