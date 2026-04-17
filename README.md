@@ -108,7 +108,7 @@
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh)<br>`*VH` | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
 | 2023.02.03 | 🟨<br>[自由猫](https://us.freecat.cloud/register?code=8S3V1vsr) | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
 | ~~2023.05.01~~ | 🟨<br>~~[农夫山泉](https://qqq.nfsqttt.com/#/register?code=HvoPMFli)~~<br>🔒<br>暂停推荐 | ~~中转~~ | ~~1~~ | ~~8.00 / 200 GB~~ | ~~15.00 / 200 GB~~ | ~~Null~~ | ~~Null~~ |
-| 2023.07.01 | 🟨<br>[蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5)<br>🔒<br>📜 | 中转 | 0.5 & 1 | 20.00 / 200 GB | Null | Null | 8 折<br>`QM2026`<br>所有套餐可用<br>4.13 前有效<br><br>9 折<br>`FW9`<br>所有套餐可用<br>长期有效 |
+| 2023.07.01 | 🟨<br>[蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5)<br>🔒<br>📜 | 中转 | 0.5 & 1 | 20.00 / 200 GB | Null | Null | 9 折<br>`FW9`<br>所有套餐可用<br>长期有效 |
 | 2023.09.12 | 🟨<br>[M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔒<br>📜 | 中转 | 1 |  7.80 / 80 GB | 99.00 / 400 GB | Null | Null |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs)<br>`*VH` | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.12 | [Doriya](https://dash.rtx.al/#/register?code=hAlv337j)<br>`V` | 中转 | 1 | 8.00 / 100 GB | Null | Null | Null |  
@@ -177,8 +177,8 @@
 |操作系统|代理软件|
 | :---: | :---: |
 | Windows | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Clash Party`，`Karing`，`Fly Clash`，`Clash Mi`，`GUI For SingBox`，`Sparkle`，`AnyPortal`，`Pandora Box`，`Throne`，`Pantheon`，`vproxy` |
-| Mac | `Clash for Windows`，`ClashX`，`ClashX Pro`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2rayU`，`sing-box`，`Stash`，`Surge`，`Quantumult X`，`Hiddify`，`Qv2ray`，`Streisand`，`Clash Party`，`Karing`，`Clash Mi`，`Sparkle`，`ClashMac`，`AnyPortal`，`Pandora Box`，`LanceX`，`vproxy` |
-| Linux | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Dae`，`Daed`，`Clash Party`，`GUI For SingBox`，`Sparkle`，`AnyPortal`，`Pantheon` |
+| Mac | `Clash for Windows`，`ClashX`，`ClashX Pro`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2rayN`，`sing-box`，`Stash`，`Surge`，`Quantumult X`，`Hiddify`，`Qv2ray`，`Streisand`，`Clash Party`，`Karing`，`Clash Mi`，`Sparkle`，`ClashMac`，`AnyPortal`，`Pandora Box`，`LanceX`，`vproxy` |
+| Linux | `Clash for Windows`，`Clash Verge`，`Clash Verge Rev`，`Clash Nyanpasu`，`FlClash`，`V2ranN`，`Nekoray`，`sing-box`，`Hiddify`，`Qv2ray`，`Dae`，`Daed`，`Clash Party`，`GUI For SingBox`，`Sparkle`，`AnyPortal`，`Pantheon` |
 | Android | `Clash for Android`，`Clash Meta for Android`，`FlClash`，`Surfboard`，`SagerNet`，`V2rayNG`，`NekoBox`，`sing-box`，`Matsuri`，`Hiddify`，`Karing`，`Fly Clash`，`Clash Mi`，`AnyPortal`，`vproxy`，`V2Box` |
 | iOS | `Shadowrocket`，`One Click`，`sing-box`，`Surge`，`Quantumult`，`Quantumult X`，`Loon`，`Hiddify`，`Egern`，`Potatso Lite`，`Choc`，`Foxray`，`Streisand`，`Karing`，`Clash Mi`，`LanceX`，`HAPP`，`OneXray`，`vproxy`，`V2Box` |
 | HarmonyOS NEXT | `ClashBox` |
