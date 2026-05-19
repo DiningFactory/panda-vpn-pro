@@ -121,7 +121,7 @@
 | 开业日期 | 机场官网 | 类型 | 倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.08.15 | 🟨<br>[壹速云](https://www.onesy1.cc/auth/register?code=R4Lm)<br>`*A`<br>📜 | 中转 | 1 | 10.90 / 150 GB | 188.00 / 1000 GB | Null | Null |
-| 2020.04.22 | [次元雲](https://ciyy.one/#/register?code=tsL8Me6h)<br>`A` | 中转 | 1 | 10.00 / 128 GB | 99.00 / 520 GB | Null | 9 折<br>`ciyy-999`<br>季付套餐可用<br>8 折<br>`ciyy-80`<br>年付套餐可用<br>9 折<br>`9999`<br>不限时套餐可用<br>短期有效 |
+| 2020.04.22 | [次元雲](https://ciyy.one/#/register?code=tsL8Me6h)<br>`A` | 中转 | 1 | 10.00 / 128 GB | 99.00 / 520 GB | Null | 9 折<br>`ciyy-999`<br>季付套餐可用<br>8 折<br>`ciyy-80`<br>年付套餐可用<br>短期有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe) | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr)<br>🔒 | 中转 | 1 | 9.00 / 100 GB | 50.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
