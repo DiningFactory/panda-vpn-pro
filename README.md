@@ -119,7 +119,7 @@
 
 | 开业日期 | 机场官网 | 类型 | 倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2019.08.15 | [壹速云](https://www.onesy1.cc/auth/register?code=R4Lm)<br>`*A`<br>📜 | 中转 | 1 | 10.90 / 150 GB | 188.00 / 1000 GB | Null | Null |
+| 2019.08.15 | [壹速云](https://www.onesy1.cc/auth/register?code=R4Lm)<br>`*A` | 中转 | 1 | 19.90 / 100 GB | 188.00 / 1000 GB | Null | Null |
 | 2020.04.22 | [次元雲](https://ciyy.one/#/register?code=tsL8Me6h)<br>`A` | 中转 | 1 | 17.00 / 158 GB | Null | Null | Null |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe) | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | 75 折<br>`端午`<br>所有套餐可用<br>6.21 前有效 |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | 85 折<br>`DW`<br>大部分套餐可用<br>6.22 前有效 |
@@ -133,14 +133,12 @@
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1)<br>`*A` | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | Null |
 | 2024.08.14 | 🟨<br>[NyanSS](https://billing.nyanss001.top/register?code=dfsKFF7s)<br>`*A` | 中转 | 1 | 7.50 / 50 GB | 25.00 / 100 GB | Null | Null |
 | 2025.03.07 | [ofoNET](https://ofotw.org/#/register?code=q3kx6Xt9)<br>`A` | 中转 | 1 | 12.87 / 200 GB | Null | Null | Null |
-| 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv) | 直连<br>+ | 0.2 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | Null |
+| 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv) | 直连<br>+ | 0.2 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | 85 折<br>`pJK53ZBy`<br>所有套餐可用<br>6.23 前有效 |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | 75 折<br>`LXY`<br>所有套餐可用<br>6.22 前有效 |
 | 2026.05.01 | [happy猫](https://www.laocunzhang.net/#/register?code=jj7YELQj)<br>🔥🔥 | 中转 | 1 | 9.90 / 200 GB | 19.90 / 200 GB | Null | Null |
 
 📜 附加说明：
 
-- 壹速云：
-     - 限制每日新注册人数，具体数量未知，如当日以达上限，点击上方链接进入官网后会有相关提示。
 - 鱼鱼：
      - 一家爱折腾协议的机场，适合同样爱折腾的用户。如果介意协议变来变去，或者不喜欢尝试新协议，请勿购买。
 - 蜂窝云：
