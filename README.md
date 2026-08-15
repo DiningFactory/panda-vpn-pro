@@ -121,13 +121,13 @@
 | 开业日期 | 机场官网 | 类型 | 倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.08.15 | 🟨<br>[壹速云](https://www.onesy1.cc/auth/register?code=R4Lm)<br>`*A`<br>📜 | 中转 | 1 | 19.90 / 100 GB | 188.00 / 1000 GB | Null | Null |
-| 2020.04.22 | [次元雲](https://ciyy.one/#/register?code=tsL8Me6h)<br>`A` | 中转 | 1 | 17.00 / 158 GB | 125.00 / 520 GB | Null | 7 折<br>`ciyy77`<br>大部分套餐可用<br> 8.20 前有效<br><br>6.8 折<br>`ciyy7777`<br>不限时套餐可用<br>限量 30 份 |
+| 2020.04.22 | [次元雲](https://ciyy.one/#/register?code=tsL8Me6h)<br>`A` | 中转 | 1 | 17.00 / 158 GB | 125.00 / 520 GB | Null | 7 折<br>`ciyy77`<br>大部分套餐可用<br> 8.20 前有效 |
 | 2022.11.06 | [赔钱机场](https://xn--mes358aby2apfg.com/#/register?code=e3c70bPe) | 直连 | 0.01 & 1 | 2.99 / 500 GB | 18.90 / 1000 GB | Null | Null |
 | 2022.12.07 | [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=ziP4woeh) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 19.88 / 1000 GB | Null | Null |
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr)<br>🔒 | 中转 | 1 | 12.00 / 100 GB | 65.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
 | 2023.05.01 | [农夫山泉](https://w05.nfsqweba01.cc/#/register?code=HvoPMFli)<br>🔒 | 中转 | 1 | 15.00 / 200 GB | 45.00 / 200 GB | Null | Null |
 | 2023.07.01 | 🟨<br>[蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5)<br>🔥<br>📜 | 中转 | 1 | 20.00 / 200 GB | Null | Null | 7 折<br>`IEPLerror`<br>所有套餐可用<br>长期有效 |
-| 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔒<br>📜 | 中转 | 1 |  12.80 / 150 GB | 99.00 / 300 GB | Null | Null |
+| 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔒<br>📜 | 中转 | 1 |  12.80 / 150 GB | 99.00 / 300 GB | Null | 85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>9.7 前有效 |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs) | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | Null |
 | 2024.08.14 | [NyanSS](https://billing.nyanss001.top/register?code=dfsKFF7s)<br>`*A` | 中转 | 0.1 & 1 | 7.50 / 50 GB | 25.00 / 100 GB | Null | Null |
