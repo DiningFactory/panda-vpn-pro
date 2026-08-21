@@ -130,7 +130,7 @@
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs) | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.18 | [FlyBit](https://flybit.vip/#/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | Null |
 | 2024.08.14 | [NyanSS](https://billing.nyanss001.top/register?code=dfsKFF7s)<br>`*A` | 中转 | 0.1 & 0.2 | 7.50 / 50 GB | 25.00 / 100 GB | Null | Null |
-| 2024.12.02 | [飞喵云](https://www.fmyun.top/#/register?code=P0x5UOU4)<br>`*A` | 中转 | 1 | 9.88 / 100 GB | 25.00 / 100 GB | Null | 7 折<br>`七夕快乐`<br>所有套餐可用<br>7.25 前有效 |
+| 2024.12.02 | [飞喵云](https://www.fmyun.top/#/register?code=P0x5UOU4)<br>`*A` | 中转 | 1 | 9.88 / 100 GB | 25.00 / 100 GB | Null | 7 折<br>`七夕快乐`<br>所有套餐可用<br>8.25 前有效 |
 | 2025.03.07 | [ofoNET](https://ofotw.org/#/register?code=q3kx6Xt9)<br>`*A` | 中转 | 1 | 12.87 / 200 GB | Null | Null | Null |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv) | 直连<br>+ | 0.01 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | 75 折<br>`甜蜜七夕`<br>所有套餐可用<br>8.22 前有效 |
