@@ -133,9 +133,9 @@
 | 2024.08.14 | 🟨<br>[NyanSS](https://billing.nyanss001.top/register?code=dfsKFF7s)<br>`*A` | 中转 | 0.1 & 0.2 | 7.50 / 50 GB | 25.00 / 100 GB | Null | Null |
 | 2024.12.02 | [飞喵云](https://www.fmyun.top/#/register?code=P0x5UOU4)<br>`*A` | 中转 | 1 | 9.88 / 100 GB | 25.00 / 100 GB | Null | Null |
 | 2025.03.07 | [ofoNET](https://ofotw.org/#/register?code=q3kx6Xt9)<br>`*A` | 中转 | 1 | 12.87 / 200 GB | Null | Null | Null |
-| 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv) | 直连<br>+ | 0.01 & 1 | 6.00 / 50 GB | Null | 7 days<br>极少节点 | Null |
+| 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv) | 直连<br>+ | 0.01 & 1 | 7.50 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | Null |
-| 2026.03.16 | [念云](https://xnyun.wiki/#/register?code=XolDyb7C) | 直连<br>+ | 0.01 & 1 | 12.00 / 150 GB | Null | Null | Null |
+| 2026.03.16 | [念云](https://xnyun.wiki/#/register?code=XolDyb7C) | 直连<br>+ | 0.01 & 1 | 12.00 / 150 GB | 89.00 / 1000 GB | Null | Null |
 | 2026.05.01 | [happy猫](https://www.happymao.cat/#/register?code=jj7YELQj)<br>`*A`<br>🔥🔥 | 中转 | 1 | 9.90 / 200 GB | 19.90 / 200 GB | Null | Null |
 
 📜 附加说明：
