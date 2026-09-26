@@ -137,7 +137,7 @@
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv) | 直连<br>+ | 0.01 & 1 | 7.50 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | 7 折<br>`中秋节LXY`<br>所有套餐可用<br>9.27 前有效 |
 | 2026.03.16 | [念云](https://xnyun.wiki/#/register?code=XolDyb7C) | 直连<br>+ | 0.01 & 1 | 12.00 / 150 GB | 89.00 / 1000 GB | Null | 8 折<br>`中秋安康`<br>大部分周期套餐可用<br>10.1 前有效 |
-| 2026.05.01 | [happy猫](https://www.happymao.cat/#/register?code=jj7YELQj)<br>`*A`<br>🔥🔥 | 中转 | 1 | 9.90 / 200 GB | 19.90 / 200 GB | Null | Null |
+| 2026.05.01 | [happy猫](https://www.happymao.cat/#/register?code=jj7YELQj)<br>`*A`<br>🔥🔥 | 中转 | 1 | 9.90 / 200 GB | 19.90 / 200 GB | Null | 8 折<br>`happymao2026`<br>所有套餐可用<br>9.28 前有效 |
 
 📜 附加说明：
 
