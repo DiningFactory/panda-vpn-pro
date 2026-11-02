@@ -129,7 +129,7 @@
 | 2023.02.03 | [自由猫](https://us.freecat.cloud/register?code=8S3V1vsr)<br>🔒 | 中转 | 1 | 12.00 / 100 GB | 65.00 / 500 GB | Null | 8 折<br>`FREECAT`<br>所有套餐可用<br>限用一次<br>长期有效 |
 | ~~2023.05.01~~ | 🟨<br>[~~农夫山泉~~](https://w05.nfsqweba01.cc/#/register?code=HvoPMFli)<br>🔒 | ~~中转~~ | ~~1~~ | ~~15.00 / 200 GB~~ | ~~45.00 / 200 GB~~ | ~~Null~~ | ~~Null~~ |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.life/auth/register?code=DZzGx5)<br>`A`<br>📜 | 中转 | 1 | 20.00 / 200 GB | Null | Null | 7 折<br>`IEPLerror`<br>所有套餐可用<br>长期有效 |
-| 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔒<br>📜 | 中转 | 1 |  12.80 / 150 GB | 99.00 / 300 GB | Null | Null |
+| 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔒<br>📜 | 中转 | 1 |  12.80 / 150 GB | 99.00 / 300 GB | Null | 85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>11.16 前有效 |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs) | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.18 | [FlyBit](https://goflybit.com/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.12.02 | [飞喵云](https://www.fmyun.top/#/register?code=P0x5UOU4)<br>`*A` | 中转 | 1 | 9.88 / 100 GB | 25.00 / 100 GB | Null | Null |
