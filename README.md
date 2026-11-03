@@ -132,7 +132,7 @@
 | 2023.09.12 | [M78星云](https://m78star.cloud/#/register?code=7IWr2dOP)<br>🔒<br>📜 | 中转 | 1 |  12.80 / 150 GB | 99.00 / 300 GB | Null | 85 折<br>`season85`<br>季付套餐可用<br>82 折<br>`halfyear82`<br>半年付套餐可用<br>8 折<br>`year80`<br>年付套餐可用<br>11.16 前有效 |
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs) | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.18 | [FlyBit](https://goflybit.com/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
-| 2024.12.02 | [飞喵云](https://www.fmyun.top/#/register?code=P0x5UOU4)<br>`*A` | 中转 | 1 | 9.88 / 100 GB | 25.00 / 100 GB | Null | Null |
+| 2024.12.02 | [飞喵云](https://www.fmyun.top/#/register?code=P0x5UOU4)<br>`*A` | 中转 | 1 | 9.88 / 100 GB | 25.00 / 100 GB | Null | 8 折<br>`双十一`<br>所有套餐可用<br>11.12 前有效 |
 | 2025.03.07 | [ofoNET](https://ofotw.org/#/register?code=q3kx6Xt9)<br>`*A` | 中转 | 1 | 12.87 / 150 GB | Null | Null | Null |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv) | 直连<br>+ | 0.01 & 1 | 7.50 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | Null |
