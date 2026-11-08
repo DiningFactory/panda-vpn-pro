@@ -133,7 +133,7 @@
 | 2024.03.01 | [兔兔云](https://www.tutuyun.uk/auth/register?code=QKEtXiLs) | 中转 | 1 | 11.88 / 140 GB | 18.00 / 60 GB | 12 hours | Null |
 | 2024.07.18 | [FlyBit](https://goflybit.com/register?code=HpHWTZX1) | 中转 | 1 | 15.00 / 128 GB | 36.00 / 128 GB | 2 GB | 9 折<br>`flybit`<br>所有套餐可用<br>长期有效 |
 | 2024.12.02 | [飞喵云](https://www.fmyun.top/#/register?code=P0x5UOU4)<br>`*A` | 中转 | 1 | 9.88 / 100 GB | 25.00 / 100 GB | Null | 8 折<br>`双十一`<br>所有套餐可用<br>11.12 前有效 |
-| 2025.03.07 | [ofoNET](https://ofotw.org/#/register?code=q3kx6Xt9)<br>`*A` | 中转 | 1 | 12.87 / 150 GB | Null | Null | Null |
+| 2025.03.07 | [ofoNET](https://ofotw.org/#/register?code=q3kx6Xt9)<br>`*A` | 中转 | 1 | 12.87 / 150 GB | Null | Null | 85 折<br>`SHUANG11`<br>所有套餐可用<br>11.14 前有效 |
 | 2025.03.14 | [iNetS](https://inets.io/#/register?code=YVUGJDrv) | 直连<br>+ | 0.01 & 1 | 7.50 / 50 GB | Null | 7 days<br>极少节点 | Null |
 | 2025.03.18 | [良心云](https://xn--9kqz23b19z.com/#/register?code=61Ysg3dm) | 直连 | 0.1 & 1 | 2.00 / 100 GB | 21.00 / 1000 GB | Null | 75 折<br>`双十一LXY`<br>所有套餐可用<br>11.13 前有效 |
 | 2026.03.16 | [念云](https://xnyun.wiki/#/register?code=XolDyb7C) | 直连<br>+ | 0.01 & 1 | 12.00 / 150 GB | 89.00 / 1000 GB | Null | Null |
@@ -146,6 +146,7 @@
      - 仍支持订阅，但使用官方客户端体验会好一些，因为官方客户端比常规订阅多了少部分私有协议的节点。
 - 次元雲：
      - 目前已没有 100 GB 左右的月付套餐，平常用量不大的不推荐购买。
+     - 目前已暂时关闭注册。
 - 蜂窝云：
      - 在导入订阅链接时，如果你所使用的代理工具是 `V2rayN` 或 `V2rayNG`，那么，需要导入两个链接才能获取所有直连节点，即官网的“复制 V2ray 订阅”和“复制 V2ray-VLESS 订阅”。电脑端的 `v2rayN` 自带合并多个订阅链接的功能，首先，在“url”旁边的输入框填上其中一个订阅链接，之后，点击输入框旁边的“三个点”（版本如果极其老旧则没有这个功能，建议更新至新版本），会弹出一个新的输入框，在这个新的输入框中填上另一个链接即可（若想合并三个及以上的链接，则用“英文的逗号”隔开这些链接）。当然，也可以分别导入两个链接，当成两个“分组”。而移动端的 `V2rayNG` 截至目前（2026.04.13）的最新版本（`v2.0.18`）仍不支持该功能，只能分别导入。
 - M78星云：
